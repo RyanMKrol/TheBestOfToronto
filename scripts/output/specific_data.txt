@@ -1,18 +1,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-<title>The Best Guacamole in Toronto</title>
-<meta name="keywords" content="guacamole,toronto">
-<meta name="description" content="The best guacamole in Toronto is a deceivingly simple dish. While soft, ripe avocado and a squirt of lime juice is essential, everything else is not - great guac needs little else, though the addition of cilantro, onions, and tomato are often welcome. Here is the best guacamole in Toronto....">
+<title>The Best Poutine in Toronto</title>
+<meta name="keywords" content="poutine,toronto,best">
+<meta name="description" content="The best poutine in Toronto takes three humble, basic ingredients - fries, cheese curds, and gravy - and transmutes them into sloppy, melty, drunk-food magic. The Quebecois staple has become a bona fide food trend here in the city, colliding with everything from chicken wings to Japanese food to pizza....">
 <meta property="fb:app_id" content="100616073343311">
 <meta property="og:type" content="article">
-<meta property="og:title" content="The Best Guacamole in Toronto">
-<meta property="og:url" content="http://www.blogto.com/toronto/the_best_guacamole_in_toronto/" />
-<meta property="og:image" content="http://www.blogto.com/upload/2015/12/20140116-guacamole-toronto.jpg">
+<meta property="og:title" content="The Best Poutine in Toronto">
+<meta property="og:url" content="http://www.blogto.com/toronto/the_best_poutine_in_toronto/" />
+<meta property="og:image" content="http://www.blogto.com/upload/2014/11/20141117-poutine-toronto.jpg">
 <meta property="og:site_name" content="blogTO">
-<meta property="og:description" content="The best guacamole in Toronto is a deceivingly simple dish. While soft, ripe avocado and a squirt of lime juice is essential, everything else is not - great guac needs little else, though the addition of cilantro, onions, and tomato are often welcome. Here is the best guacamole in Toronto....">
+<meta property="og:description" content="The best poutine in Toronto takes three humble, basic ingredients - fries, cheese curds, and gravy - and transmutes them into sloppy, melty, drunk-food magic. The Quebecois staple has become a bona fide food trend here in the city, colliding with everything from chicken wings to Japanese food to pizza....">
 
-<meta name='parsely-page' content='{"title":"The Best Guacamole in Toronto","link":"http:\/\/www.blogto.com\/toronto\/the_best_guacamole_in_toronto\/","image_url":"http:\/\/www.blogto.com\/upload\/2015\/12\/20140116-guacamole-toronto.jpg","type":"post","post_id":"48381","pub_date":"2015-12-28T12:45:00Z","section":"Best of Toronto","author":"Liora Ipsum"}'>
+<meta name='parsely-page' content='{"title":"The Best Poutine in Toronto","link":"http:\/\/www.blogto.com\/toronto\/the_best_poutine_in_toronto\/","image_url":"http:\/\/www.blogto.com\/upload\/2014\/11\/20141117-poutine-toronto.jpg","type":"post","post_id":"11348","pub_date":"2015-03-02T14:13:00Z","section":"Best of Toronto","author":"Natalia Manzocco"}'>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="OnajU0JqaR7GbNn36tIGLItHoCVGBMuABazvl0YTfjY">
 <link rel="icon" type="image/gif" href="http://www.blogto.com/favicon.gif">
@@ -44,11 +44,11 @@ GS_googleAddAdSenseService("ca-pub-3265858257515661");
 GS_googleEnableAllServices();
 </script>
 <script type='text/javascript'>
-GA_googleAddSlot("ca-pub-3265858257515661", "blogTOBestofTO300x250Top");
-GA_googleAddSlot("ca-pub-3265858257515661", "blogTOBestofTO300x250Middle");
-GA_googleAddSlot("ca-pub-3265858257515661", "blogTOBestofTO728x90");
-GA_googleAddSlot("ca-pub-3265858257515661", "Bestof-skin-left");
-GA_googleAddSlot("ca-pub-3265858257515661", "Bestof-skin-right");
+GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutine300x250top");
+GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutine300x250middle");
+GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutine728x90");
+GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutineskinleft");
+GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutineskinright");
 </script>
 <script type='text/javascript'>
 GA_googleFetchAds();
@@ -90,12 +90,12 @@ GA_googleFetchAds();
 <div id="subnavie7fix"></div>
 <div id="wrapper">
   <div id="subwrapper">	
-	<div id="header" style="background-image: url('http://blogto.com/headerphotos/20080824-header-jaywalk.jpg');">
+	<div id="header" style="background-image: url('http://blogto.com/headerphotos/cntowermist.jpg');">
       <div class="logo"><a href="http://www.blogto.com">blogTO | Toronto Blog</a></div>      <div class="info_wrapper">
       <div class="info"></div>
 	  <div class="info_box" style="display: none;">
 		<p>
-		Jaywalkers on Bay and Front. <br /><strong>By KatNav.</strong>		</p>
+		The city tower as the fog lifts on Front St. <br /><strong>By Jerrold Litwinenko.</strong>		</p>
 	  </div>
       </div>
 	  <ul id="nav">
@@ -247,14 +247,6 @@ GA_googleFetchAds();
   		<div id="midwrapper">
 		<div id="content">
 	
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_CA/sdk.js#xfbml=1&version=v2.4&appId=100616073343311";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
   <!-- [ENTRY] -->
   <div class="post article">
@@ -265,24 +257,31 @@ GA_googleFetchAds();
         </h6>
     <div class="social">
     <g:plusone size="medium"></g:plusone>
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.blogto.com%2Ftoronto%2Fthe_best_guacamole_in_toronto%2F&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.blogto.com%2Ftoronto%2Fthe_best_poutine_in_toronto%2F&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="blogto">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
     </div>
-    <h1>The Best Guacamole in Toronto</h1>
+    <h1>The Best Poutine in Toronto</h1>
     <p class="author">
-    Posted by <a href="/author/liora">Liora Ipsum</a>
-<span class="date"> / December 28, 2015
+    Posted by <a href="/author/natalia">Natalia Manzocco</a>
+<span class="date"> / March  2, 2015
 </span>
     </p>
     <div class="stuff">
+            <span class="comments"><a href="#comments">32 Comments</a></span>
             <div class="clear"></div>
     </div>						
     <div class="clear"></div>
 
     <div class="content">
-        <p><img src="http://www.blogto.com/upload/2015/12/20140116-guacamole-toronto.jpg" width="590" height="393" alt="guacamole toronto"/>The best guacamole in Toronto is a deceivingly simple dish. While soft, ripe avocado and a squirt of lime juice is essential, everything else is not - great guac needs little else, though the addition of cilantro, onions, and tomato are often welcome.</p>
+        <p><img src="http://www.blogto.com/upload/2014/11/20141117-poutine-toronto.jpg" width="590" height="393" alt="best poutine toronto"/>The best poutine in Toronto takes three humble, basic ingredients - fries, cheese curds, and gravy - and transmutes them into sloppy, melty, drunk-food magic. The Quebecois staple has become a bona fide food trend here in the city, colliding with everything from <a href="http://www.blogto.com/eat_drink/2015/02/where_to_eat_chicken_wing_poutine_in_toronto/">chicken wings</a> to <a href="http://www.blogto.com/eat_drink/2015/01/where_to_eat_japanese_poutine_in_toronto/">Japanese food</a> to <a href="http://www.blogto.com/eat_drink/2015/01/where_to_eat_poutine_pizza_in_toronto/">pizza</a>. Purists prefer to savour the flavours of hand-cut potatoes, squeaky curds and slow-simmered gravy unadorned; I say there's room for everyone.</p>
 
-<p>Here is the best guacamole in Toronto.</p>
+<p>Here is the best poutine in Toronto.</p>
+
+<p><strong>See also:</strong> </p>
+
+<p><strong><a href="http://www.blogto.com/toronto/the_best_fries_in_toronto/">The Best Fries in Toronto</a><br />
+<a href="http://www.blogto.com/toronto/the_best_late_night_poutine_in_toronto/">The Best Late Night Poutine in Toronto</a><br />
+<a href="http://www.blogto.com/eat_drink/2015/02/the_top_10_fusion_poutine_in_toronto/">The top 10 fusion poutine in Toronto</a></strong></p>
 
 <link href="/css/torontolists.css" rel="stylesheet" />
 
@@ -296,86 +295,86 @@ GA_googleFetchAds();
 
 <div id="torontolists">
 	<div class="torontolists-item">
-				<img src="/upload/2015/12/20151228-tenoch-th.jpg" class="torontolists-item-image" alt="Tenoch" />
-				<h2><a href="/restaurants/tenoch-toronto"><img name="Number_1" src="/images/torontolists/number-1.gif" align="absmiddle" /></a><a href="/restaurants/tenoch-toronto" class="name">Tenoch</a></h2>
+				<img src="/upload/2014/11/20141117-nnncrepes.jpg" class="torontolists-item-image" alt="Nom Nom Nom Crepes" />
+				<h2><a href="/restaurants/nom-nom-nom-crepes-toronto"><img name="Number_1" src="/images/torontolists/number-1.gif" align="absmiddle" /></a><a href="/restaurants/nom-nom-nom-crepes-toronto" class="name">Nom Nom Nom Crepes</a></h2>
 		<p>
-		Begin a Mexican feast with the guacamole and chips ($12) at this restaurant on St. Clair. Each order consists of a creamy mash of avocados blended with fresh cilantro and studded with chunks of tomato and onion.				<a href="/restaurants/tenoch-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Toronto's best poutine shop doesn't just do poutine, but this tiny shipping-container creperie, run by a former Montrealer, does the dish up right. The "traditional" ($6), with red potato fries, homemade (!) cheese curds, and gravy imported direct from Quebec, might be the most authentic poutine in town - or get it topped with smoked meat, chicken and peas, or brie and caramelized onions.				<a href="/restaurants/nom-nom-nom-crepes-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:1,name:"Tenoch",description:"Begin a Mexican feast with the guacamole and chips ($12) at this restaurant on St. Clair. Each order consists of a creamy mash of avocados blended with fresh cilantro and studded with chunks of tomato and onion.",address:"933 St. Clair Ave W",phone:"647.345.0165",website:"",listing_url:"/restaurants/tenoch-toronto",entry_id:34762,latitude:43.6796018,longitude:-79.4352383,marker:null});
+aItems.push({number:1,name:"Nom Nom Nom Crepes",description:"Toronto\'s best poutine shop doesn\'t just do poutine, but this tiny shipping-container creperie, run by a former Montrealer, does the dish up right. The \"traditional\" ($6), with red potato fries, homemade (!) cheese curds, and gravy imported direct from Quebec, might be the most authentic poutine in town - or get it topped with smoked meat, chicken and peas, or brie and caramelized onions.",address:"707 Dundas St. West",phone:"647.636.0707",website:"",listing_url:"/restaurants/nom-nom-nom-crepes-toronto",entry_id:42566,latitude:43.6517906,longitude:-79.4048462,marker:null});
 </script>	<div class="torontolists-item">
-				<img src="/upload/2015/12/20151222-cocinaeconomica-th.jpg" class="torontolists-item-image" alt="Cocina Economica" />
-				<h2><a href="/restaurants/cocina-economica-toronto"><img name="Number_2" src="/images/torontolists/number-2.gif" align="absmiddle" /></a><a href="/restaurants/cocina-economica-toronto" class="name">Cocina Economica</a></h2>
+				<img src="/upload/2011/02/201124--poutinis.jpg" class="torontolists-item-image" alt="Poutini's" />
+				<h2><a href="/restaurants/poutinis"><img name="Number_2" src="/images/torontolists/number-2.gif" align="absmiddle" /></a><a href="/restaurants/poutinis" class="name">Poutini's</a></h2>
 		<p>
-		Guacamole con tostada horneadas ($9) at this homestyle kitchen in Corktown consists of mashed avocado with oven baked tortillas. Get a side order along with your meal for $6.				<a href="/restaurants/cocina-economica-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		They take their poutine seriously at this Queen St. spot, layering the toppings evenly in each bucket (no dry fries here). The basic poutine ($4.99 small, $6.99 large) comes with your choice of beef, veggie, or gluten-free gravy; there's also Daiya cheese versions for the vegans, and optional bacon and pulled pork for the totally-not-vegans.				<a href="/restaurants/poutinis" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:2,name:"Cocina Economica",description:"Guacamole con tostada horneadas ($9) at this homestyle kitchen in Corktown consists of mashed avocado with oven baked tortillas. Get a side order along with your meal for $6.",address:"141 Berkeley St.",phone:"647.748.4777",website:"",listing_url:"/restaurants/cocina-economica-toronto",entry_id:45281,latitude:43.6549797,longitude:-79.3653717,marker:null});
+aItems.push({number:2,name:"Poutini\'s",description:"They take their poutine seriously at this Queen St. spot, layering the toppings evenly in each bucket (no dry fries here). The basic poutine ($4.99 small, $6.99 large) comes with your choice of beef, veggie, or gluten-free gravy; there\'s also Daiya cheese versions for the vegans, and optional bacon and pulled pork for the totally-not-vegans.",address:"1112 Queen St. West",phone:"647.342.3732",website:"",listing_url:"/restaurants/poutinis",entry_id:13553,latitude:43.6433148,longitude:-79.4231813,marker:null});
 </script>	<div class="torontolists-item" style="margin-right: 0px;">
-				<img src="/upload/2015/12/20151228-grand-electric-th.jpg" class="torontolists-item-image" alt="Grand Electric" />
-				<h2><a href="/restaurants/grand-electric-toronto"><img name="Number_3" src="/images/torontolists/number-3.gif" align="absmiddle" /></a><a href="/restaurants/grand-electric-toronto" class="name">Grand Electric</a></h2>
+				<img src="/upload/2011/02/201124--smokes.jpg" class="torontolists-item-image" alt="Smoke's Poutinerie" />
+				<h2><a href="/restaurants/smokespoutinerie"><img name="Number_3" src="/images/torontolists/number-3.gif" align="absmiddle" /></a><a href="/restaurants/smokespoutinerie" class="name">Smoke's Poutinerie</a></h2>
 		<p>
-		The taqueria in Parkdale serves up still-warm, freshly fried tortilla chips encircling a bowl of lime-laced avocado crowned with fresh picked cilantro and a sprinkle of crunchy grated radish.				<a href="/restaurants/grand-electric-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		If you want a poutine that eats like a meal, your first stop will likely be one of Toronto's many Smoke's locations. A snack-size classic is $4.99 while a larger box runs $6.99, but nobody really bothers with the basic poutine at Smoke's - not when there's peppercorn steak, triple-pork and smoked meat versions to be had.				<a href="/restaurants/smokespoutinerie" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:3,name:"Grand Electric",description:"The taqueria in Parkdale serves up still-warm, freshly fried tortilla chips encircling a bowl of lime-laced avocado crowned with fresh picked cilantro and a sprinkle of crunchy grated radish.",address:"1330 Queen St. West",phone:"416.627.3459",website:"",listing_url:"/restaurants/grand-electric-toronto",entry_id:27381,latitude:43.6416745,longitude:-79.4316079,marker:null});
+aItems.push({number:3,name:"Smoke\'s Poutinerie",description:"If you want a poutine that eats like a meal, your first stop will likely be one of Toronto\'s many Smoke\'s locations. A snack-size classic is $4.99 while a larger box runs $6.99, but nobody really bothers with the basic poutine at Smoke\'s - not when there\'s peppercorn steak, triple-pork and smoked meat versions to be had.",address:"218 Adelaide St. West",phone:"416.599.2873",website:"",listing_url:"/restaurants/smokespoutinerie",entry_id:11500,latitude:43.648415,longitude:-79.38763,marker:null});
 </script><div style="clear: both;"></div>	<div class="torontolists-item">
-				<img src="/upload/2015/12/20151222-wilbur-th.jpg" class="torontolists-item-image" alt="Wilbur Mexicana" />
-				<h2><a href="/restaurants/wilbur-mexicana-toronto"><img name="Number_4" src="/images/torontolists/number-4.gif" align="absmiddle" /></a><a href="/restaurants/wilbur-mexicana-toronto" class="name">Wilbur Mexicana</a></h2>
+				<img src="/upload/2014/11/20141117-poutinevilleTH.jpg" class="torontolists-item-image" alt="Poutineville" />
+				<h2><a href="/restaurants/poutineville-toronto"><img name="Number_4" src="/images/torontolists/number-4.gif" align="absmiddle" /></a><a href="/restaurants/poutineville-toronto" class="name">Poutineville</a></h2>
 		<p>
-		For $5 chips and guacamole are a no brainer at this casual taqueria on King West. Each order features a pile of fresh tortilla chips served with a chunky mash of avocados with lime juice and red onions. The complimentary salsa bar can provide extra oomph as desired.				<a href="/restaurants/wilbur-mexicana-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		This Quebec import graced Toronto with all-you-can-eat poutine last year, and the city rejoiced. Curiously for their province of origin, they're anything but purists - the potatoes are hand-crushed instead of julienned into fries, and their signature, the Poutineville ($12), takes things up a notch with braised beef and red wine gravy. They even do a filet mignon version ($18) if you're feeling fancy.				<a href="/restaurants/poutineville-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:4,name:"Wilbur Mexicana",description:"For $5 chips and guacamole are a no brainer at this casual taqueria on King West. Each order features a pile of fresh tortilla chips served with a chunky mash of avocados with lime juice and red onions. The complimentary salsa bar can provide extra oomph as desired.",address:"552 King St. West",phone:"416.792.1878",website:"",listing_url:"/restaurants/wilbur-mexicana-toronto",entry_id:43672,latitude:43.6449585,longitude:-79.3982925,marker:null});
+aItems.push({number:4,name:"Poutineville",description:"This Quebec import graced Toronto with all-you-can-eat poutine last year, and the city rejoiced. Curiously for their province of origin, they\'re anything but purists - the potatoes are hand-crushed instead of julienned into fries, and their signature, the Poutineville ($12), takes things up a notch with braised beef and red wine gravy. They even do a filet mignon version ($18) if you\'re feeling fancy.",address:"296 Brunswick Ave.",phone:"647.349.2345",website:"",listing_url:"/restaurants/poutineville-toronto",entry_id:41182,latitude:43.6654892,longitude:-79.4075623,marker:null});
 </script>	<div class="torontolists-item">
-				<img src="/upload/2015/12/20151222-madmexican-th.jpg" class="torontolists-item-image" alt="Mad Mexican" />
-				<h2><a href="/restaurants/mad-mexican-toronto"><img name="Number_5" src="/images/torontolists/number-5.gif" align="absmiddle" /></a><a href="/restaurants/mad-mexican-toronto" class="name">Mad Mexican</a></h2>
+				<img src="/upload/2014/11/20141117-leslievilleTH.jpg" class="torontolists-item-image" alt="Leslieville Pumps" />
+				<h2><a href="/restaurants/leslieville-pumps-toronto"><img name="Number_5" src="/images/torontolists/number-5.gif" align="absmiddle" /></a><a href="/restaurants/leslieville-pumps-toronto" class="name">Leslieville Pumps</a></h2>
 		<p>
-		Chunky guacamole ($9) topped with chopped onions and coriander, and served with artisan-made nacho chips and arbol chili oil are a specialty at this taco house in Baby Point. This stuff is so good, they even offer a retail line that can be bought for take-home at specialty grocers across the GTA.				<a href="/restaurants/mad-mexican-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		The brisket sandwiches at this Leslieville rest stop are famous; take things up another couple notches by getting that beef stacked onto a bed of hand-cut fries, Ontario curds and homemade gravy ($5.97 plain, $8.84 loaded). There's also brisked chili, pulled pork, or - for another Quebecois twist - baked beans.				<a href="/restaurants/leslieville-pumps-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:5,name:"Mad Mexican",description:"Chunky guacamole ($9) topped with chopped onions and coriander, and served with artisan-made nacho chips and arbol chili oil are a specialty at this taco house in Baby Point. This stuff is so good, they even offer a retail line that can be bought for take-home at specialty grocers across the GTA.",address:"405 Jane St.",phone:"647.352.2555",website:"",listing_url:"/restaurants/mad-mexican-toronto",entry_id:38476,latitude:43.6578484,longitude:-79.4876022,marker:null});
+aItems.push({number:5,name:"Leslieville Pumps",description:"The brisket sandwiches at this Leslieville rest stop are famous; take things up another couple notches by getting that beef stacked onto a bed of hand-cut fries, Ontario curds and homemade gravy ($5.97 plain, $8.84 loaded). There\'s also brisked chili, pulled pork, or - for another Quebecois twist - baked beans.",address:"929 Queen Street East",phone:"416.465.1313",website:"",listing_url:"/restaurants/leslieville-pumps-toronto",entry_id:30427,latitude:43.6608337,longitude:-79.3406882,marker:null});
 </script>	<div class="torontolists-item" style="margin-right: 0px;">
-				<img src="/upload/2015/12/20151228-milagro-th.jpg" class="torontolists-item-image" alt="Milagro" />
-				<h2><a href="/restaurants/milagro-yonge-toronto"><img name="Number_6" src="/images/torontolists/number-6.gif" align="absmiddle" /></a><a href="/restaurants/milagro-yonge-toronto" class="name">Milagro</a></h2>
+				<img src="/upload/2014/11/20141117-holychuckTH.jpg" class="torontolists-item-image" alt="Holy Chuck" />
+				<h2><a href="/restaurants/holy-chuck-burgers-toronto"><img name="Number_6" src="/images/torontolists/number-6.gif" align="absmiddle" /></a><a href="/restaurants/holy-chuck-burgers-toronto" class="name">Holy Chuck</a></h2>
 		<p>
-		Guacamole ($8.50/$12.50) is a popular starter at this Mexican cantina with locations scattered throughout Toronto. Here the dish stars aguacate mashed with  cilantro, serrano chilis, tomato, and lime. Group it together with refritos and pico de gallo by ordering the Trio Botanero ($12.50)				<a href="/restaurants/milagro-yonge-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		This midtown burger spot revels in both the obscene and the sublime, dressing up dirty-delicious diner food with toppings that border on the preposterously indulgent. So too it is with their poutine, which is either available in classic form with real Quebec curds ($6.99) or topped with white truffles and foie gras ($29.99).				<a href="/restaurants/holy-chuck-burgers-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:6,name:"Milagro",description:"Guacamole ($8.50/$12.50) is a popular starter at this Mexican cantina with locations scattered throughout Toronto. Here the dish stars aguacate mashed with  cilantro, serrano chilis, tomato, and lime. Group it together with refritos and pico de gallo by ordering the Trio Botanero ($12.50)",address:"3187 Yonge St",phone:"416.487.2855",website:"",listing_url:"/restaurants/milagro-yonge-toronto",entry_id:24933,latitude:43.7275765,longitude:-79.4027171,marker:null});
+aItems.push({number:6,name:"Holy Chuck",description:"This midtown burger spot revels in both the obscene and the sublime, dressing up dirty-delicious diner food with toppings that border on the preposterously indulgent. So too it is with their poutine, which is either available in classic form with real Quebec curds ($6.99) or topped with white truffles and foie gras ($29.99).",address:"1450 Yonge St.",phone:"416.962.4285",website:"",listing_url:"/restaurants/holy-chuck-burgers-toronto",entry_id:26409,latitude:43.6875807,longitude:-79.3939129,marker:null});
 </script><div style="clear: both;"></div>	<div class="torontolists-item">
-				<img src="/upload/2015/12/20151228-lacarnita-th.jpg" class="torontolists-item-image" alt="La Carnita" />
-				<h2><a href="/restaurants/la-carnita-john-st-toronto"><img name="Number_7" src="/images/torontolists/number-7.gif" align="absmiddle" /></a><a href="/restaurants/la-carnita-john-st-toronto" class="name">La Carnita</a></h2>
+				<img src="/upload/2014/11/20141117-loudawgsTH.jpg" class="torontolists-item-image" alt="Lou Dawg's" />
+				<h2><a href="/restaurants/lou_dawgs"><img name="Number_7" src="/images/torontolists/number-7.gif" align="absmiddle" /></a><a href="/restaurants/lou_dawgs" class="name">Lou Dawg's</a></h2>
 		<p>
-		Three locations of this Mexican street food purveyor deal in ancho chili-dusted tortilla chips with dips including the killer house guacamole. Order the guac on its own ($6.50), or have it teamed up with friends like corn salsa and smokes queso with spicy beans for $13).				<a href="/restaurants/la-carnita-john-st-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Southern-style meats are king at this barbecue joint's two Toronto locations - your basic poutine ($6.95 small, $10.95) can come smothered in pulled pork, brisket, pulled chicken (a nice touch), veggie chili, or even their "mmmmeaty" beans.				<a href="/restaurants/lou_dawgs" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:7,name:"La Carnita",description:"Three locations of this Mexican street food purveyor deal in ancho chili-dusted tortilla chips with dips including the killer house guacamole. Order the guac on its own ($6.50), or have it teamed up with friends like corn salsa and smokes queso with spicy beans for $13).",address:"106 John St.",phone:" 647.348.1166",website:"",listing_url:"/restaurants/la-carnita-john-st-toronto",entry_id:47236,latitude:43.64769,longitude:-79.39041,marker:null});
+aItems.push({number:7,name:"Lou Dawg\'s",description:"Southern-style meats are king at this barbecue joint\'s two Toronto locations - your basic poutine ($6.95 small, $10.95) can come smothered in pulled pork, brisket, pulled chicken (a nice touch), veggie chili, or even their \"mmmmeaty\" beans.",address:"589 King St. West",phone:"647.347.3294",website:"",listing_url:"/restaurants/lou_dawgs",entry_id:13400,latitude:43.6444147,longitude:-79.4001602,marker:null});
 </script>	<div class="torontolists-item">
-				<img src="/upload/2015/12/20151228-kings-tacos-th.jpg" class="torontolists-item-image" alt="King's Tacos" />
-				<h2><a href="/restaurants/kings-tacos-toronto"><img name="Number_8" src="/images/torontolists/number-8.gif" align="absmiddle" /></a><a href="/restaurants/kings-tacos-toronto" class="name">King's Tacos</a></h2>
+				<img src="/upload/2015/03/20150301-comeandgetitTH.jpg" class="torontolists-item-image" alt="Come And Get It" />
+				<h2><a href="/restaurants/come-and-get-it-queen-toronto"><img name="Number_8" src="/images/torontolists/number-8.gif" align="absmiddle" /></a><a href="/restaurants/come-and-get-it-queen-toronto" class="name">Come And Get It</a></h2>
 		<p>
-		Before you tuck in to a lineup of tacos, open with an order of guacamole at this St. Clair joint. The recipe here sticks to the classic with avocado loaded with tomato, onions and coriander, and then paired with crispy tortilla chips.				<a href="/restaurants/kings-tacos-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		This Queen St. snack shop will make your choice of toppings, from coconut shrimp to taco pork and beef to chipotle pulled short ribs, into salads, wraps, sandwiches or - you guessed it - a poutine. Big sizes are available for lunch until 5pm; they then go down to snackable mini sizes until close.				<a href="/restaurants/come-and-get-it-queen-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:8,name:"King\'s Tacos",description:"Before you tuck in to a lineup of tacos, open with an order of guacamole at this St. Clair joint. The recipe here sticks to the classic with avocado loaded with tomato, onions and coriander, and then paired with crispy tortilla chips.",address:"1216 St. Clair Ave. West",phone:"647.342.0262",website:"",listing_url:"/restaurants/kings-tacos-toronto",entry_id:30128,latitude:43.6776582,longitude:-79.4445969,marker:null});
+aItems.push({number:8,name:"Come And Get It",description:"This Queen St. snack shop will make your choice of toppings, from coconut shrimp to taco pork and beef to chipotle pulled short ribs, into salads, wraps, sandwiches or - you guessed it - a poutine. Big sizes are available for lunch until 5pm; they then go down to snackable mini sizes until close.",address:"676 Queen St. ",phone:"647.344.3416",website:"",listing_url:"/restaurants/come-and-get-it-queen-toronto",entry_id:38912,latitude:43.6466713,longitude:-79.4073486,marker:null});
 </script>	<div class="torontolists-item" style="margin-right: 0px;">
-				<img src="/upload/2015/12/20151222-xola-th.jpg" class="torontolists-item-image" alt="Xola" />
-				<h2><a href="/restaurants/xola-toronto"><img name="Number_9" src="/images/torontolists/number-9.gif" align="absmiddle" /></a><a href="/restaurants/xola-toronto" class="name">Xola</a></h2>
+				<img src="/upload/2011/02/201124-greatburgerkitchen.jpg" class="torontolists-item-image" alt="Great Burger Kitchen" />
+				<h2><a href="/restaurants/great-burger-kitchen"><img name="Number_9" src="/images/torontolists/number-9.gif" align="absmiddle" /></a><a href="/restaurants/great-burger-kitchen" class="name">Great Burger Kitchen</a></h2>
 		<p>
-		The Mexican restaurant in The Beaches is home to a great traditional guacamole ($10.50), plus fully loaded varieties including a blue cheese and walnut guacamole ($11), a smoked salmon guacamole ($11), and another studded with cactus, pineapple and arbol peppers ($11).				<a href="/restaurants/xola-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Burgers aside, GBK (located at Gerrard and Jones) makes a mean poutine. Go for the classic Montreal poutine ($5.75), or get wacky with the bacon-onion-cheddar "Ontario", pulled-pork and nacho-inspired versions, and even a "poutine du jour".				<a href="/restaurants/great-burger-kitchen" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:9,name:"Xola",description:"The Mexican restaurant in The Beaches is home to a great traditional guacamole ($10.50), plus fully loaded varieties including a blue cheese and walnut guacamole ($11), a smoked salmon guacamole ($11), and another studded with cactus, pineapple and arbol peppers ($11).",address:"2222A Queen St E",phone:"647.827.9070",website:"",listing_url:"/restaurants/xola-toronto",entry_id:36913,latitude:43.672544,longitude:-79.288109,marker:null});
+aItems.push({number:9,name:"Great Burger Kitchen",description:"Burgers aside, GBK (located at Gerrard and Jones) makes a mean poutine. Go for the classic Montreal poutine ($5.75), or get wacky with the bacon-onion-cheddar \"Ontario\", pulled-pork and nacho-inspired versions, and even a \"poutine du jour\".",address:"1056 Gerrard St E",phone:"416.778.0111",website:"",listing_url:"/restaurants/great-burger-kitchen",entry_id:18552,latitude:43.6690906,longitude:-79.3362369,marker:null});
 </script><div style="clear: both;"></div></div>
 <div style="clear: both;"></div>
 <div id="torontolists-map"></div>
@@ -386,11 +385,702 @@ aItems.push({number:9,name:"Xola",description:"The Mexican restaurant in The Bea
 <iframe id="ad_content" src="" frameborder="0" scrolling="no" width="300" height="250"></iframe>
 <script type="text/javascript">
 $j(function(){
-	$j("#ad_content").get(0).src = "/ads/blogTOBestofTO300x250Middle.html";
+	$j("#ad_content").get(0).src = "/ads/bestpoutine300x250middle.html";
 });
 </script>
 </div>        
-				<div class="fb-comments" data-href="http://www.blogto.com/toronto/the_best_guacamole_in_toronto/" data-width="600" data-numposts="50" data-order-by="time"></div>
+				<!--[COMMENTS]-->
+<a name="comments"></a>
+<div id="comments" class="box oldest">
+  <h6 class="info">Discussion</h6>
+  <h2 id="commentcount">32 Comments</h2>
+  <div class="tools">
+    <p class="commentorder">
+      <span class="label">Sort By</span>
+      <a class="oldest" href="#oldest">Oldest First</a> / <a class="newest" href="#newest">Newest First</a>      
+    </p>    
+    <p class="icon feed comments"><a href="/feed/recentcomments/?11348">Subscribe</a></p>
+  </div>
+  
+    <div id="post_comments" class="container comments">
+    	    	    	<div id="comment_1956105" class="comment odd">
+    <a name="comment-1956105" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Damien            </span>
+                        	<span class="date"> / March 2, 2015 at 02:35 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I've found Fancy Frank's is pretty good too, mostly because of the gravy.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956105, 'Damien'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956111" class="comment even">
+    <a name="comment-1956111" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Ryguy            </span>
+                        	<span class="date"> / March 2, 2015 at 02:45 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I normally dont write on BlogTO... but this list is way off of whats happening with poutine in Toronto. Off the top of my head I would say Beast, Beer Bistro and Canoe blow away this list.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956111, 'Ryguy'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956121" class="comment odd">
+    <a name="comment-1956121" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Guest            </span>
+                        	<span class="date"> / March 2, 2015 at 03:10 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Tropical Joe's has jerk chicken poutine although I've never tried it before (as I don't care for poutine).  But poutine lovers should maybe try it if they like fusion stuff.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956121, 'Guest'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956138" class="comment even">
+    <a name="comment-1956138" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            lola            </span>
+                        	<span class="date"> / March 2, 2015 at 03:41 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Utopia has great poutine. Ask for extra curds and youre in grease heaven!         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956138, 'lola'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956158" class="comment odd">
+    <a name="comment-1956158" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Joe             </span>
+                        	<span class="date"> / March 2, 2015 at 04:34 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Smoke's is really filling and such, but their gravy taste like doo doo.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956158, 'Joe '); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956168" class="comment even">
+    <a name="comment-1956168" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            christopher            </span>
+                        	<span class="date"> / March 2, 2015 at 04:51 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Poutini's has great toppings but lousy fries.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956168, 'christopher'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956181" class="comment odd">
+    <a name="comment-1956181" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            jackson            </span>
+                        	<span class="date"> / March 2, 2015 at 05:12 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Any restaurant in Toronto that has the name Poutine in it, serves shitty poutine. Case in point, Poutinis. #2? What a joke. <br />
+<br />
+        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956181, 'jackson'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956187" class="comment even">
+    <a name="comment-1956187" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Cityboy            </span>
+                        	<span class="date"> / March 2, 2015 at 05:16 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Melt Grilled Cheese as awesome poutine use skiny fries<br />
+        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956187, 'Cityboy'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956190" class="comment odd">
+    <a name="comment-1956190" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Ashley            </span>
+                        	<span class="date"> / March 2, 2015 at 05:26 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        BROCK sandwich needs to be on this list. Seriously mmm. I could drink the gravy.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956190, 'Ashley'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956191" class="comment even">
+    <a name="comment-1956191" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Poo Teen            </span>
+                        	<span class="date"> / March 2, 2015 at 05:33 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Mr. Tasty Fries, the blue truck at City Hall.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956191, 'Poo Teen'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956249" class="comment odd">
+    <a name="comment-1956249" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            johnny poutine            </span>
+                        	<span class="date"> / March 2, 2015 at 07:43 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        the best poutine usually comes from a chip truck. nothing fancy        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956249, 'johnny poutine'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956299" class="comment even">
+    <a name="comment-1956299" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Ami            </span>
+                        	<span class="date"> / March 2, 2015 at 09:38 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        How is Big Smoke Burger not on this list?  Their poutine with beef gravy (NOT chicken gravy) is delicious!        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956299, 'Ami'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956312" class="comment odd">
+    <a name="comment-1956312" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Donna            </span>
+                        	<span class="date"> / March 2, 2015 at 10:05 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Remember when Fries Supreme canme from Taco Bell and we all thought that was too much? A small tiny card board rectangle place with some fries salsa and sour cream on them was TOO MUCH? There used to be alot of Tao Bells in Toronto now there are a handfull.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956312, 'Donna'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956419" class="comment even">
+    <a name="comment-1956419" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                	            <span class="author"><fb:name uid="ahkoon2013" linked="true" useyou="true"><a href="http://www.facebook.com/ahkoon2013">Paul</a></fb:name></span>
+                        	<span class="date"> / March 3, 2015 at 02:58 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I love Poutini's hands down. I know it's not a boutique chain; however, I'd also give shout outs to Costo's poutine.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956419, 'Paul'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956531" class="comment odd">
+    <a name="comment-1956531" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Foodie            </span>
+                        	<span class="date"> / March 3, 2015 at 08:55 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I like Poutini's because they offer vegetarian options. Their vegetarian gravy tastes like the real thing!        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956531, 'Foodie'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956547" class="comment even">
+    <a name="comment-1956547" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            meatballs            </span>
+                        	<span class="date"> / March 3, 2015 at 09:26 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Come And Get It is still there? Did they move?         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956547, 'meatballs'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956550" class="comment odd">
+    <a name="comment-1956550" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            MaggieMay            </span>
+                        	<span class="date"> / March 3, 2015 at 09:27 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Have you guys never tried Fresco's Fish and Chips poutine?? It's fantastic! And they offer a vegetarian gravy option.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956550, 'MaggieMay'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956599" class="comment even">
+    <a name="comment-1956599" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            bt1980            </span>
+                        	<span class="date"> / March 3, 2015 at 11:31 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Never had poutine from Fresco's; but the fish and chips are amazing. Get the cod.<br />
+<br />
+I'd like to toss in a vote for Corned Beef House poutine. You can get it with or without montreal smoked meat. The fries are baked and stay crisp under the gravy.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956599, 'bt1980'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956608" class="comment odd">
+    <a name="comment-1956608" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Aww            </span>
+                        	<span class="date"> / March 3, 2015 at 11:46 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Aww, BlogTO got butthurt and removed a ton of comments, yet again.  Wonder why?         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956608, 'Aww'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956635" class="comment even">
+    <a name="comment-1956635" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            bobo            </span>
+                            <span class="inreply">replying to a <a href="#c1956181">comment from jackson</a></span>
+                	<span class="date"> / March 3, 2015 at 12:36 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Clearly you have never been to Poutini's        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956635, 'bobo'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956653" class="comment odd">
+    <a name="comment-1956653" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Lanners            </span>
+                            <span class="inreply">replying to a <a href="#c1956158">comment from Joe </a></span>
+                	<span class="date"> / March 3, 2015 at 01:10 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I was pretty disappointed when I tried Smokes. Everyone says it is absolutely amazing but I had a lot of dry fries in mine lol. I found poutini's to be amazing        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956653, 'Lanners'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956656" class="comment even">
+    <a name="comment-1956656" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Mayor McIBM Eats Babies            </span>
+                        	<span class="date"> / March 3, 2015 at 01:13 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I love poutine.  But I also like that Dell makes better computers and dislike the fact that eye bee em kills hobos and eats their souls.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956656, 'Mayor McIBM Eats Babies'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956664" class="comment odd">
+    <a name="comment-1956664" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            <a href="http://globto.tumblr.com" rel="nofollow" target="_blank">Glob TO</a>            </span>
+                            <span class="inreply">replying to a <a href="#c1956608">comment from Aww</a></span>
+                	<span class="date"> / March 3, 2015 at 01:31 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        They'd argue that it was because many comment were off-topic, but we all know it's because people are now seeing that most of their content is poutine-based and their trying to cover up the fact that the puppet masters behind Blog TO are the Pou-lumina-ti(ne)        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956664, 'Glob TO'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956669" class="comment even">
+    <a name="comment-1956669" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            ubertorontofreeride            </span>
+                        	<span class="date"> / March 3, 2015 at 01:40 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Get $20 off your first Uber ride with promo code: ubertorontofreeride        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956669, 'ubertorontofreeride'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1956926" class="comment odd">
+    <a name="comment-1956926" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Rose            </span>
+                        	<span class="date"> / March 3, 2015 at 04:06 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Smokes Poutine can be very hit or miss, depending on which location you go to. I love Caplansky's smoked meat poutine. It's amazing!        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1956926, 'Rose'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1957487" class="comment even">
+    <a name="comment-1957487" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Iain            </span>
+                        	<span class="date"> / March 4, 2015 at 10:53 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Two places also not mentioned: The Rebel House in Rosedale...Buffalo fries, homemade demi and smoked gouda along with curds= heaven...Also Breakwall in the Beach...Velvety demi,house smoked pulled pork and real curds= rapture.        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1957487, 'Iain'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1957839" class="comment odd">
+    <a name="comment-1957839" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            jeffy            </span>
+                            <span class="inreply">replying to a <a href="#c1956111">comment from Ryguy</a></span>
+                	<span class="date"> / March 4, 2015 at 06:19 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Thank you for the Toronto Life recommendations, but we are reading Blog TO.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1957839, 'jeffy'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1965369" class="comment even">
+    <a name="comment-1965369" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            <a href="http://www.instagram.com/mikeypeetz" rel="nofollow" target="_blank">ToFoodDude</a>            </span>
+                        	<span class="date"> / March 16, 2015 at 02:08 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        One of the lists on blogto where i nearly agree on almost everything. Although I think Poutineville and Holy Chucks should be higher up on the list (for regular &quot;non-fusion&quot; poutine). This List however is missing Fancy Franks. A bit newer to the poutine game than some of the candidates above but their poutine is really good. So good in fact that I'd even rate it somewhere mid-table (4-6th place). Nom Nom Crepes should be bumped down a bit. I mean it was good, really good but overall I don't think it was the best. In my personal opinion (and poutine enthusiasts will be up in arms) I liked Poutineville the most. The create your own poutine they offer with crazy options such as Filet mignon is just a very unique (to Toronto) concept. Again poutine hipsters would be in arms if this &quot;sit down half fancy&quot; poutine joint would be number one.. but to this critic, it should be.          </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1965369, 'ToFoodDude'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1978588" class="comment odd">
+    <a name="comment-1978588" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            John D.            </span>
+                        	<span class="date"> / April 3, 2015 at 10:16 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I consider myself a poutine expert and if you honestly think Smokes makes one of the best in the city you literally know nothing about good poutines.   You need to judge it on the gravy, the oils in the fries, the texture (crunchy) and so forth.  Just because smokes piles a ton of soggy fries into a carton doesn't mean they make a good poutine you greedy foodies.  The best places in the city aren't in the spotlight unfortunately but remain hidden gems.   Hint ...search out some mom and pop fish n' chip joints in the east end :  )          </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1978588, 'John D.'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_2020999" class="comment even">
+    <a name="comment-2020999" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Alex            </span>
+                            <span class="inreply">replying to a <a href="#c1956550">comment from MaggieMay</a></span>
+                	<span class="date"> / June 5, 2015 at 01:23 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        I absolutely gorge myself on that stuff. SO good!        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(2020999, 'Alex'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_2024421" class="comment odd">
+    <a name="comment-2024421" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Dee            </span>
+                        	<span class="date"> / June 9, 2015 at 10:17 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Anyone know where I can get jerk chicken poutine in the west end(Etobicoke/Sauga/or Btown)??        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(2024421, 'Dee'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_2070702" class="comment even">
+    <a name="comment-2070702" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Patricia            </span>
+                        	<span class="date"> / August 31, 2015 at 11:15 am</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Try King Catering's Jerk Chicken or BBQ Chicken poutine... I like the Jerk Chicken. Delicious!        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(2070702, 'Patricia'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+		          </div>
+</div>
+</mt:IfCommentsActive>
+<!--[/COMMENTS]-->
+<div id="comment-status" style="display: none;"></div>
+
+<!--[ADDCOMMENT]-->
+<mt:IfCommentsAccepted>
+<div class="box addcomment">
+    <h3 class="left">Add a Comment</h3>
+    	
+	<div id="comment-greeting" style="clear: both;"></div>
+    <div class="container">
+    <form class="form" method="post" action="/php/mt-comments.php" name="comments_form" id="comments-form">
+        <input type="hidden" name="static" value="1" />
+        <input type="hidden" name="entry_id" value="11348" />
+        <input type="hidden" name="request" value="/toronto/the_best_poutine_in_toronto/" />
+                
+        <div id="comment_message"></div>
+        
+        <p class="field author">
+          <label for="comment-author" class="required">Name:</label>
+          <input id="comment-author" name="author" size="30" value="" onfocus="mtCommentFormOnFocus()" />
+        </p>
+        <p id="commenter_email" class="field email">
+          <label for="comment-email" class="required">Email Address:</label>
+          <input id="comment-email" name="email" size="30" value="" onfocus="mtCommentFormOnFocus()" />
+        </p>
+        <p id="commenter_url" class="field url">
+          <label for="comment-url">Website:</label>
+          <input id="comment-url" name="url" size="30" value="" onfocus="mtCommentFormOnFocus()" />
+        </p>
+        <p class="field commenttext">
+          <label for="comment-text" class="required">Comments:</label>
+          <textarea id="comment-text" name="text" rows="5" cols="60" onfocus="mtCommentFormOnFocus()"></textarea>
+        </p>
+        <p class="field options">
+          <span id="comment-form-remember-me">
+              <input type="checkbox" id="rememberme" name="rememberme" value="1" accesskey="r" />
+              <label for="rememberme">Remember me </label>
+          </span>
+          <span id="comment-box-subscribe">
+              <input type="checkbox" name="subscribe" id="subscribe" value="1" />
+              <label for="subscribe">Email me when someone replies to this comment </label>
+          </span>
+        </p>
+
+        <div id="comment-form-reply" style="display: none;">
+            <input type="checkbox" name="parent_id" value="0" checked="checked" />
+            <label for="comment-reply" id="comment-reply-label"></label>
+        </div>
+      
+        <div id="comment-box-submit-button" style="margin-top: 7px;">
+            <input type="image" name="btnAddComment" alt="Add Comment" src="/images/button-addcomment.png" id="submit-button" />
+        </div>
+    </form>
+  	</div>
+	</div>
+</mt:IfCommentsAccepted>
+<!--[/ADDCOMMENT]-->
+
 		      </div>
   </div> <!-- /post -->
   <!-- [/ENTRY] -->
@@ -401,7 +1091,7 @@ $j(function(){
         <iframe id="ad_sidebar" src="" frameborder="0" scrolling="no" width="300" height="250"></iframe>
 <script type="text/javascript">
 $j(function(){
-	$j("#ad_sidebar").get(0).src = "/ads/blogTOBestofTO300x250Top.html";
+	$j("#ad_sidebar").get(0).src = "/ads/bestpoutine300x250top.html";
 });
 </script>
 
@@ -918,14 +1608,14 @@ $j(function(){
 <div class="wallpaperad left ">
 <div class="ad">
 <script type='text/javascript'>
-GA_googleFillSlot("Bestof-skin-left");
+GA_googleFillSlot("bestpoutineskinleft");
 </script>
 </div>
 </div>
 <div class="wallpaperad right ">
 <div class="ad">
 <script type='text/javascript'>
-GA_googleFillSlot("Bestof-skin-right");
+GA_googleFillSlot("bestpoutineskinright");
 </script>
 </div>
 </div>
@@ -963,7 +1653,7 @@ $j(function(){
 <iframe id="ad_bottom" src="" frameborder="0" scrolling="no" width="728" height="90"></iframe>
 <script type="text/javascript">
 $j(function(){
-	$j("#ad_bottom").get(0).src = "/ads/blogTOBestofTO728x90.html";
+	$j("#ad_bottom").get(0).src = "/ads/bestpoutine728x90.html";
 });
 </script>
 </div>

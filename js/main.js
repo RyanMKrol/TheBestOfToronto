@@ -1,11 +1,13 @@
 var base_link = 'http://www.blogto.com';
 
 $('button').click(function(){
-  $.getJSON( "php/update_data.php", function( json ) {
+  $.get( "php/update_data.php", function( json ) {
     console.log(json);
-    var link = base_link + json.url;
-    $('#activity_title').html(json.title);
-    $('#activity_link').attr('href', link);
+    // console.log(json.url);
+    // console.log(json.title);
+    // var link = base_link + json.url;
+    // $('#activity_title').html(json.title);
+    // $('#activity_link').attr('href', link);
    });
 });
 

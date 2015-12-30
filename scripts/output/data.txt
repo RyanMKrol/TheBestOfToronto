@@ -78,12 +78,12 @@ GA_googleFetchAds();
 <div id="subnavie7fix"></div>
 <div id="wrapper">
   <div id="subwrapper">	
-	<div id="header" style="background-image: url('http://blogto.com/headerphotos/header-christiepits.jpg');">
+	<div id="header" style="background-image: url('http://blogto.com/headerphotos/header-alleygraf.jpg');">
       <div class="logo"><a href="http://www.blogto.com">blogTO | Toronto Blog</a></div>      <div class="info_wrapper">
       <div class="info"></div>
 	  <div class="info_box" style="display: none;">
 		<p>
-		Saturday afternoon at Christie Pits. <br /><strong>By Justin Soegandi.</strong>		</p>
+		Back of a decaying building near Richmond and Spadina. <br /><strong>By Elizabeth McLachlan</strong>		</p>
 	  </div>
       </div>
 	  <ul id="nav">
@@ -217,7 +217,7 @@ GA_googleFetchAds();
 	  <div id="weather">
 	    		  <span class="date">Wednesday, December 30, 2015</span>
 		  &mdash;
-		  <span class="weather"><a href="http://www.blogto.com/weather/">Cloudy 2&deg;C</a><img src="http://l.yimg.com/a/i/us/we/52/26.gif" class="icon" height="25" alt="" /></span>
+		  <span class="weather"><a href="http://www.blogto.com/weather/">Cloudy 3&deg;C</a><img src="http://l.yimg.com/a/i/us/we/52/26.gif" class="icon" height="25" alt="" /></span>
 		</div>
 	  <div id="search">
   	  <form name="frmSearch" id="searchbox_015265533849369648843:pblj_nwyidq" action="http://www.blogto.com/googlesearch.php" style="margin: 0px; padding: 0px;">
@@ -238,11 +238,11 @@ GA_googleFetchAds();
   <div class="top">
       <div class="left">
         <h6 class="info">Best of Toronto</h6>
-        <h1><a href="/toronto/the_best_guacamole_in_toronto/">The Best Guacamole in Toronto</a></h1>
-<a href="/toronto/the_best_guacamole_in_toronto/"><img src="/toronto/thumbnails/large/the_best_guacam.jpg" alt="" /></a>
+        <h1><a href="/toronto/the_best_shepherds_pie_in_toronto/">The Best Shepherd's Pie in Toronto</a></h1>
+<a href="/toronto/the_best_shepherds_pie_in_toronto/"><img src="/toronto/thumbnails/large/the_best_shephe.jpg" alt="" /></a>
 <p>
-The best guacamole in Toronto is a deceivingly simple dish. While soft, ripe avocado and a squirt of lime juice is essential, everything else is not - great guac needs little else, though the addition of cilantro, onions, and tomato are often welcome. Here is the best guacamole in Toronto....
-<br /><a class="readmore actionable" href="/toronto/the_best_guacamole_in_toronto/">Read More &raquo;</a>
+The best shepherd's pie in Toronto deserves to be paired with an old English stout and served in a friendly neighbourhood pub. Purists will vow that the dish must be made with lamb, though there's some hearty examples made with beef on this list that'll certainly still hit the spot....
+<br /><a class="readmore actionable" href="/toronto/the_best_shepherds_pie_in_toronto/">Read More &raquo;</a>
 </p>
 <br class="clear" />
 
@@ -328,7 +328,7 @@ The best guacamole in Toronto is a deceivingly simple dish. While soft, ripe avo
       <div class="left">
         <h6 class="info">Recently</h6>
         <h2>More of the Best of Toronto</h2>
-        <ul><li><a href="/toronto/the_best_guacamole_in_toronto/">The Best Guacamole in Toronto</a></li><li><a href="/toronto/the_best_brownies_in_toronto/">The Best Brownies in Toronto</a></li><li><a href="/toronto/the_best_food_courts_in_toronto/">The Best Food Courts in Toronto</a></li><li><a href="/toronto/the_best_fitness_bootcamp_in_toronto/">The Best Fitness Bootcamp in Toronto</a></li><li><a href="/toronto/the_best_vintage_and_designer_handbags_in_toronto/">The Best Vintage and Designer Handbags in Toronto</a></li><li><a href="/toronto/the_best_dog_parks_in_toronto/">The Best Dog Parks in Toronto</a></li><li><a href="/toronto/the_best_tapas_in_toronto/">The Best Tapas In Toronto</a></li><li><a href="/toronto/the_best_chinese_restaurants_in_mississauga/">The Best Chinese Restaurants in Mississauga</a></li><li><a href="/toronto/the_best_cheap_breakfast_in_toronto/">The Best Cheap Breakfast in Toronto</a></li><li><a href="/toronto/the_best_streetwear_shops_in_toronto/">The Best Streetwear Shops in Toronto</a></li></ul><ul><li><a href="/toronto/the_best_shakshuka_in_toronto/">The Best Shakshuka in Toronto</a></li><li><a href="/toronto/the_best_bakery_cafes_in_toronto/">The Best Bakery Cafes in Toronto</a></li><li><a href="/toronto/the_best_indian_restaurants_in_mississauga/">The Best Indian Restaurants in Mississauga</a></li><li><a href="/toronto/the_best_late_night_burgers_in_toronto/">The Best Late Night Burgers in Toronto</a></li><li><a href="/toronto/the_best_clothing_stores_for_local_design_in_toronto/">The Best Clothing Stores for Local Design in Toronto</a></li><li><a href="/toronto/the_best_hot_pot_restaurants_in_toronto/">The Best Hot Pot Restaurants in Toronto</a></li><li><a href="/toronto/the_best_pet_stores_in_toronto/">The Best Pet Stores in Toronto</a></li><li><a href="/toronto/the_best_museums_in_toronto/">The Best Museums in Toronto</a></li><li><a href="/toronto/the_best_burger_in_toronto/">The Best Burger in Toronto</a></li><li><a href="/toronto/the_best_pizza_delivery_in_toronto/">The Best Pizza Delivery in Toronto</a></li></ul>        <br class="clear" />
+        <ul><li><a href="/toronto/the_best_shepherds_pie_in_toronto/">The Best Shepherd's Pie in Toronto</a></li><li><a href="/toronto/the_best_guacamole_in_toronto/">The Best Guacamole in Toronto</a></li><li><a href="/toronto/the_best_brownies_in_toronto/">The Best Brownies in Toronto</a></li><li><a href="/toronto/the_best_food_courts_in_toronto/">The Best Food Courts in Toronto</a></li><li><a href="/toronto/the_best_fitness_bootcamp_in_toronto/">The Best Fitness Bootcamp in Toronto</a></li><li><a href="/toronto/the_best_vintage_and_designer_handbags_in_toronto/">The Best Vintage and Designer Handbags in Toronto</a></li><li><a href="/toronto/the_best_dog_parks_in_toronto/">The Best Dog Parks in Toronto</a></li><li><a href="/toronto/the_best_tapas_in_toronto/">The Best Tapas In Toronto</a></li><li><a href="/toronto/the_best_chinese_restaurants_in_mississauga/">The Best Chinese Restaurants in Mississauga</a></li><li><a href="/toronto/the_best_cheap_breakfast_in_toronto/">The Best Cheap Breakfast in Toronto</a></li></ul><ul><li><a href="/toronto/the_best_streetwear_shops_in_toronto/">The Best Streetwear Shops in Toronto</a></li><li><a href="/toronto/the_best_shakshuka_in_toronto/">The Best Shakshuka in Toronto</a></li><li><a href="/toronto/the_best_bakery_cafes_in_toronto/">The Best Bakery Cafes in Toronto</a></li><li><a href="/toronto/the_best_indian_restaurants_in_mississauga/">The Best Indian Restaurants in Mississauga</a></li><li><a href="/toronto/the_best_late_night_burgers_in_toronto/">The Best Late Night Burgers in Toronto</a></li><li><a href="/toronto/the_best_clothing_stores_for_local_design_in_toronto/">The Best Clothing Stores for Local Design in Toronto</a></li><li><a href="/toronto/the_best_hot_pot_restaurants_in_toronto/">The Best Hot Pot Restaurants in Toronto</a></li><li><a href="/toronto/the_best_pet_stores_in_toronto/">The Best Pet Stores in Toronto</a></li><li><a href="/toronto/the_best_museums_in_toronto/">The Best Museums in Toronto</a></li><li><a href="/toronto/the_best_burger_in_toronto/">The Best Burger in Toronto</a></li></ul>        <br class="clear" />
       </div>
       <div class="right">
       <iframe id="ad_sidebar" src="" frameborder="0" scrolling="no" width="300" height="250"></iframe>
