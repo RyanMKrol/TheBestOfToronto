@@ -10,7 +10,12 @@
 
   //getting a random index into that file
   $random_index = rand(0,count($lines));
+  $random_entry = $lines[$random_index];
 
-  //printing out the line
-  echo $lines[$random_index];
+  //converting the line to an array, and then a dictionary for json encoding
+  $line = explode(", ", $random_entry);
+  $json_array = array('url' => $line[0], 'title' => $line[1]);
+
+  //returning json object
+  echo json_encode($json_array);
 ?>

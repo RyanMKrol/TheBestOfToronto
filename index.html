@@ -6,10 +6,9 @@
 
   <body>
     <script>
-    $.get( "php/update_data.php")
-    .done(function( data ) {
-      console.log( data );
-    });
+    $.getJSON( "php/update_data.php", function( json ) {
+      console.log(json);
+     });
     </script>
   </body>
 </html>
