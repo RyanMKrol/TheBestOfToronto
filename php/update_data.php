@@ -17,15 +17,18 @@
   $line = explode(", ", $random_entry);
 
   //so this updates the webpage for the category
-  $curl_command_thing = "curl 'http://www.blogto.com$line[0]' > /var/www/uplaylist.xyz/toronto/scripts/output/specific_data.txt";
-  exec($curl_command_thing);
-
+  // $curl_command_thing = "curl 'http://www.blogto.com$line[0]' > /var/www/uplaylist.xyz/toronto/scripts/output/specific_data.txt";
+  // exec($curl_command_thing);
   echo $line[0];
-  $output;
-  
-  $command = "./../scripts/extract.py /var/www/uplaylist.xyz/toronto/scripts/output/specific_data.txt > datathing.txt";
-  //updates the data in the files by fetching everything
+
+  $command = "sh ./../scripts/extract_number_one.sh $line[0]";
+  echo "\r\n";
+
+  echo $command;
   system ($command);
+
+  //updates the data in the files by fetching everything
+  // system ($command);
   //
   // //the location of the data
   // $second_file = '/var/www/uplaylist.xyz/toronto/scripts/output/best.txt';

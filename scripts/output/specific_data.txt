@@ -1,18 +1,18 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
 <html>
 <head>
-<title>The Best Poutine in Toronto</title>
-<meta name="keywords" content="poutine,toronto,best">
-<meta name="description" content="The best poutine in Toronto takes three humble, basic ingredients - fries, cheese curds, and gravy - and transmutes them into sloppy, melty, drunk-food magic. The Quebecois staple has become a bona fide food trend here in the city, colliding with everything from chicken wings to Japanese food to pizza....">
+<title>The Best Cappuccino in Toronto</title>
+<meta name="keywords" content="Cappuccino,toronto,best">
+<meta name="description" content="The best cappuccino in Toronto can be found at cafes where baristas are well trained and always on their game. Delicious and deceptively simple, the cappuccino is considered by some to be the most difficult coffee preparation to master. Traditionally 5-6 fluid ounces, broken into thirds of espresso, hot milk...">
 <meta property="fb:app_id" content="100616073343311">
 <meta property="og:type" content="article">
-<meta property="og:title" content="The Best Poutine in Toronto">
-<meta property="og:url" content="http://www.blogto.com/toronto/the_best_poutine_in_toronto/" />
-<meta property="og:image" content="http://www.blogto.com/upload/2014/11/20141117-poutine-toronto.jpg">
+<meta property="og:title" content="The Best Cappuccino in Toronto">
+<meta property="og:url" content="http://www.blogto.com/toronto/the_best_cappuccino_in_toronto/" />
+<meta property="og:image" content="http://www.blogto.com/upload/2014/02/20130429-cappuccino-toronto.jpg">
 <meta property="og:site_name" content="blogTO">
-<meta property="og:description" content="The best poutine in Toronto takes three humble, basic ingredients - fries, cheese curds, and gravy - and transmutes them into sloppy, melty, drunk-food magic. The Quebecois staple has become a bona fide food trend here in the city, colliding with everything from chicken wings to Japanese food to pizza....">
+<meta property="og:description" content="The best cappuccino in Toronto can be found at cafes where baristas are well trained and always on their game. Delicious and deceptively simple, the cappuccino is considered by some to be the most difficult coffee preparation to master. Traditionally 5-6 fluid ounces, broken into thirds of espresso, hot milk...">
 
-<meta name='parsely-page' content='{"title":"The Best Poutine in Toronto","link":"http:\/\/www.blogto.com\/toronto\/the_best_poutine_in_toronto\/","image_url":"http:\/\/www.blogto.com\/upload\/2014\/11\/20141117-poutine-toronto.jpg","type":"post","post_id":"11348","pub_date":"2015-03-02T14:13:00Z","section":"Best of Toronto","author":"Natalia Manzocco"}'>
+<meta name='parsely-page' content='{"title":"The Best Cappuccino in Toronto","link":"http:\/\/www.blogto.com\/toronto\/the_best_cappuccino_in_toronto\/","image_url":"http:\/\/www.blogto.com\/upload\/2014\/02\/20130429-cappuccino-toronto.jpg","type":"post","post_id":"19203","pub_date":"2014-02-03T14:40:00Z","section":"Best of Toronto","author":"Erinn Beth Langille"}'>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="OnajU0JqaR7GbNn36tIGLItHoCVGBMuABazvl0YTfjY">
 <link rel="icon" type="image/gif" href="http://www.blogto.com/favicon.gif">
@@ -44,11 +44,11 @@ GS_googleAddAdSenseService("ca-pub-3265858257515661");
 GS_googleEnableAllServices();
 </script>
 <script type='text/javascript'>
-GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutine300x250top");
-GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutine300x250middle");
-GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutine728x90");
-GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutineskinleft");
-GA_googleAddSlot("ca-pub-3265858257515661", "bestpoutineskinright");
+GA_googleAddSlot("ca-pub-3265858257515661", "blogTOBestofTO300x250Top");
+GA_googleAddSlot("ca-pub-3265858257515661", "blogTOBestofTO300x250Middle");
+GA_googleAddSlot("ca-pub-3265858257515661", "blogTOBestofTO728x90");
+GA_googleAddSlot("ca-pub-3265858257515661", "Bestof-skin-left");
+GA_googleAddSlot("ca-pub-3265858257515661", "Bestof-skin-right");
 </script>
 <script type='text/javascript'>
 GA_googleFetchAds();
@@ -90,12 +90,12 @@ GA_googleFetchAds();
 <div id="subnavie7fix"></div>
 <div id="wrapper">
   <div id="subwrapper">	
-	<div id="header" style="background-image: url('http://blogto.com/headerphotos/cntowermist.jpg');">
+	<div id="header" style="background-image: url('http://blogto.com/headerphotos/20080729header-sonicwall.jpg');">
       <div class="logo"><a href="http://www.blogto.com">blogTO | Toronto Blog</a></div>      <div class="info_wrapper">
       <div class="info"></div>
 	  <div class="info_box" style="display: none;">
 		<p>
-		The city tower as the fog lifts on Front St. <br /><strong>By Jerrold Litwinenko.</strong>		</p>
+		Record player art at Sonic Boom. <br /><strong>By teriyakidonut.</strong>		</p>
 	  </div>
       </div>
 	  <ul id="nav">
@@ -229,7 +229,7 @@ GA_googleFetchAds();
 	  <div id="weather">
 	    		  <span class="date">Wednesday, December 30, 2015</span>
 		  &mdash;
-		  <span class="weather"><a href="http://www.blogto.com/weather/">Cloudy 3&deg;C</a><img src="http://l.yimg.com/a/i/us/we/52/26.gif" class="icon" height="25" alt="" /></span>
+		  <span class="weather"><a href="http://www.blogto.com/weather/">Light Sleet 2&deg;C</a><img src="http://l.yimg.com/a/i/us/we/52/18.gif" class="icon" height="25" alt="" /></span>
 		</div>
 	  <div id="search">
   	  <form name="frmSearch" id="searchbox_015265533849369648843:pblj_nwyidq" action="http://www.blogto.com/googlesearch.php" style="margin: 0px; padding: 0px;">
@@ -257,31 +257,35 @@ GA_googleFetchAds();
         </h6>
     <div class="social">
     <g:plusone size="medium"></g:plusone>
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.blogto.com%2Ftoronto%2Fthe_best_poutine_in_toronto%2F&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.blogto.com%2Ftoronto%2Fthe_best_cappuccino_in_toronto%2F&amp;layout=button_count&amp;show_faces=false&amp;width=110&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:110px; height:21px;" allowTransparency="true"></iframe>
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="blogto">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
     </div>
-    <h1>The Best Poutine in Toronto</h1>
+    <h1>The Best Cappuccino in Toronto</h1>
     <p class="author">
-    Posted by <a href="/author/natalia">Natalia Manzocco</a>
-<span class="date"> / March  2, 2015
+    Posted by <a href="/author/erinn">Erinn Beth Langille</a>
+<span class="date"> / February  3, 2014
 </span>
     </p>
     <div class="stuff">
-            <span class="comments"><a href="#comments">32 Comments</a></span>
+            <span class="comments"><a href="#comments">27 Comments</a></span>
             <div class="clear"></div>
     </div>						
     <div class="clear"></div>
 
     <div class="content">
-        <p><img src="http://www.blogto.com/upload/2014/11/20141117-poutine-toronto.jpg" width="590" height="393" alt="best poutine toronto"/>The best poutine in Toronto takes three humble, basic ingredients - fries, cheese curds, and gravy - and transmutes them into sloppy, melty, drunk-food magic. The Quebecois staple has become a bona fide food trend here in the city, colliding with everything from <a href="http://www.blogto.com/eat_drink/2015/02/where_to_eat_chicken_wing_poutine_in_toronto/">chicken wings</a> to <a href="http://www.blogto.com/eat_drink/2015/01/where_to_eat_japanese_poutine_in_toronto/">Japanese food</a> to <a href="http://www.blogto.com/eat_drink/2015/01/where_to_eat_poutine_pizza_in_toronto/">pizza</a>. Purists prefer to savour the flavours of hand-cut potatoes, squeaky curds and slow-simmered gravy unadorned; I say there's room for everyone.</p>
+        <p><img src="http://www.blogto.com/upload/2014/02/20130429-cappuccino-toronto.jpg" width="590" height="393" alt="Cappuccino Toronto"/>The best cappuccino in Toronto can be found at cafes where baristas are well trained and always on their game. Delicious and deceptively simple, the cappuccino is considered by some to be the most difficult coffee preparation to master. Traditionally 5-6 fluid ounces, broken into thirds of espresso, hot milk and steamed microfoam, the trouble is getting that harmonious blend of coffee and creaminess. Too little milk and you can quickly careen into macchiato territory, too much and you have on your hands a full-blown latte.</p>
 
-<p>Here is the best poutine in Toronto.</p>
+<p>Fear not. As the city becomes increasing serious about their coffee, we see and taste cappuccino making on the rise. The humble beverage, named for the colour of Capuchin friars' hooded frocks and first popularized by Venetian coffee houses as the "Kapuziner," is having a moment here in this coffee-crazed town.</p>
 
-<p><strong>See also:</strong> </p>
+<p>Here's where to find the best cappuccino in Toronto.</p>
 
-<p><strong><a href="http://www.blogto.com/toronto/the_best_fries_in_toronto/">The Best Fries in Toronto</a><br />
-<a href="http://www.blogto.com/toronto/the_best_late_night_poutine_in_toronto/">The Best Late Night Poutine in Toronto</a><br />
-<a href="http://www.blogto.com/eat_drink/2015/02/the_top_10_fusion_poutine_in_toronto/">The top 10 fusion poutine in Toronto</a></strong></p>
+<p><strong>See also:</p>
+
+<p><a href="http://www.blogto.com/toronto/the_best_americano_in_toronto/">The best Americano in Toronto</a><br />
+<a href="http://www.blogto.com/toronto/the_best_cafes_in_toronto_west_side/">The best cafes in Toronto (west side)</a><br />
+<a href="http://www.blogto.com/toronto/the_best_cafes_in_toronto_east_side/">The best cafes in Toronto (east side)</a><br />
+<a href="http://www.blogto.com/toronto/the_best_late_night_cafes_in_toronto/">The best late night cafes in Toronto</a><br />
+<a href="http://www.blogto.com/toronto/the_best_cafes_for_free_wifi_in_toronto/">The best cafes in Toronto for free WiFi</a></strong></p>
 
 <link href="/css/torontolists.css" rel="stylesheet" />
 
@@ -295,86 +299,86 @@ GA_googleFetchAds();
 
 <div id="torontolists">
 	<div class="torontolists-item">
-				<img src="/upload/2014/11/20141117-nnncrepes.jpg" class="torontolists-item-image" alt="Nom Nom Nom Crepes" />
-				<h2><a href="/restaurants/nom-nom-nom-crepes-toronto"><img name="Number_1" src="/images/torontolists/number-1.gif" align="absmiddle" /></a><a href="/restaurants/nom-nom-nom-crepes-toronto" class="name">Nom Nom Nom Crepes</a></h2>
+				<img src="/upload/2014/02/2010623_SamJames-sml-cap.jpg" class="torontolists-item-image" alt="Sam James" />
+				<h2><a href="/cafes/sam-james-coffee"><img name="Number_1" src="/images/torontolists/number-1.gif" align="absmiddle" /></a><a href="/cafes/sam-james-coffee" class="name">Sam James</a></h2>
 		<p>
-		Toronto's best poutine shop doesn't just do poutine, but this tiny shipping-container creperie, run by a former Montrealer, does the dish up right. The "traditional" ($6), with red potato fries, homemade (!) cheese curds, and gravy imported direct from Quebec, might be the most authentic poutine in town - or get it topped with smoked meat, chicken and peas, or brie and caramelized onions.				<a href="/restaurants/nom-nom-nom-crepes-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Sam James applies his expertise to every aspect of coffee making. Using his Cut Coffee beans to form the nutty espresso base and keeping the ratios tight, his cappuccino is divine. Even his various shop spaces harken back to the Euro style of coffee consumption. One, two deep sips in quick succession and off you go.				<a href="/cafes/sam-james-coffee" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:1,name:"Nom Nom Nom Crepes",description:"Toronto\'s best poutine shop doesn\'t just do poutine, but this tiny shipping-container creperie, run by a former Montrealer, does the dish up right. The \"traditional\" ($6), with red potato fries, homemade (!) cheese curds, and gravy imported direct from Quebec, might be the most authentic poutine in town - or get it topped with smoked meat, chicken and peas, or brie and caramelized onions.",address:"707 Dundas St. West",phone:"647.636.0707",website:"",listing_url:"/restaurants/nom-nom-nom-crepes-toronto",entry_id:42566,latitude:43.6517906,longitude:-79.4048462,marker:null});
+aItems.push({number:1,name:"Sam James",description:"Sam James applies his expertise to every aspect of coffee making. Using his Cut Coffee beans to form the nutty espresso base and keeping the ratios tight, his cappuccino is divine. Even his various shop spaces harken back to the Euro style of coffee consumption. One, two deep sips in quick succession and off you go.",address:"297 Harbord St",phone:"647.341.2572",website:"",listing_url:"/cafes/sam-james-coffee",entry_id:14638,latitude:43.6603286,longitude:-79.4155326,marker:null});
 </script>	<div class="torontolists-item">
-				<img src="/upload/2011/02/201124--poutinis.jpg" class="torontolists-item-image" alt="Poutini's" />
-				<h2><a href="/restaurants/poutinis"><img name="Number_2" src="/images/torontolists/number-2.gif" align="absmiddle" /></a><a href="/restaurants/poutinis" class="name">Poutini's</a></h2>
+				<img src="/upload/2014/02/201423-fheit.jpg" class="torontolists-item-image" alt="Fahrenheit Coffee" />
+				<h2><a href="/cafes/fahrenheit-coffee-lombard-toronto"><img name="Number_2" src="/images/torontolists/number-2.gif" align="absmiddle" /></a><a href="/cafes/fahrenheit-coffee-lombard-toronto" class="name">Fahrenheit Coffee</a></h2>
 		<p>
-		They take their poutine seriously at this Queen St. spot, layering the toppings evenly in each bucket (no dry fries here). The basic poutine ($4.99 small, $6.99 large) comes with your choice of beef, veggie, or gluten-free gravy; there's also Daiya cheese versions for the vegans, and optional bacon and pulled pork for the totally-not-vegans.				<a href="/restaurants/poutinis" class="readmore actionable" target="_blank">More &raquo;</a>
+		Fahrenheit Coffee may lack seating or mini-chain status but it worships the coffee bean in all its incarnations and thus produces some of the best coffee drinks in the city. The cappuccino is one of owner Sameer Mohamed's specialities, using Pilot beans for espresso and delicately layering the hot milk and foam to wonderful results.				<a href="/cafes/fahrenheit-coffee-lombard-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:2,name:"Poutini\'s",description:"They take their poutine seriously at this Queen St. spot, layering the toppings evenly in each bucket (no dry fries here). The basic poutine ($4.99 small, $6.99 large) comes with your choice of beef, veggie, or gluten-free gravy; there\'s also Daiya cheese versions for the vegans, and optional bacon and pulled pork for the totally-not-vegans.",address:"1112 Queen St. West",phone:"647.342.3732",website:"",listing_url:"/restaurants/poutinis",entry_id:13553,latitude:43.6433148,longitude:-79.4231813,marker:null});
+aItems.push({number:2,name:"Fahrenheit Coffee",description:"Fahrenheit Coffee may lack seating or mini-chain status but it worships the coffee bean in all its incarnations and thus produces some of the best coffee drinks in the city. The cappuccino is one of owner Sameer Mohamed\'s specialities, using Pilot beans for espresso and delicately layering the hot milk and foam to wonderful results.",address:"120 Lombard St.",phone:"647.896.1774",website:"",listing_url:"/cafes/fahrenheit-coffee-lombard-toronto",entry_id:27362,latitude:43.6524503,longitude:-79.3728234,marker:null});
 </script>	<div class="torontolists-item" style="margin-right: 0px;">
-				<img src="/upload/2011/02/201124--smokes.jpg" class="torontolists-item-image" alt="Smoke's Poutinerie" />
-				<h2><a href="/restaurants/smokespoutinerie"><img name="Number_3" src="/images/torontolists/number-3.gif" align="absmiddle" /></a><a href="/restaurants/smokespoutinerie" class="name">Smoke's Poutinerie</a></h2>
+				<img src="/upload/2014/02/20101118_capital_cappuccino-sml.jpg" class="torontolists-item-image" alt="Capitol Espresso" />
+				<h2><a href="/cafes/capital-espresso-toronto"><img name="Number_3" src="/images/torontolists/number-3.gif" align="absmiddle" /></a><a href="/cafes/capital-espresso-toronto" class="name">Capitol Espresso</a></h2>
 		<p>
-		If you want a poutine that eats like a meal, your first stop will likely be one of Toronto's many Smoke's locations. A snack-size classic is $4.99 while a larger box runs $6.99, but nobody really bothers with the basic poutine at Smoke's - not when there's peppercorn steak, triple-pork and smoked meat versions to be had.				<a href="/restaurants/smokespoutinerie" class="readmore actionable" target="_blank">More &raquo;</a>
+		Parkdale's Capital Espresso has the neighbourhood on lock with its amazing coffee concoctions. Their cappuccino is especially good, the microfoam enveloping the bittersweet espresso (made with local Social Coffee Co. beans), creating that signature ring of tawny brown against the remaining white centre.				<a href="/cafes/capital-espresso-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:3,name:"Smoke\'s Poutinerie",description:"If you want a poutine that eats like a meal, your first stop will likely be one of Toronto\'s many Smoke\'s locations. A snack-size classic is $4.99 while a larger box runs $6.99, but nobody really bothers with the basic poutine at Smoke\'s - not when there\'s peppercorn steak, triple-pork and smoked meat versions to be had.",address:"218 Adelaide St. West",phone:"416.599.2873",website:"",listing_url:"/restaurants/smokespoutinerie",entry_id:11500,latitude:43.648415,longitude:-79.38763,marker:null});
+aItems.push({number:3,name:"Capitol Espresso",description:"Parkdale\'s Capital Espresso has the neighbourhood on lock with its amazing coffee concoctions. Their cappuccino is especially good, the microfoam enveloping the bittersweet espresso (made with local Social Coffee Co. beans), creating that signature ring of tawny brown against the remaining white centre.",address:"1349 Queen St. West",phone:"416.531.7730",website:"",listing_url:"/cafes/capital-espresso-toronto",entry_id:21166,latitude:43.6410043,longitude:-79.4345109,marker:null});
 </script><div style="clear: both;"></div>	<div class="torontolists-item">
-				<img src="/upload/2014/11/20141117-poutinevilleTH.jpg" class="torontolists-item-image" alt="Poutineville" />
-				<h2><a href="/restaurants/poutineville-toronto"><img name="Number_4" src="/images/torontolists/number-4.gif" align="absmiddle" /></a><a href="/restaurants/poutineville-toronto" class="name">Poutineville</a></h2>
+				<img src="/upload/2014/02/2010623_Crema-sml-cap.jpg" class="torontolists-item-image" alt="Crema Coffee" />
+				<h2><a href="/cafes/crema"><img name="Number_4" src="/images/torontolists/number-4.gif" align="absmiddle" /></a><a href="/cafes/crema" class="name">Crema Coffee</a></h2>
 		<p>
-		This Quebec import graced Toronto with all-you-can-eat poutine last year, and the city rejoiced. Curiously for their province of origin, they're anything but purists - the potatoes are hand-crushed instead of julienned into fries, and their signature, the Poutineville ($12), takes things up a notch with braised beef and red wine gravy. They even do a filet mignon version ($18) if you're feeling fancy.				<a href="/restaurants/poutineville-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Starting out in the Junction and now heading eastward, Crema Coffee has upped the ante once again, in using Propeller roasted beans to make their coffees. This results in a rich, dark espresso full of brightness and bite, and with the addition of creamy warm milk and topping foam, quite a lovely cappuccino.				<a href="/cafes/crema" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:4,name:"Poutineville",description:"This Quebec import graced Toronto with all-you-can-eat poutine last year, and the city rejoiced. Curiously for their province of origin, they\'re anything but purists - the potatoes are hand-crushed instead of julienned into fries, and their signature, the Poutineville ($12), takes things up a notch with braised beef and red wine gravy. They even do a filet mignon version ($18) if you\'re feeling fancy.",address:"296 Brunswick Ave.",phone:"647.349.2345",website:"",listing_url:"/restaurants/poutineville-toronto",entry_id:41182,latitude:43.6654892,longitude:-79.4075623,marker:null});
+aItems.push({number:4,name:"Crema Coffee",description:"Starting out in the Junction and now heading eastward, Crema Coffee has upped the ante once again, in using Propeller roasted beans to make their coffees. This results in a rich, dark espresso full of brightness and bite, and with the addition of creamy warm milk and topping foam, quite a lovely cappuccino.",address:"3079 Dundas West",phone:"416.767.3131",website:"",listing_url:"/cafes/crema",entry_id:10204,latitude:43.665502,longitude:-79.472481,marker:null});
 </script>	<div class="torontolists-item">
-				<img src="/upload/2014/11/20141117-leslievilleTH.jpg" class="torontolists-item-image" alt="Leslieville Pumps" />
-				<h2><a href="/restaurants/leslieville-pumps-toronto"><img name="Number_5" src="/images/torontolists/number-5.gif" align="absmiddle" /></a><a href="/restaurants/leslieville-pumps-toronto" class="name">Leslieville Pumps</a></h2>
+				<img src="/upload/2014/02/2010623_TeAro-sml-cap.jpg" class="torontolists-item-image" alt="Te Aro" />
+				<h2><a href="/cafes/tearo"><img name="Number_5" src="/images/torontolists/number-5.gif" align="absmiddle" /></a><a href="/cafes/tearo" class="name">Te Aro</a></h2>
 		<p>
-		The brisket sandwiches at this Leslieville rest stop are famous; take things up another couple notches by getting that beef stacked onto a bed of hand-cut fries, Ontario curds and homemade gravy ($5.97 plain, $8.84 loaded). There's also brisked chili, pulled pork, or - for another Quebecois twist - baked beans.				<a href="/restaurants/leslieville-pumps-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Te Aro makes a mean cappuccino with their award-winning Pilot beans. And it makes sense that their masters the game since besides covering their own two shops, they also supply a number of other top-ranking cafes in Toronto with their delicious roasts.				<a href="/cafes/tearo" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:5,name:"Leslieville Pumps",description:"The brisket sandwiches at this Leslieville rest stop are famous; take things up another couple notches by getting that beef stacked onto a bed of hand-cut fries, Ontario curds and homemade gravy ($5.97 plain, $8.84 loaded). There\'s also brisked chili, pulled pork, or - for another Quebecois twist - baked beans.",address:"929 Queen Street East",phone:"416.465.1313",website:"",listing_url:"/restaurants/leslieville-pumps-toronto",entry_id:30427,latitude:43.6608337,longitude:-79.3406882,marker:null});
+aItems.push({number:5,name:"Te Aro",description:"Te Aro makes a mean cappuccino with their award-winning Pilot beans. And it makes sense that their masters the game since besides covering their own two shops, they also supply a number of other top-ranking cafes in Toronto with their delicious roasts.",address:"983 Queen Street East",phone:"416.465.2006",website:"",listing_url:"/cafes/tearo",entry_id:13297,latitude:43.6614992,longitude:-79.3381524,marker:null});
 </script>	<div class="torontolists-item" style="margin-right: 0px;">
-				<img src="/upload/2014/11/20141117-holychuckTH.jpg" class="torontolists-item-image" alt="Holy Chuck" />
-				<h2><a href="/restaurants/holy-chuck-burgers-toronto"><img name="Number_6" src="/images/torontolists/number-6.gif" align="absmiddle" /></a><a href="/restaurants/holy-chuck-burgers-toronto" class="name">Holy Chuck</a></h2>
+				<img src="/upload/2014/02/08302013-litespresso590-06-sml-cap.jpg" class="torontolists-item-image" alt="Lit Espresso" />
+				<h2><a href="/cafes/lit"><img name="Number_6" src="/images/torontolists/number-6.gif" align="absmiddle" /></a><a href="/cafes/lit" class="name">Lit Espresso</a></h2>
 		<p>
-		This midtown burger spot revels in both the obscene and the sublime, dressing up dirty-delicious diner food with toppings that border on the preposterously indulgent. So too it is with their poutine, which is either available in classic form with real Quebec curds ($6.99) or topped with white truffles and foie gras ($29.99).				<a href="/restaurants/holy-chuck-burgers-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Both locations of Lit (On Roncesvalles and College, respectively) can whip you up a great cappuccino. The chocolate and citrus notes of their own Pig Iron beans are complemented by the warm milk and cloud of foam on top.				<a href="/cafes/lit" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:6,name:"Holy Chuck",description:"This midtown burger spot revels in both the obscene and the sublime, dressing up dirty-delicious diner food with toppings that border on the preposterously indulgent. So too it is with their poutine, which is either available in classic form with real Quebec curds ($6.99) or topped with white truffles and foie gras ($29.99).",address:"1450 Yonge St.",phone:"416.962.4285",website:"",listing_url:"/restaurants/holy-chuck-burgers-toronto",entry_id:26409,latitude:43.6875807,longitude:-79.3939129,marker:null});
+aItems.push({number:6,name:"Lit Espresso",description:"Both locations of Lit (On Roncesvalles and College, respectively) can whip you up a great cappuccino. The chocolate and citrus notes of their own Pig Iron beans are complemented by the warm milk and cloud of foam on top.",address:"221 Roncesvalles Avenue",phone:"416.538.9700",website:"",listing_url:"/cafes/lit",entry_id:10785,latitude:43.645769,longitude:-79.448828,marker:null});
 </script><div style="clear: both;"></div>	<div class="torontolists-item">
-				<img src="/upload/2014/11/20141117-loudawgsTH.jpg" class="torontolists-item-image" alt="Lou Dawg's" />
-				<h2><a href="/restaurants/lou_dawgs"><img name="Number_7" src="/images/torontolists/number-7.gif" align="absmiddle" /></a><a href="/restaurants/lou_dawgs" class="name">Lou Dawg's</a></h2>
+				<img src="/upload/2014/02/2010623_Manic-sml-cap.jpg" class="torontolists-item-image" alt="Manic Coffee" />
+				<h2><a href="/cafes/manic"><img name="Number_7" src="/images/torontolists/number-7.gif" align="absmiddle" /></a><a href="/cafes/manic" class="name">Manic Coffee</a></h2>
 		<p>
-		Southern-style meats are king at this barbecue joint's two Toronto locations - your basic poutine ($6.95 small, $10.95) can come smothered in pulled pork, brisket, pulled chicken (a nice touch), veggie chili, or even their "mmmmeaty" beans.				<a href="/restaurants/lou_dawgs" class="readmore actionable" target="_blank">More &raquo;</a>
+		Manic Coffee on College Street uses exclusively Intelligentsia beans to make their cappuccinos. As an early proponent of direct trade and fine bean roasting, Intelligentsia beans continue to signify serious coffee culture, and Manic Coffee makes the most of their flavour profile in the production of their balanced and delicious drinks.				<a href="/cafes/manic" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:7,name:"Lou Dawg\'s",description:"Southern-style meats are king at this barbecue joint\'s two Toronto locations - your basic poutine ($6.95 small, $10.95) can come smothered in pulled pork, brisket, pulled chicken (a nice touch), veggie chili, or even their \"mmmmeaty\" beans.",address:"589 King St. West",phone:"647.347.3294",website:"",listing_url:"/restaurants/lou_dawgs",entry_id:13400,latitude:43.6444147,longitude:-79.4001602,marker:null});
+aItems.push({number:7,name:"Manic Coffee",description:"Manic Coffee on College Street uses exclusively Intelligentsia beans to make their cappuccinos. As an early proponent of direct trade and fine bean roasting, Intelligentsia beans continue to signify serious coffee culture, and Manic Coffee makes the most of their flavour profile in the production of their balanced and delicious drinks.",address:"426 College Street",phone:"416.966.3888",website:"",listing_url:"/cafes/manic",entry_id:7792,latitude:43.6565551757812,longitude:-79.4071807861328,marker:null});
 </script>	<div class="torontolists-item">
-				<img src="/upload/2015/03/20150301-comeandgetitTH.jpg" class="torontolists-item-image" alt="Come And Get It" />
-				<h2><a href="/restaurants/come-and-get-it-queen-toronto"><img name="Number_8" src="/images/torontolists/number-8.gif" align="absmiddle" /></a><a href="/restaurants/come-and-get-it-queen-toronto" class="name">Come And Get It</a></h2>
+				<img src="/upload/2014/02/2010623_Mercury-sml-cap.jpg" class="torontolists-item-image" alt="Mercury Espresso" />
+				<h2><a href="/cafes/mercuryorganic"><img name="Number_8" src="/images/torontolists/number-8.gif" align="absmiddle" /></a><a href="/cafes/mercuryorganic" class="name">Mercury Espresso</a></h2>
 		<p>
-		This Queen St. snack shop will make your choice of toppings, from coconut shrimp to taco pork and beef to chipotle pulled short ribs, into salads, wraps, sandwiches or - you guessed it - a poutine. Big sizes are available for lunch until 5pm; they then go down to snackable mini sizes until close.				<a href="/restaurants/come-and-get-it-queen-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
+		Tried and true Mercury Espresso has been in the business of serving great cappuccinos before much of the other competition was even a glimmer in their mother's eye. Their version set the tone for cappuccino making in the early days, and still holds its own as one of the best around.				<a href="/cafes/mercuryorganic" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:8,name:"Come And Get It",description:"This Queen St. snack shop will make your choice of toppings, from coconut shrimp to taco pork and beef to chipotle pulled short ribs, into salads, wraps, sandwiches or - you guessed it - a poutine. Big sizes are available for lunch until 5pm; they then go down to snackable mini sizes until close.",address:"676 Queen St. ",phone:"647.344.3416",website:"",listing_url:"/restaurants/come-and-get-it-queen-toronto",entry_id:38912,latitude:43.6466713,longitude:-79.4073486,marker:null});
+aItems.push({number:8,name:"Mercury Espresso",description:"Tried and true Mercury Espresso has been in the business of serving great cappuccinos before much of the other competition was even a glimmer in their mother\'s eye. Their version set the tone for cappuccino making in the early days, and still holds its own as one of the best around.",address:"915 Queen Street East",phone:"647.435.4779",website:"",listing_url:"/cafes/mercuryorganic",entry_id:5482,latitude:43.660701751709,longitude:-79.3414993286133,marker:null});
 </script>	<div class="torontolists-item" style="margin-right: 0px;">
-				<img src="/upload/2011/02/201124-greatburgerkitchen.jpg" class="torontolists-item-image" alt="Great Burger Kitchen" />
-				<h2><a href="/restaurants/great-burger-kitchen"><img name="Number_9" src="/images/torontolists/number-9.gif" align="absmiddle" /></a><a href="/restaurants/great-burger-kitchen" class="name">Great Burger Kitchen</a></h2>
+				<img src="/upload/2014/02/20130429-590-DMP3-sml.jpg" class="torontolists-item-image" alt="De Mello Palheta" />
+				<h2><a href="/cafes/de-mello-palheta-coffee-roasters-toronto"><img name="Number_9" src="/images/torontolists/number-9.gif" align="absmiddle" /></a><a href="/cafes/de-mello-palheta-coffee-roasters-toronto" class="name">De Mello Palheta</a></h2>
 		<p>
-		Burgers aside, GBK (located at Gerrard and Jones) makes a mean poutine. Go for the classic Montreal poutine ($5.75), or get wacky with the bacon-onion-cheddar "Ontario", pulled-pork and nacho-inspired versions, and even a "poutine du jour".				<a href="/restaurants/great-burger-kitchen" class="readmore actionable" target="_blank">More &raquo;</a>
+		De Mello Palheta has been making waves (and playing favs) amongst coffee drinkers in the city with the flavour profiles of their house-roasted beans and barista skills of the Melbourne-trained owners. The cappuccino is delightful. It's rich, creamy and properly balanced, with a subtle crown of foam.				<a href="/cafes/de-mello-palheta-coffee-roasters-toronto" class="readmore actionable" target="_blank">More &raquo;</a>
 				</p>
 	</div>
 	<script language="javascript">
-aItems.push({number:9,name:"Great Burger Kitchen",description:"Burgers aside, GBK (located at Gerrard and Jones) makes a mean poutine. Go for the classic Montreal poutine ($5.75), or get wacky with the bacon-onion-cheddar \"Ontario\", pulled-pork and nacho-inspired versions, and even a \"poutine du jour\".",address:"1056 Gerrard St E",phone:"416.778.0111",website:"",listing_url:"/restaurants/great-burger-kitchen",entry_id:18552,latitude:43.6690906,longitude:-79.3362369,marker:null});
+aItems.push({number:9,name:"De Mello Palheta",description:"De Mello Palheta has been making waves (and playing favs) amongst coffee drinkers in the city with the flavour profiles of their house-roasted beans and barista skills of the Melbourne-trained owners. The cappuccino is delightful. It\'s rich, creamy and properly balanced, with a subtle crown of foam.",address:"2489 Yonge St",phone:"647.825.3916",website:"",listing_url:"/cafes/de-mello-palheta-coffee-roasters-toronto",entry_id:34952,latitude:43.7118589,longitude:-79.3992929,marker:null});
 </script><div style="clear: both;"></div></div>
 <div style="clear: both;"></div>
 <div id="torontolists-map"></div>
@@ -385,7 +389,7 @@ aItems.push({number:9,name:"Great Burger Kitchen",description:"Burgers aside, GB
 <iframe id="ad_content" src="" frameborder="0" scrolling="no" width="300" height="250"></iframe>
 <script type="text/javascript">
 $j(function(){
-	$j("#ad_content").get(0).src = "/ads/bestpoutine300x250middle.html";
+	$j("#ad_content").get(0).src = "/ads/blogTOBestofTO300x250Middle.html";
 });
 </script>
 </div>        
@@ -393,630 +397,545 @@ $j(function(){
 <a name="comments"></a>
 <div id="comments" class="box oldest">
   <h6 class="info">Discussion</h6>
-  <h2 id="commentcount">32 Comments</h2>
+  <h2 id="commentcount">27 Comments</h2>
   <div class="tools">
     <p class="commentorder">
       <span class="label">Sort By</span>
       <a class="oldest" href="#oldest">Oldest First</a> / <a class="newest" href="#newest">Newest First</a>      
     </p>    
-    <p class="icon feed comments"><a href="/feed/recentcomments/?11348">Subscribe</a></p>
+    <p class="icon feed comments"><a href="/feed/recentcomments/?19203">Subscribe</a></p>
   </div>
   
     <div id="post_comments" class="container comments">
-    	    	    	<div id="comment_1956105" class="comment odd">
-    <a name="comment-1956105" class="nolink"></a>
+    	    	    	<div id="comment_1539065" class="comment odd">
+    <a name="comment-1539065" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Damien            </span>
-                        	<span class="date"> / March 2, 2015 at 02:35 pm</span>
+            <a href="http://www.foodiesonfoot.ca" rel="nofollow" target="_blank">Steven</a>            </span>
+                        	<span class="date"> / February 3, 2014 at 02:45 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        I've found Fancy Frank's is pretty good too, mostly because of the gravy.        </div>
+        Capitol and Mercury remain some of my favourites, but, I recently tried the buffalo milk cappuccino from Bar Buca...a whole other world. So good!        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956105, 'Damien'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539065, 'Steven'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956111" class="comment even">
-    <a name="comment-1956111" class="nolink"></a>
+			    	<div id="comment_1539074" class="comment even">
+    <a name="comment-1539074" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Ryguy            </span>
-                        	<span class="date"> / March 2, 2015 at 02:45 pm</span>
+            VadimM            </span>
+                        	<span class="date"> / February 3, 2014 at 03:10 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        I normally dont write on BlogTO... but this list is way off of whats happening with poutine in Toronto. Off the top of my head I would say Beast, Beer Bistro and Canoe blow away this list.         </div>
+        Nice. I would add the &quot;Early Bird Espresso &amp; Brew Bar&quot; on Queen West to this list.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956111, 'Ryguy'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539074, 'VadimM'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956121" class="comment odd">
-    <a name="comment-1956121" class="nolink"></a>
+			    	<div id="comment_1539092" class="comment odd">
+    <a name="comment-1539092" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Guest            </span>
-                        	<span class="date"> / March 2, 2015 at 03:10 pm</span>
+            gigi            </span>
+                        	<span class="date"> / February 3, 2014 at 04:03 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Tropical Joe's has jerk chicken poutine although I've never tried it before (as I don't care for poutine).  But poutine lovers should maybe try it if they like fusion stuff.        </div>
+        Are the thumbnail pictures not of lattes? I thought this was best &quot;cappuccino&quot;...         </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956121, 'Guest'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539092, 'gigi'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956138" class="comment even">
-    <a name="comment-1956138" class="nolink"></a>
+			    	<div id="comment_1539096" class="comment even">
+    <a name="comment-1539096" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            lola            </span>
-                        	<span class="date"> / March 2, 2015 at 03:41 pm</span>
+            Biscotto            </span>
+                        	<span class="date"> / February 3, 2014 at 04:06 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Utopia has great poutine. Ask for extra curds and youre in grease heaven!         </div>
+        Awesome list, especially first and second. Rooster and R Squared are definitely up there as well.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956138, 'lola'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539096, 'Biscotto'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956158" class="comment odd">
-    <a name="comment-1956158" class="nolink"></a>
+			    	<div id="comment_1539099" class="comment odd">
+    <a name="comment-1539099" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Joe             </span>
-                        	<span class="date"> / March 2, 2015 at 04:34 pm</span>
+            Jaloodge            </span>
+                        	<span class="date"> / February 3, 2014 at 04:21 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Smoke's is really filling and such, but their gravy taste like doo doo.         </div>
+        Cappuccinos are so pedestrian. <br />
+<br />
+The Cortado adheres to the golden ratio.         </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956158, 'Joe '); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539099, 'Jaloodge'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956168" class="comment even">
-    <a name="comment-1956168" class="nolink"></a>
+			    	<div id="comment_1539120" class="comment even">
+    <a name="comment-1539120" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            christopher            </span>
-                        	<span class="date"> / March 2, 2015 at 04:51 pm</span>
+            Eastcoastbreeze             </span>
+                        	<span class="date"> / February 3, 2014 at 05:44 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Poutini's has great toppings but lousy fries.         </div>
+        Ahhh 2 of my favourites - thanks for representing the east side.         </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956168, 'christopher'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539120, 'Eastcoastbreeze '); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956181" class="comment odd">
-    <a name="comment-1956181" class="nolink"></a>
+			    	<div id="comment_1539122" class="comment odd">
+    <a name="comment-1539122" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            jackson            </span>
-                        	<span class="date"> / March 2, 2015 at 05:12 pm</span>
+            TheHipster            </span>
+                        	<span class="date"> / February 3, 2014 at 05:49 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Any restaurant in Toronto that has the name Poutine in it, serves shitty poutine. Case in point, Poutinis. #2? What a joke. <br />
+        I hear that Tim Horton's makes some fantastic cappuccino. Also, there are tons of locations.  Great prices too.         </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1539122, 'TheHipster'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1539133" class="comment even">
+    <a name="comment-1539133" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            JAMES            </span>
+                        	<span class="date"> / February 3, 2014 at 06:35 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Best one comes right outta my home espresso machine at a fraction of the cost.. Stupid people paying $5 for a cappuccino!        </div>
+    </div> <!-- /.post -->
+    <div class="replytocomment">
+        <a title="Reply" href="#" onclick="ReplyToComment(1539133, 'JAMES'); return false;">Reply</a>
+    </div>
+    <div class="clear"></div>
+</div>
+			    	<div id="comment_1539151" class="comment odd">
+    <a name="comment-1539151" class="nolink"></a>
+    <div class="post">
+        <div class="info">
+                    <span class="author">
+            Nick Nikopoulos            </span>
+                        	<span class="date"> / February 3, 2014 at 07:39 pm</span>
+        </div> <!-- /.info -->
+        <div class="user-pic">
+        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
+        </div>
+        <div class="entry-body content">
+        Caf&eacute; Caf&eacute; Lamanna in Scarborough must be experienced.<br />
+Joe's Cappucino or espresso is second to none and the deserts are fantastic. <br />
+<br />
+<br />
+where everybody knows your name<br />
+ <br />
 <br />
         </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956181, 'jackson'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539151, 'Nick Nikopoulos'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956187" class="comment even">
-    <a name="comment-1956187" class="nolink"></a>
+			    	<div id="comment_1539222" class="comment even">
+    <a name="comment-1539222" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Cityboy            </span>
-                        	<span class="date"> / March 2, 2015 at 05:16 pm</span>
+            loper            </span>
+                            <span class="inreply">replying to a <a href="#c1539133">comment from JAMES</a></span>
+                	<span class="date"> / February 3, 2014 at 11:46 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Melt Grilled Cheese as awesome poutine use skiny fries<br />
-        </div>
+        I can open up a can of beer at my house but I'd be drinking it by myself. Why don't you put on some pants and explore the outside world? Other people aren't that scary.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956187, 'Cityboy'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539222, 'loper'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956190" class="comment odd">
-    <a name="comment-1956190" class="nolink"></a>
+			    	<div id="comment_1539233" class="comment odd">
+    <a name="comment-1539233" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Ashley            </span>
-                        	<span class="date"> / March 2, 2015 at 05:26 pm</span>
+            Jesse            </span>
+                            <span class="inreply">replying to a <a href="#c1539092">comment from gigi</a></span>
+                	<span class="date"> / February 4, 2014 at 12:34 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        BROCK sandwich needs to be on this list. Seriously mmm. I could drink the gravy.         </div>
+        No they are of cappuccinos..... Just cappuccinos with microfoam instead of fluffy foam...        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956190, 'Ashley'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539233, 'Jesse'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956191" class="comment even">
-    <a name="comment-1956191" class="nolink"></a>
+			    	<div id="comment_1539326" class="comment even">
+    <a name="comment-1539326" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Poo Teen            </span>
-                        	<span class="date"> / March 2, 2015 at 05:33 pm</span>
+            JAMES            </span>
+                            <span class="inreply">replying to a <a href="#c1539222">comment from loper</a></span>
+                	<span class="date"> / February 4, 2014 at 08:28 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Mr. Tasty Fries, the blue truck at City Hall.         </div>
+        I make it to go thanks&hellip; Why waste $5 on a coffee shop when I can make the exact thing at home and have beans left over?        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956191, 'Poo Teen'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539326, 'JAMES'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956249" class="comment odd">
-    <a name="comment-1956249" class="nolink"></a>
+			    	<div id="comment_1539348" class="comment odd">
+    <a name="comment-1539348" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            johnny poutine            </span>
-                        	<span class="date"> / March 2, 2015 at 07:43 pm</span>
+            johnsonstarfishhole            </span>
+                        	<span class="date"> / February 4, 2014 at 09:25 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        the best poutine usually comes from a chip truck. nothing fancy        </div>
+        The Mascot in Parkdale has the best cappuccino in my opinion.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956249, 'johnny poutine'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539348, 'johnsonstarfishhole'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956299" class="comment even">
-    <a name="comment-1956299" class="nolink"></a>
+			    	<div id="comment_1539359" class="comment even">
+    <a name="comment-1539359" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Ami            </span>
-                        	<span class="date"> / March 2, 2015 at 09:38 pm</span>
+            RobT            </span>
+                            <span class="inreply">replying to a <a href="#c1539133">comment from JAMES</a></span>
+                	<span class="date"> / February 4, 2014 at 09:37 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        How is Big Smoke Burger not on this list?  Their poutine with beef gravy (NOT chicken gravy) is delicious!        </div>
+        There is no way you can make a cappuccino as well as any of these places using your &quot;home espresso machine.&quot; Also, none of these places charge $5 for a cappuccino. A cappuccino is $3.50 at Sam James.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956299, 'Ami'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539359, 'RobT'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956312" class="comment odd">
-    <a name="comment-1956312" class="nolink"></a>
+			    	<div id="comment_1539521" class="comment odd">
+    <a name="comment-1539521" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Donna            </span>
-                        	<span class="date"> / March 2, 2015 at 10:05 pm</span>
+            King Rob Ford            </span>
+                        	<span class="date"> / February 4, 2014 at 02:27 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Remember when Fries Supreme canme from Taco Bell and we all thought that was too much? A small tiny card board rectangle place with some fries salsa and sour cream on them was TOO MUCH? There used to be alot of Tao Bells in Toronto now there are a handfull.         </div>
+        That'll be one capp 'n one crack. Thenkyah!!        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956312, 'Donna'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1539521, 'King Rob Ford'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956419" class="comment even">
-    <a name="comment-1956419" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                	            <span class="author"><fb:name uid="ahkoon2013" linked="true" useyou="true"><a href="http://www.facebook.com/ahkoon2013">Paul</a></fb:name></span>
-                        	<span class="date"> / March 3, 2015 at 02:58 am</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        I love Poutini's hands down. I know it's not a boutique chain; however, I'd also give shout outs to Costo's poutine.        </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956419, 'Paul'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_1956531" class="comment odd">
-    <a name="comment-1956531" class="nolink"></a>
+			    	<div id="comment_1543823" class="comment even">
+    <a name="comment-1543823" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Foodie            </span>
-                        	<span class="date"> / March 3, 2015 at 08:55 am</span>
+            Marce            </span>
+                        	<span class="date"> / February 13, 2014 at 08:26 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        I like Poutini's because they offer vegetarian options. Their vegetarian gravy tastes like the real thing!        </div>
+        In my opinion. Cappuccino consist in 3 parts<br />
+1 part esspresso<br />
+2nd part stemed milk<br />
+3rd par lots of foam<br />
+Thats my cappuccino !        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956531, 'Foodie'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1543823, 'Marce'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956547" class="comment even">
-    <a name="comment-1956547" class="nolink"></a>
+			    	<div id="comment_1710412" class="comment odd">
+    <a name="comment-1710412" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            meatballs            </span>
-                        	<span class="date"> / March 3, 2015 at 09:26 am</span>
+            Brendan            </span>
+                        	<span class="date"> / July 13, 2014 at 08:25 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Come And Get It is still there? Did they move?         </div>
+        Sublime Cafe, Kensington Market.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956547, 'meatballs'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1710412, 'Brendan'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956550" class="comment odd">
-    <a name="comment-1956550" class="nolink"></a>
+			    	<div id="comment_1710836" class="comment even">
+    <a name="comment-1710836" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            MaggieMay            </span>
-                        	<span class="date"> / March 3, 2015 at 09:27 am</span>
+            Joel            </span>
+                            <span class="inreply">replying to a <a href="#c1539348">comment from johnsonstarfishhole</a></span>
+                	<span class="date"> / July 13, 2014 at 11:42 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Have you guys never tried Fresco's Fish and Chips poutine?? It's fantastic! And they offer a vegetarian gravy option.        </div>
+        *Had        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956550, 'MaggieMay'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1710836, 'Joel'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956599" class="comment even">
-    <a name="comment-1956599" class="nolink"></a>
+			    	<div id="comment_1839331" class="comment odd">
+    <a name="comment-1839331" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            bt1980            </span>
-                        	<span class="date"> / March 3, 2015 at 11:31 am</span>
+            G            </span>
+                        	<span class="date"> / November 3, 2014 at 10:59 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Never had poutine from Fresco's; but the fish and chips are amazing. Get the cod.<br />
-<br />
-I'd like to toss in a vote for Corned Beef House poutine. You can get it with or without montreal smoked meat. The fries are baked and stay crisp under the gravy.        </div>
+        Early Bird!!        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956599, 'bt1980'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1839331, 'G'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956608" class="comment odd">
-    <a name="comment-1956608" class="nolink"></a>
+			    	<div id="comment_1839593" class="comment even">
+    <a name="comment-1839593" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Aww            </span>
-                        	<span class="date"> / March 3, 2015 at 11:46 am</span>
+            me            </span>
+                            <span class="inreply">replying to a <a href="#c1539233">comment from Jesse</a></span>
+                	<span class="date"> / November 3, 2014 at 01:44 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Aww, BlogTO got butthurt and removed a ton of comments, yet again.  Wonder why?         </div>
+        there should still be foam on top - 1/3 foam; 1/3 milk; 1/3 coffee. cappuccino means 'white cap' which none of these have        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956608, 'Aww'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1839593, 'me'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956635" class="comment even">
-    <a name="comment-1956635" class="nolink"></a>
+			    	<div id="comment_1853181" class="comment odd">
+    <a name="comment-1853181" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            bobo            </span>
-                            <span class="inreply">replying to a <a href="#c1956181">comment from jackson</a></span>
-                	<span class="date"> / March 3, 2015 at 12:36 pm</span>
+            Not me            </span>
+                        	<span class="date"> / November 12, 2014 at 09:58 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Clearly you have never been to Poutini's        </div>
+        Actually, capuchin refers to a red brown colour.         </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956635, 'bobo'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1853181, 'Not me'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956653" class="comment odd">
-    <a name="comment-1956653" class="nolink"></a>
+			    	<div id="comment_1887147" class="comment even">
+    <a name="comment-1887147" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Lanners            </span>
-                            <span class="inreply">replying to a <a href="#c1956158">comment from Joe </a></span>
-                	<span class="date"> / March 3, 2015 at 01:10 pm</span>
+            Clivia            </span>
+                        	<span class="date"> / December 8, 2014 at 09:24 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        I was pretty disappointed when I tried Smokes. Everyone says it is absolutely amazing but I had a lot of dry fries in mine lol. I found poutini's to be amazing        </div>
+        A new entry to this list is Maha, an Egyptian cafe on Greenwood north of Gerrard.  Their cappuccino is spot on, but it's just the opener for their cardamom latte.  Don't leave without trying the foole!        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956653, 'Lanners'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1887147, 'Clivia'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956656" class="comment even">
-    <a name="comment-1956656" class="nolink"></a>
+			    	<div id="comment_1887154" class="comment odd">
+    <a name="comment-1887154" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Mayor McIBM Eats Babies            </span>
-                        	<span class="date"> / March 3, 2015 at 01:13 pm</span>
+            James            </span>
+                        	<span class="date"> / December 8, 2014 at 09:33 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        I love poutine.  But I also like that Dell makes better computers and dislike the fact that eye bee em kills hobos and eats their souls.        </div>
+        Sense appeal coffee roasters deserves to be on this list. 96 Spadina at Adelaide.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956656, 'Mayor McIBM Eats Babies'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1887154, 'James'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956664" class="comment odd">
-    <a name="comment-1956664" class="nolink"></a>
+			    	<div id="comment_1887186" class="comment even">
+    <a name="comment-1887186" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            <a href="http://globto.tumblr.com" rel="nofollow" target="_blank">Glob TO</a>            </span>
-                            <span class="inreply">replying to a <a href="#c1956608">comment from Aww</a></span>
-                	<span class="date"> / March 3, 2015 at 01:31 pm</span>
+            Jeff Goebel            </span>
+                        	<span class="date"> / December 8, 2014 at 10:00 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        They'd argue that it was because many comment were off-topic, but we all know it's because people are now seeing that most of their content is poutine-based and their trying to cover up the fact that the puppet masters behind Blog TO are the Pou-lumina-ti(ne)        </div>
+        I'm sorry, but I can't un-see a rather rude squirt in the top image. Oh Oh Oh Oh! ahhhhhhhhh....         </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956664, 'Glob TO'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1887186, 'Jeff Goebel'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956669" class="comment even">
-    <a name="comment-1956669" class="nolink"></a>
+			    	<div id="comment_1887517" class="comment odd">
+    <a name="comment-1887517" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            ubertorontofreeride            </span>
-                        	<span class="date"> / March 3, 2015 at 01:40 pm</span>
+            M.C.            </span>
+                        	<span class="date"> / December 8, 2014 at 02:24 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Get $20 off your first Uber ride with promo code: ubertorontofreeride        </div>
+        Hey JAMES, it costs a heckuva lot more money to have a cafe au lait in Paris, or a cappuccino in Florence, and OH BOY is it worth it.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956669, 'ubertorontofreeride'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1887517, 'M.C.'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1956926" class="comment odd">
-    <a name="comment-1956926" class="nolink"></a>
+			    	<div id="comment_1888607" class="comment even">
+    <a name="comment-1888607" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Rose            </span>
-                        	<span class="date"> / March 3, 2015 at 04:06 pm</span>
+            <a href="http://www.tonyshamas.ca" rel="nofollow" target="_blank">tony shamas</a>            </span>
+                        	<span class="date"> / December 9, 2014 at 08:32 am</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Smokes Poutine can be very hit or miss, depending on which location you go to. I love Caplansky's smoked meat poutine. It's amazing!        </div>
+        Fahrenheit Coffee is just across the street from us and they really make good espressos and capuccinos, the owner recently went on a trip in Sicily, Italy just to refine his skills in making the best ones.        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1956926, 'Rose'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1888607, 'tony shamas'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
-			    	<div id="comment_1957487" class="comment even">
-    <a name="comment-1957487" class="nolink"></a>
+			    	<div id="comment_1889009" class="comment odd">
+    <a name="comment-1889009" class="nolink"></a>
     <div class="post">
         <div class="info">
                     <span class="author">
-            Iain            </span>
-                        	<span class="date"> / March 4, 2015 at 10:53 am</span>
+            <a href="http://www.tonyshamas.ca" rel="nofollow" target="_blank">tony shamas</a>            </span>
+                        	<span class="date"> / December 9, 2014 at 02:32 pm</span>
         </div> <!-- /.info -->
         <div class="user-pic">
         	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
         </div>
         <div class="entry-body content">
-        Two places also not mentioned: The Rebel House in Rosedale...Buffalo fries, homemade demi and smoked gouda along with curds= heaven...Also Breakwall in the Beach...Velvety demi,house smoked pulled pork and real curds= rapture.        </div>
+        Bar Buca also has outstanding Cappuccinos!!        </div>
     </div> <!-- /.post -->
     <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1957487, 'Iain'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_1957839" class="comment odd">
-    <a name="comment-1957839" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                    <span class="author">
-            jeffy            </span>
-                            <span class="inreply">replying to a <a href="#c1956111">comment from Ryguy</a></span>
-                	<span class="date"> / March 4, 2015 at 06:19 pm</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        Thank you for the Toronto Life recommendations, but we are reading Blog TO.         </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1957839, 'jeffy'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_1965369" class="comment even">
-    <a name="comment-1965369" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                    <span class="author">
-            <a href="http://www.instagram.com/mikeypeetz" rel="nofollow" target="_blank">ToFoodDude</a>            </span>
-                        	<span class="date"> / March 16, 2015 at 02:08 pm</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        One of the lists on blogto where i nearly agree on almost everything. Although I think Poutineville and Holy Chucks should be higher up on the list (for regular &quot;non-fusion&quot; poutine). This List however is missing Fancy Franks. A bit newer to the poutine game than some of the candidates above but their poutine is really good. So good in fact that I'd even rate it somewhere mid-table (4-6th place). Nom Nom Crepes should be bumped down a bit. I mean it was good, really good but overall I don't think it was the best. In my personal opinion (and poutine enthusiasts will be up in arms) I liked Poutineville the most. The create your own poutine they offer with crazy options such as Filet mignon is just a very unique (to Toronto) concept. Again poutine hipsters would be in arms if this &quot;sit down half fancy&quot; poutine joint would be number one.. but to this critic, it should be.          </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1965369, 'ToFoodDude'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_1978588" class="comment odd">
-    <a name="comment-1978588" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                    <span class="author">
-            John D.            </span>
-                        	<span class="date"> / April 3, 2015 at 10:16 pm</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        I consider myself a poutine expert and if you honestly think Smokes makes one of the best in the city you literally know nothing about good poutines.   You need to judge it on the gravy, the oils in the fries, the texture (crunchy) and so forth.  Just because smokes piles a ton of soggy fries into a carton doesn't mean they make a good poutine you greedy foodies.  The best places in the city aren't in the spotlight unfortunately but remain hidden gems.   Hint ...search out some mom and pop fish n' chip joints in the east end :  )          </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(1978588, 'John D.'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_2020999" class="comment even">
-    <a name="comment-2020999" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                    <span class="author">
-            Alex            </span>
-                            <span class="inreply">replying to a <a href="#c1956550">comment from MaggieMay</a></span>
-                	<span class="date"> / June 5, 2015 at 01:23 pm</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        I absolutely gorge myself on that stuff. SO good!        </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(2020999, 'Alex'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_2024421" class="comment odd">
-    <a name="comment-2024421" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                    <span class="author">
-            Dee            </span>
-                        	<span class="date"> / June 9, 2015 at 10:17 pm</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        Anyone know where I can get jerk chicken poutine in the west end(Etobicoke/Sauga/or Btown)??        </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(2024421, 'Dee'); return false;">Reply</a>
-    </div>
-    <div class="clear"></div>
-</div>
-			    	<div id="comment_2070702" class="comment even">
-    <a name="comment-2070702" class="nolink"></a>
-    <div class="post">
-        <div class="info">
-                    <span class="author">
-            Patricia            </span>
-                        	<span class="date"> / August 31, 2015 at 11:15 am</span>
-        </div> <!-- /.info -->
-        <div class="user-pic">
-        	<img src="/mt4/mt-static/images/default-userpic-90.jpg" width="42" height="42" alt="user-pic" />
-        </div>
-        <div class="entry-body content">
-        Try King Catering's Jerk Chicken or BBQ Chicken poutine... I like the Jerk Chicken. Delicious!        </div>
-    </div> <!-- /.post -->
-    <div class="replytocomment">
-        <a title="Reply" href="#" onclick="ReplyToComment(2070702, 'Patricia'); return false;">Reply</a>
+        <a title="Reply" href="#" onclick="ReplyToComment(1889009, 'tony shamas'); return false;">Reply</a>
     </div>
     <div class="clear"></div>
 </div>
@@ -1035,8 +954,8 @@ I'd like to toss in a vote for Corned Beef House poutine. You can get it with or
     <div class="container">
     <form class="form" method="post" action="/php/mt-comments.php" name="comments_form" id="comments-form">
         <input type="hidden" name="static" value="1" />
-        <input type="hidden" name="entry_id" value="11348" />
-        <input type="hidden" name="request" value="/toronto/the_best_poutine_in_toronto/" />
+        <input type="hidden" name="entry_id" value="19203" />
+        <input type="hidden" name="request" value="/toronto/the_best_cappuccino_in_toronto/" />
                 
         <div id="comment_message"></div>
         
@@ -1091,7 +1010,7 @@ I'd like to toss in a vote for Corned Beef House poutine. You can get it with or
         <iframe id="ad_sidebar" src="" frameborder="0" scrolling="no" width="300" height="250"></iframe>
 <script type="text/javascript">
 $j(function(){
-	$j("#ad_sidebar").get(0).src = "/ads/bestpoutine300x250top.html";
+	$j("#ad_sidebar").get(0).src = "/ads/blogTOBestofTO300x250Top.html";
 });
 </script>
 
@@ -1339,506 +1258,4 @@ $j(function(){
 		<option value="/toronto/the_best_cinnamon_buns_in_toronto">The Best Cinnamon Buns in Toronto</option>
 		<option value="/toronto/the_best_mexican_restaurants_in_toronto">The Best Mexican Restaurants in Toronto</option>
 		<option value="/toronto/the_best_panini_in_toronto">The Best Panini in Toronto</option>
-		<option value="/toronto/the_best_bike_repair_shops_in_toronto">The Best Bike Repair Shops in Toronto</option>
-		<option value="/toronto/the_best_fried_chicken_in_toronto">The Best Fried Chicken in Toronto</option>
-		<option value="/toronto/the_best_korean_and_japanese_fried_chicken_in_toronto">The Best Korean and Japanese Fried Chicken in Toronto</option>
-		<option value="/toronto/the_best_butter_tarts_in_toronto">The Best Butter Tarts in Toronto</option>
-		<option value="/toronto/the_best_baguette_in_toronto">The Best Baguette in Toronto</option>
-		<option value="/toronto/the_best_used_bookstores_in_toronto">The Best Used Bookstores in Toronto</option>
-		<option value="/toronto/the_best_sandwiches_in_toronto">The Best Sandwiches in Toronto</option>
-		<option value="/toronto/the_best_menswear_stores_in_toronto">The Best Menswear Stores in Toronto</option>
-		<option value="/toronto/the_best_used_bike_shops_in_toronto">The Best Used Bike Shops in Toronto</option>
-		<option value="/toronto/the_best_bike_stores_in_toronto">The Best Bike Stores in Toronto</option>
-		<option value="/toronto/the_best_margaritas_in_toronto">The Best Margaritas in Toronto</option>
-		<option value="/toronto/the_best_gluten_free_bakeries_in_toronto">The Best Gluten Free Bakeries in Toronto</option>
-		<option value="/toronto/the_best_cocktails_in_toronto">The Best Cocktails in Toronto</option>
-		<option value="/toronto/the_best_danishes_in_toronto">The Best Danishes in Toronto</option>
-		<option value="/toronto/the_best_butcher_shops_in_toronto">The Best Butcher Shops in Toronto</option>
-		<option value="/toronto/the_best_quiche_in_toronto">The Best Quiche in Toronto</option>
-		<option value="/toronto/the_best_grilled_cheese_sandwich_in_toronto">The Best Grilled Cheese Sandwich in Toronto</option>
-		<option value="/toronto/the_best_muffins_in_toronto">The Best Muffins in Toronto</option>
-		<option value="/toronto/the_best_brunch_in_toronto">The Best Brunch in Toronto</option>
-		<option value="/toronto/the_best_bbq_chicken_churrasqueiras_in_toronto">The Best BBQ Chicken (Churrasqueiras) in Toronto</option>
-		<option value="/toronto/the_best_nachos_in_toronto">The Best Nachos in Toronto</option>
-		<option value="/toronto/the_best_pies_in_toronto">The Best Pies in Toronto</option>
-		<option value="/toronto/the_best_pizza_in_toronto">The Best Pizza in Toronto</option>
-		<option value="/toronto/the_best_butter_chicken_in_toronto">The Best Butter Chicken in Toronto</option>
-		<option value="/toronto/the_best_french_toast_in_toronto">The Best French Toast in Toronto</option>
-		<option value="/toronto/the_best_croissant_in_toronto">The Best Croissant in Toronto</option>
-		<option value="/toronto/the_best_bookstores_in_toronto">The Best Bookstores in Toronto</option>
-		<option value="/toronto/the_best_fish_tacos_in_toronto">The Best Fish Tacos in Toronto</option>
-		<option value="/toronto/the_best_chefs_tables_in_toronto">The Best Chef's Tables in Toronto</option>
-		<option value="/toronto/the_best_souvlaki_and_gyros_in_toronto">The Best Souvlaki and Gyros in Toronto</option>
-		<option value="/toronto/the_best_restaurants_that_take_reservations_for_brunch_in_toronto">The Best Restaurants that take Reservations for Brunch in Toronto</option>
-		<option value="/toronto/the_best_restaurants_for_a_business_lunch_in_toronto">The Best Restaurants for a Business Lunch in Toronto</option>
-		<option value="/toronto/the_best_candy_stores_in_toronto">The Best Candy Stores in Toronto</option>
-		<option value="/toronto/the_best_snack_bars_in_toronto">The Best Snack Bars in Toronto</option>
-		<option value="/toronto/the_best_beer_selection_in_toronto">The Best Beer Selection in Toronto</option>
-		<option value="/toronto/the_best_spas_in_toronto">The Best Spas in Toronto</option>
-		<option value="/toronto/the_best_steakhouses_in_toronto">The Best Steakhouses in Toronto</option>
-		<option value="/toronto/the_best_vintage_clothing_stores_in_toronto">The Best Vintage Clothing Stores in Toronto</option>
-		<option value="/toronto/the_best_soup_in_toronto">The Best Soup in Toronto</option>
-		<option value="/toronto/the_best_hot_chocolate_in_toronto">The Best Hot Chocolate in Toronto</option>
-		<option value="/toronto/the_best_art_supply_stores_in_toronto">The Best Art Supply Stores in Toronto</option>
-		<option value="/toronto/the_best_public_library_in_toronto">The Best Public Library in Toronto</option>
-		<option value="/toronto/the_best_meat_pies_in_toronto">The Best Meat Pies in Toronto</option>
-		<option value="/toronto/the_best_card_paper_and_stationery_shops_in_toronto">The Best Card, Paper and Stationery Shops in Toronto</option>
-		<option value="/toronto/the_best_donuts_in_toronto">The Best Donuts in Toronto</option>
-		<option value="/toronto/the_best_cappuccino_in_toronto">The Best Cappuccino in Toronto</option>
-		<option value="/toronto/the_best_sports_bars_in_toronto">The Best Sports Bars in Toronto</option>
-		<option value="/toronto/the_best_custom_and_picture_framing_stores_in_toronto">The Best Custom and Picture Framing Stores in Toronto</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2013">The Best New Restaurants in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_brunch_restaurants_in_toronto_2013">The Best New Brunch Restaurants in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_bars_in_toronto_2013">The Best New Bars in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_cheap_eats_in_toronto_2013">The Best New Cheap Eats in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_cafes_in_toronto_2013">The Best New Cafes in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_bakeries_in_toronto_2013">The Best New Bakeries in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_design_stores_in_toronto_2013">The Best New Design Stores in Toronto, 2013</option>
-		<option value="/toronto/the_best_new_fashion_stores_in_toronto_2013">The Best New Fashion Stores in Toronto, 2013</option>
-		<option value="/toronto/the_best_24_hour_grocery_stores_in_toronto">The Best 24 Hour Grocery Stores in Toronto</option>
-		<option value="/toronto/the_best_used_cd_stores_in_toronto">The Best Used CD Stores in Toronto</option>
-		<option value="/toronto/the_best_pubs_in_scarborough">The Best Pubs in Scarborough</option>
-		<option value="/toronto/the_best_shops_to_find_locally_made_goods_in_toronto">The Best Shops to Find Locally Made Goods in Toronto</option>
-		<option value="/toronto/the_best_eyeglasses_in_toronto">The Best Eyeglasses in Toronto</option>
-		<option value="/toronto/the_best_gay_bars_in_toronto">The Best Gay Bars in Toronto</option>
-		<option value="/toronto/the_best_health_food_stores_in_toronto">The Best Health Food Stores in Toronto</option>
-		<option value="/toronto/the_best_coffee_roasters_in_toronto">The Best Coffee Roasters in Toronto</option>
-		<option value="/toronto/the_best_eggs_benedict_in_toronto">The Best Eggs Benedict in Toronto</option>
-		<option value="/toronto/the_best_specialty_fitness_clubs_in_toronto">The Best Specialty Fitness Clubs in Toronto</option>
-		<option value="/toronto/the_best_cafes_for_free_wifi_in_toronto">The Best Cafes for Free WiFi in Toronto</option>
-		<option value="/toronto/the_best_cafes_in_toronto_east_side">The Best Cafes in Toronto (East Side)</option>
-		<option value="/toronto/the_best_cafes_in_toronto_west_side">The Best Cafes in Toronto (West Side)</option>
-		<option value="/toronto/the_best_cigar_stores_in_toronto">The Best Cigar Stores in Toronto</option>
-		<option value="/toronto/best_place_to_buy_a_suit_in_toronto">Best Place to Buy a Suit in Toronto</option>
-		<option value="/toronto/the_best_vinyl_record_stores_in_toronto">The Best Vinyl Record Stores in Toronto</option>
-		<option value="/toronto/the_best_movers_in_toronto">The Best Movers in Toronto</option>
-		<option value="/toronto/the_best_piercing_in_toronto">The Best Piercing in Toronto</option>
-		<option value="/toronto/the_best_bb_in_toronto">The Best B&amp;B in Toronto</option>
-		<option value="/toronto/the_best_filipino_restaurants_in_toronto">The Best Filipino Restaurants in Toronto</option>
-		<option value="/toronto/the_best_dog_walking_services_in_toronto">The Best Dog Walking Services in Toronto</option>
-		<option value="/toronto/the_best_barber_shops_in_toronto">The Best Barber Shops in Toronto</option>
-		<option value="/toronto/the_best_pizza_in_etobicoke">The Best Pizza in Etobicoke</option>
-		<option value="/toronto/the_best_cheap_hotels_in_toronto">The Best Cheap Hotels in Toronto</option>
-		<option value="/toronto/the_best_rock_bars_in_toronto">The Best Rock Bars in Toronto</option>
-		<option value="/toronto/the_best_cheap_eats_in_scarborough">The Best Cheap Eats in Scarborough</option>
-		<option value="/toronto/the_best_granola_in_toronto">The Best Granola in Toronto</option>
-		<option value="/toronto/the_best_diners_in_toronto">The Best Diners in Toronto</option>
-		<option value="/toronto/the_best_live_music_venues_in_toronto">The Best Live Music Venues in Toronto</option>
-		<option value="/toronto/the_best_film_festivals_in_toronto">The Best Film Festivals in Toronto</option>
-		<option value="/toronto/the_best_omakase_in_toronto">The Best Omakase in Toronto</option>
-		<option value="/toronto/the_best_shoe_stores_in_toronto">The Best Shoe Stores in Toronto</option>
-		<option value="/toronto/the_best_lounges_in_toronto">The Best Lounges in Toronto</option>
-		<option value="/toronto/the_best_wheat_and_gluten_free_restaurants_in_toronto">The Best Wheat and Gluten Free Restaurants in Toronto</option>
-		<option value="/toronto/the_best_italian_restaurants_in_toronto">The Best Italian Restaurants in Toronto</option>
-		<option value="/toronto/the_best_frozen_yogurt_in_toronto">The Best Frozen Yogurt in Toronto</option>
-		<option value="/toronto/the_best_tailors_in_toronto">The Best Tailors in Toronto</option>
-		<option value="/toronto/the_best_indian_buffet_in_toronto">The Best Indian Buffet in Toronto</option>
-		<option value="/toronto/the_best_stores_to_buy_greeting_cards_in_toronto">The Best Stores to Buy Greeting Cards in Toronto</option>
-		<option value="/toronto/the_best_oysters_in_toronto">The Best Oysters in Toronto</option>
-		<option value="/toronto/the_best_latin_american_restaurants_in_toronto">The Best Latin American Restaurants in Toronto</option>
-		<option value="/toronto/the_best_bibimbap_in_toronto">The Best Bibimbap in Toronto</option>
-		<option value="/toronto/the_best_seamstress_in_toronto">The Best Seamstress in Toronto</option>
-		<option value="/toronto/the_best_jeans_and_denim_stores_in_toronto">The Best Jeans and Denim Stores in Toronto</option>
-		<option value="/toronto/the_best_delis_in_toronto">The Best Delis in Toronto</option>
-		<option value="/toronto/the_best_congee_in_toronto">The Best Congee in Toronto</option>
-		<option value="/toronto/the_best_izakaya_restaurants_in_toronto">The Best Izakaya Restaurants in Toronto</option>
-		<option value="/toronto/the_best_banh_mi_in_toronto">The Best Banh Mi in Toronto</option>
-		<option value="/toronto/the_best_prix_fixe_menus_in_toronto">The Best Prix Fixe Menus in Toronto</option>
-		<option value="/toronto/the_best_family_style_dinners_in_toronto">The Best Family Style Dinners in Toronto</option>
-		<option value="/toronto/the_best_caesar_salad_in_toronto">The Best Caesar Salad in Toronto</option>
-		<option value="/toronto/the_best_philly_cheesesteak_in_toronto">The Best Philly Cheesesteak in Toronto</option>
-		<option value="/toronto/the_best_microbrewery_in_toronto">The Best Microbrewery in Toronto</option>
-		<option value="/toronto/the_best_sliders_in_toronto">The Best Sliders in Toronto</option>
-		<option value="/toronto/the_best_late_night_poutine_in_toronto">The Best Late Night Poutine in Toronto</option>
-		<option value="/toronto/the_best_irish_pubs_in_toronto">The Best Irish Pubs in Toronto</option>
-		<option value="/toronto/the_best_steak_tartare_in_toronto">The Best Steak Tartare in Toronto</option>
-		<option value="/toronto/the_best_ramen_in_toronto">The Best Ramen in Toronto</option>
-		<option value="/toronto/the_best_fish_stores_in_toronto">The Best Fish Stores in Toronto</option>
-		<option value="/toronto/the_best_sausages_in_toronto">The Best Sausages in Toronto</option>
-		<option value="/toronto/the_best_wonton_soup_in_toronto">The Best Wonton Soup in Toronto</option>
-		<option value="/toronto/the_best_splurge_sushi_in_toronto">The Best Splurge Sushi in Toronto</option>
-		<option value="/toronto/the_best_cheap_sushi_in_toronto">The Best Cheap Sushi in Toronto</option>
-		<option value="/toronto/the_best_slice_of_cake_in_toronto">The Best Slice of Cake in Toronto</option>
-		<option value="/toronto/the_best_lobster_roll_in_toronto">The Best Lobster Roll in Toronto</option>
-		<option value="/toronto/the_best_bone_marrow_in_toronto">The Best Bone Marrow in Toronto</option>
-		<option value="/toronto/the_best_custom_and_road_bike_shops_in_toronto">The Best Custom and Road Bike Shops in Toronto</option>
-		<option value="/toronto/the_best_bagels_in_toronto">The Best Bagels in Toronto</option>
-		<option value="/toronto/the_best_pubs_in_toronto">The Best Pubs in Toronto</option>
-		<option value="/toronto/the_best_late_night_sandwiches_in_toronto">The Best Late Night Sandwiches in Toronto</option>
-		<option value="/toronto/the_best_late_night_souvlaki_and_gyros_in_toronto">The best late night souvlaki and gyros in Toronto</option>
-		<option value="/toronto/the_best_late_night_korean_restaurants_in_toronto">The best late night Korean restaurants in Toronto</option>
-		<option value="/toronto/the_best_hostels_in_toronto">The Best Hostels in Toronto</option>
-		<option value="/toronto/the_best_late_night_falafel_and_shawarma_in_toronto">The Best Late Night Falafel and Shawarma in Toronto</option>
-		<option value="/toronto/the_best_airport_hotels_in_toronto">The Best Airport Hotels in Toronto</option>
-		<option value="/toronto/the_best_boutique_hotels_in_toronto">The Best Boutique Hotels in Toronto</option>
-		<option value="/toronto/the_best_luxury_hotels_in_toronto">The Best Luxury Hotels in Toronto</option>
-		<option value="/toronto/the_best_late_night_burritos_in_toronto">The Best Late Night Burritos in Toronto</option>
-		<option value="/toronto/the_best_late_night_breakfast_in_toronto">The Best Late Night Breakfast in Toronto</option>
-		<option value="/toronto/the_best_wine_bars_in_toronto">The Best Wine Bars in Toronto</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2012">The Best New Restaurants in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_cheap_eats_in_toronto_2012">The Best New Cheap Eats in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_specialty_food_stores_in_toronto_2012">The Best New Specialty Food Stores in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_brunch_restaurants_in_toronto_2012">The Best New Brunch Restaurants in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_bars_in_toronto_2012">The Best New Bars in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_design_stores_in_toronto_2012">The Best New Design Stores in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_art_galleries_in_toronto_2012">The Best New Art Galleries in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_cafes_in_toronto_2012">The Best New Cafes in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_bakeries_in_toronto_2012">The Best New Bakeries in Toronto, 2012</option>
-		<option value="/toronto/the_best_new_fashion_stores_in_toronto_2012">The Best New Fashion Stores in Toronto, 2012</option>
-		<option value="/toronto/the_best_strip_clubs_in_toronto">The Best Strip Clubs in Toronto</option>
-		<option value="/toronto/the_best_animal_hospital_in_toronto">The Best Animal Hospital in Toronto</option>
-		<option value="/toronto/the_best_tea_in_toronto">The Best Tea in Toronto</option>
-		<option value="/toronto/the_best_gastropubs_in_toronto">The Best Gastropubs in Toronto</option>
-		<option value="/toronto/the_best_custom_and_wedding_cakes_in_toronto">The Best Custom (and Wedding) Cakes in Toronto</option>
-		<option value="/toronto/the_best_dry_cleaners_in_toronto">The Best Dry Cleaners in Toronto</option>
-		<option value="/toronto/the_best_italian_hot_tables_in_toronto">The Best Italian Hot Tables in Toronto</option>
-		<option value="/toronto/the_best_patios_in_toronto">The Best Patios in Toronto</option>
-		<option value="/toronto/the_best_crossfit_gyms_in_toronto">The Best CrossFit Gyms in Toronto</option>
-		<option value="/toronto/the_best_parks_to_have_a_picnic_in_toronto">The Best Parks to Have a Picnic in Toronto</option>
-		<option value="/toronto/the_best_laundromats_in_toronto">The Best Laundromats in Toronto</option>
-		<option value="/toronto/the_best_empanadas_in_toronto">The Best Empanadas in Toronto</option>
-		<option value="/toronto/the_best_dim_sum_in_toronto">The Best Dim Sum in Toronto</option>
-		<option value="/toronto/the_best_personal_trainers_in_toronto">The Best Personal Trainers in Toronto</option>
-		<option value="/toronto/the_best_tennis_clubs_in_toronto">The Best Tennis Clubs in Toronto</option>
-		<option value="/toronto/the_best_blues_bars_in_toronto">The Best Blues Bars in Toronto</option>
-		<option value="/toronto/the_best_fabric_stores_in_toronto">The Best Fabric Stores in Toronto</option>
-		<option value="/toronto/the_best_place_to_watch_a_film_in_toronto">The Best Place to Watch a Film in Toronto</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2011">The Best New Restaurants in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_cheap_eats_in_toronto_2011">The Best New Cheap Eats in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_bakeries_in_toronto_2011">The Best New Bakeries in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_fashion_stores_in_toronto_2011">The Best New Fashion Stores in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_brunch_restaurants_in_toronto_2011">The Best New Brunch Restaurants in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_bars_in_toronto_2011">The Best New Bars in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_design_stores_in_toronto_2011">The Best New Design Stores in Toronto, 2011</option>
-		<option value="/toronto/the_best_new_cafes_in_toronto_2011">The Best New Cafes in Toronto, 2011</option>
-		<option value="/toronto/the_best_schnitzel_in_toronto">The Best Schnitzel in Toronto</option>
-		<option value="/toronto/the_best_old-school_burgers_in_toronto">The Best Old-School Burgers in Toronto</option>
-		<option value="/toronto/the_best_indoor_sports_fields_in_toronto">The Best Indoor Sports Fields in Toronto</option>
-		<option value="/toronto/the_best_catering_companies_in_toronto">The Best Catering Companies in Toronto</option>
-		<option value="/toronto/the_best_camera_stores_in_toronto">The Best Camera Stores in Toronto</option>
-		<option value="/toronto/the_best_skateboard_shops_in_toronto">The Best Skateboard Shops in Toronto</option>
-		<option value="/toronto/the_best_portuguese_bakeries_in_toronto">The Best Portuguese Bakeries in Toronto</option>
-		<option value="/toronto/the_best_samosa_in_toronto">The Best Samosa in Toronto</option>
-		<option value="/toronto/the_best_public_swimming_pools_in_toronto">The Best Public Swimming Pools in Toronto</option>
-		<option value="/toronto/the_best_fruit_vegetable_stores_in_toronto">The Best Fruit &amp; Vegetable Stores in Toronto</option>
-		<option value="/toronto/the_best_new_bakeries_in_toronto_2010">The Best New Bakeries in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_design_stores_in_toronto_2010">The Best New Design Stores in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_fashion_stores_in_toronto_2010">The Best New Fashion Stores in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2010">The Best New Restaurants in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_bars_in_toronto_2010">The Best New Bars in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_brunch_restaurants_in_toronto_2010">The Best New Brunch Restaurants in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_cheap_eats_in_toronto_2010">The Best New Cheap Eats in Toronto, 2010</option>
-		<option value="/toronto/the_best_new_cafes_in_toronto_2010">The Best New Cafes in Toronto, 2010</option>
-		<option value="/toronto/the_best_window_displays_in_toronto">The Best Window Displays in Toronto</option>
-		<option value="/toronto/the_best_cooking_classes_in_toronto">The Best Cooking Classes in Toronto</option>
-		<option value="/toronto/the_best_summer_sports_leagues_in_toronto">The Best Summer Sports Leagues in Toronto</option>
-		<option value="/toronto/the_best_green_wedding_services_in_toronto">The Best Green Wedding Services in Toronto</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2009">The Best New Restaurants in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_design_stores_in_toronto_2009">The Best New Design Stores in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_fashion_stores_in_toronto_2009">The Best New Fashion Stores in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_cheap_eats_in_toronto_2009">The Best New Cheap Eats in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_brunch_restaurants_in_toronto_2009">The Best New Brunch Restaurants in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_cafes_in_toronto_2009">The Best New Cafes in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_bakeries_in_toronto_2009">The Best New Bakeries in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_art_galleries_in_toronto_2009">The Best New Art Galleries in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_bars_in_toronto_2009">The Best New Bars in Toronto, 2009</option>
-		<option value="/toronto/the_best_new_specialty_stores_in_toronto_2008">The Best New Specialty Stores in Toronto, 2008</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2008">The Best New Restaurants in Toronto, 2008</option>
-		<option value="/toronto/the_best_new_cafes_in_toronto_2008">The Best New Cafes in Toronto, 2008</option>
-		<option value="/toronto/the_best_new_clothing_stores_in_toronto_2008">The Best New Clothing Stores in Toronto, 2008</option>
-		<option value="/toronto/the_best_new_art_galleries_in_toronto_2008">The Best New Art Galleries in Toronto, 2008</option>
-		<option value="/toronto/the_best_new_cheap_eats_in_toronto_2008">The Best New Cheap Eats in Toronto, 2008</option>
-		<option value="/toronto/the_best_of_the_newer_cheap_eats_restaurants_in_toronto">The Best of the Newer Cheap Eats Restaurants in Toronto</option>
-		<option value="/toronto/the_best_new_bars_and_clubs_in_toronto">The Best New Bars and Clubs in Toronto</option>
-		<option value="/toronto/the_best_green_services_in_toronto">The Best Green Services in Toronto</option>
-		<option value="/toronto/the_best_new_restaurants_in_toronto_2007">The Best New Restaurants in Toronto, 2007</option>
-		</select>
-	</form>
-	</div>
-	</div>
-	<div class="bottom"></div>
-  </div>
-<style type="text/css">
-@import "/css/widgets/latestreviews.css";
-</style>
-<div id="latest_reviews_widget" class="tabbedbox">
-  <h6>Reviews</h6>
-  <h3>Recent Reviews</h3>
-  <form name="frmSidebarLatestReviews">
-    <p><strong>Refine the list using the categories below:</strong></p>
-    <div class="categories">
-      <ul>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Restaurants" value="1" checked="checked" /> <label for="ListingTypes_Restaurants"><img src="/images/icon-restaurants.gif" />Restaurants</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Bars" value="2" checked="checked" /> <label for="ListingTypes_Bars"><img src="/images/icon-bars.gif" />Bars</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Cafes" value="3" checked="checked" /> <label for="ListingTypes_Cafes"><img src="/images/icon-cafes.gif" />Cafes</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_BakedGoods" value="9" checked="checked" /> <label for="ListingTypes_BakedGoods"><img src="/images/icon-bakery.gif" />Baked Goods</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Grocery" value="6" checked="checked" /> <label for="ListingTypes_Grocery"><img src="/images/icon-grocery.gif" />Grocery</label></li>
-      </ul>
-      <ul>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Fashion" value="5" checked="checked" /> <label for="ListingTypes_Fashion"><img src="/images/icon-fashion.gif" />Fashion</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Design" value="4" checked="checked" /> <label for="ListingTypes_Design"><img src="/images/icon-design.gif" />Design</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_ArtGalleries" value="7" checked="checked" /> <label for="ListingTypes_ArtGalleries"><img src="/images/icon-gallery.gif" />Art Galleries</label></li>
-        <li><input type="checkbox" name="ListingTypes" class="listingTypesCheck" id="ListingTypes_Books" value="8" checked="checked" /> <label for="ListingTypes_Books"><img src="/images/icon-bookstores.gif" />Books</label></li>
-        <li><input type="checkbox" name="ToggleListingTypes" id="ToggleListingTypes" value="" checked="checked" /> <label for="ToggleListingTypes"><strong>(De)select All</strong></label></li>
-      </ul>
-      <br class="clear" />
-    </div>
-    <div class="results"></div>
-    <div class="loading">Loading...</div>
-    <select name="BrowseListings" onchange="if(this.value != '') window.location = this.value;">
-      <option value="">Choose a Category</option>
-            <option value="/bakery">Baked Goods</option>
-            <option value="/bars">Bars</option>
-            <option value="/bookstores">Bookstores</option>
-            <option value="/cafes">Cafes</option>
-            <option value="/design">Design Stores</option>
-            <option value="/fashion">Fashion Stores</option>
-            <option value="/fitness">Fitness Clubs</option>
-            <option value="/gallery">Galleries</option>
-            <option value="/grocery">Grocery Stores</option>
-            <option value="/hotels">Hotels</option>
-            <option value="/restaurants">Restaurants</option>
-            <option value="/services">Services</option>
-          </select>
-  </form>
-</div>
-
-</div>	<div class="clear"></div>
-
-<div class="wallpaperad left ">
-<div class="ad">
-<script type='text/javascript'>
-GA_googleFillSlot("bestpoutineskinleft");
-</script>
-</div>
-</div>
-<div class="wallpaperad right ">
-<div class="ad">
-<script type='text/javascript'>
-GA_googleFillSlot("bestpoutineskinright");
-</script>
-</div>
-</div>
-<script type="text/javascript">
-$j(function(){
-	function setWallpaperCss(){
-		var iFooterBottomExtra = 46;
-		var iHeight = ($j("body").height() - $j("#midwrapper").offset().top) + iFooterBottomExtra;
-		$j("#midwrapper .wallpaperad")
-		.css({
-			height: iHeight,
-			cursor: "pointer"		
-		})
-		.click(function(){
-			var url = "#";
-			
-			if(url != '' && url != '#'){
-				window.location = url;
-			}
-		});
-	}
-	
-	setWallpaperCss();
-	
-	$j(window).load(function(){
-		setWallpaperCss();
-	});
-});
-</script>
-</div> <!-- /#midwrapper -->
-
-
-<div id="bottom">
-<div class="adbox ad_728x90 ad_bottom">
-<iframe id="ad_bottom" src="" frameborder="0" scrolling="no" width="728" height="90"></iframe>
-<script type="text/javascript">
-$j(function(){
-	$j("#ad_bottom").get(0).src = "/ads/bestpoutine728x90.html";
-});
-</script>
-</div>
-<script type="text/javascript">
-$j(function(){
-	if($j.browser.msie && parseInt($j.browser.version) == 8){
-		if(window.location.href.indexOf("/sports") == -1 && window.location.href.indexOf("/music/2010/05/lcd_soundsystem_heats_up_the_kool_haus") == -1){
-			// Fix a bug in IE8 with Flash banners having empty space above them by increasing the iframe height
-			$j("#ad_bottom").attr("height", 130);
-		}
-	}
-});
-</script></div>	<div id="footer">
-	  	  	  
-	  <div class="panel first links">
-      <h5>Quick Links</h5>
-  		<ul>
-  		  <li><a href="/archives.php">Site Archives</a></li>
-  		  <li><a href="/about/">About blogTO</a></li>
-  		  <li><a href="/contact/?advertise">Advertise on blogTO</a></li>
-  		  <li><a href="/blogto-mediakit.pdf">Download our Media Kit</a></li>
-  		  <li><a href="/contact/">Contact Us</a></li>
-          <li><a href="/commentpolicy/">Comment Policy</a></li>
-  		  <li><a href="/privacy/">Privacy Policy</a></li>
-  		</ul>
-		</div>
-	  <div class="panel social">
-	    <h5>Get Connected</h5>
-      <ul>
-        <li><a href="http://twitter.com/blogto">Follow Us on Twitter</a></li>
-        <li><a href="http://www.flickr.com/groups/blogto/">Join the blogTO Flickr pool</a></li>
-        <li><a href="http://www.facebook.com/blogto">Become a fan on Facebook</a></li>
-        <li><a href="https://plus.google.com/105828791034915170815/posts">Join blogTO on Google+</a></li>
-      </ul>
-	  </div>
-	  <div class="panel resources">
-	   <h5>Links &amp; Resources</h5>
-	   <p>Our directory of useful links and resources</p>
-	   <select name="link_picker" id="link_picker" size="1">
-       <option value="">Choose ...</option>
-       	 				<option value="54">Arts Events</option>
- 				 				<option value="84">Arts Organizations</option>
- 				 				<option value="67">Cooking Classes</option>
- 				 				<option value="64">Fashion Blogs and Media</option>
- 				 				<option value="66">Food Related</option>
- 				 				<option value="87">Green Events</option>
- 				 				<option value="86">Green Organizations</option>
- 				 				<option value="6">Local Blogs</option>
- 				 				<option value="7">Local Photoblogs</option>
- 				 				<option value="69">Local Podcasts</option>
- 				 				<option value="70">Local Videocasts</option>
- 				 				<option value="65">Related Fashion Links</option>
- 				 				<option value="63">Related Film Links</option>
- 				 				<option value="61">Related Music Links</option>
- 				 				<option value="71">Sex Shops</option>
- 				 				<option value="74">Sports and Rec Leagues and Activities</option>
- 				 				<option value="73">Sports News</option>
- 				 				<option value="72">Sports Teams</option>
- 				 				<option value="57">Theatre Production Companies</option>
- 				 				<option value="59">Toronto Book Publishers</option>
- 				 				<option value="58">Toronto Bookstores</option>
- 				 				<option value="62">Toronto Film Festivals</option>
- 				 				<option value="85">Toronto Magazines</option>
- 				 				<option value="5">Toronto Media</option>
- 				 				<option value="60">Toronto Music Labels</option>
- 				 				<option value="68">Toronto Photography</option>
- 				 				<option value="56">Toronto Theatres</option>
- 				 				<option value="4">Useful Stuff</option>
- 				     </select>
-     <div id="links_level_two"></div>
-     <p><a href="/suggestlink/" class="button suggest_link">Suggest a Site</a></p>
-	  </div>
-	  <div class="panel newsletter">
-	    <h5>Email Newsletter</h5>
-  	  <p>Get daily alerts delivered to your inbox.</p>
-  	  <form id="frmFooterNewsletter" method="post" target="popupwindow" action="http://www.feedburner.com/fb/a/emailverify" onsubmit="window.open('http://www.feedburner.com','popupwindow', 'scrollbars=yes,width=550,height=520'); return true;">
-  		<fieldset>
-  		  <input type="hidden" value="http://feeds.feedburner.com/~e?ffid=374105" name="url" id="url" />
-  		  <input type="hidden" value="blogTO" name="title" id="title" />
-  		  <input type="text" class="text" name="email" id="email" value="Enter your email" onfocus="if(this.value == 'Enter your email') this.value = '';" />
-  		  <p><a href="#" class="button subscribe" onclick="document.forms.frmFooterNewsletter.submit(); return false;">Subscribe</a></p>
-  		</fieldset>
-  	  </form>
-	  </div>
-    <div class="panel feeds">
-      <h5>Subscribe</h5>
-      <ul>
-  		  <li><a href="http://feeds.feedburner.com/blogto/">RSS Feed</a></li>
-  		  <li><a href="http://feeds.feedburner.com/blogtoreviews">Reviews Feed</a></li>
-  		  <li><a href="http://feeds.feedburner.com/torontoevents">Events Feed</a></li>
-		  </ul>
-    </div>	  
-	  
-	  <div class="about">
-	    <p>Freshdaily is Canada's source for hyper-local arts, music, film, fashion, food and news coverage. <br /> We currently publish web sites in Toronto, Vancouver and Montreal. <a href="http://www.freshdaily.ca">Check out what's fresh.</a></p>
-	  </div>
-	  <div id="legalease">
-  	  <p class="legal">Copyright &copy; 2004-2015. Published under a <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 (Canada) license</a></p>
-  	  <p class="disclaimer">Disclaimer: Comments and entries represent the viewpoints of the individual and no one else.</p>
-    </div>
-	</div> <!-- /#footer -->
-	
-  </div>
-  <div id="top">
-	  <div id="freshdaily"><a href="http://www.freshdaily.ca/" target="_blank">Fresh Daily<img src="http://www.blogto.com/images/logo-freshdaily.png" alt="FreshDaily" /></a></div>
-	  <div id="partner_sites">
-	    Other Cities: <a href="http://www.midnightpoutine.ca">Montreal</a>
-	  </div>
-        </div> <!-- /#top -->
-  
-  	<div id="hi_user">
-		<span id="user_is_logged_in" style="display: none;">
-			<a id="nav_myprofile" href="http://profiles.blogto.com">PROFILE</a>
-			<a id="nav_settings" href="http://profiles.blogto.com/settings">SETTINGS</a>
-			<a id="nav_friends" href="http://profiles.blogto.com/friends">FRIEND FEED</a>			
-			<a href="#" onclick="return fb_logout();">LOGOUT</a>
-		</span>
-		<span id="fb_login_button" style="display: none;">
-			<fb:login-button perms="email,publish_stream"></fb:login-button>
-		</span>
-	</div>
-  
-  
-</div> <!-- /#wrapper -->
-
-<div id="menu" style="display: none;">
-  <div class="top">
-  	<div id="menu-top-1"></div>
-	<div id="menu-top-2"></div>
-	<div id="menu-top-3"></div>
-	<div id="menu-top-4"></div>
-  </div>
-  <ul id="menu-items">
-  	<li>&nbsp;</li>
-  </ul>
-  <div class="bottom">
-   	<div class="left"></div><div id="menu-bottom-center" class="center"></div><div class="right"></div>
-  </div>
-</div>
-
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-_uacct = "UA-220979-1";
-if(urchinTracker && typeof urchinTracker == 'function') urchinTracker();
-</script>
-
-<script type="text/javascript">
-  var _sf_async_config={};
-  /** CONFIGURATION START **/
-  _sf_async_config.uid = 40495;
-  _sf_async_config.domain = "blogto.com";
-  /** CONFIGURATION END **/
-  (function(){
-    function loadChartbeat() {
-      window._sf_endpt=(new Date()).getTime();
-      var e = document.createElement("script");
-      e.setAttribute("language", "javascript");
-      e.setAttribute("type", "text/javascript");
-      e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
-      document.body.appendChild(e);
-    }
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != "function") ?
-       loadChartbeat : function() { try { oldonload(); } catch (e) { loadChartbeat(); throw e} loadChartbeat(); };
-  })();
-</script>
-
- 
-<!-- START Parse.ly Include: Standard -->
-<div id="parsely-root" style="display: none">
-  <div id="parsely-cfg" data-parsely-site="blogto.com"></div>
-</div>
-<script>
-(function(s, p, d) {
-  var h=d.location.protocol, i=p+"-"+s,
-      e=d.getElementById(i), r=d.getElementById(p+"-root"),
-      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
-      :"static."+p+".com";
-  if (e) return;
-  e = d.createElement(s); e.id = i; e.async = true;
-  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
-})("script", "parsely", document);
-</script>
-<!-- END Parse.ly Include -->
-
-</body>
-</html>
+		<option value="/toronto/the_best_bike_repair_shops_in_toronto">The Best Bike Repair Shops in Toronto<
