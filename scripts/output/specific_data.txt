@@ -90,12 +90,12 @@ GA_googleFetchAds();
 <div id="subnavie7fix"></div>
 <div id="wrapper">
   <div id="subwrapper">	
-	<div id="header" style="background-image: url('http://blogto.com/headerphotos/header-queenspadinalights.jpg');">
+	<div id="header" style="background-image: url('http://blogto.com/headerphotos/20080824-header-jaywalk.jpg');">
       <div class="logo"><a href="http://www.blogto.com">blogTO | Toronto Blog</a></div>      <div class="info_wrapper">
       <div class="info"></div>
 	  <div class="info_box" style="display: none;">
 		<p>
-		Shops near Queen &amp; Spadina. <br /><strong>By Rollin Su</strong>		</p>
+		Jaywalkers on Bay and Front. <br /><strong>By KatNav.</strong>		</p>
 	  </div>
       </div>
 	  <ul id="nav">
