@@ -1,5 +1,4 @@
 var base_link = 'http://www.blogto.com';
-
 //when you press the refresh button, get new data
 $('button').click(function(){
 
