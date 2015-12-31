@@ -1,9 +1,5 @@
 <?php
 
-  //updates the data in the files by fetching everything
-  //need to do this on the server in the background
-  // exec ( 'sh ./../scripts/script.sh' );
-
   //the location of the data
   $file = './../scripts/output/list.csv';
 
