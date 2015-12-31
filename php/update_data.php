@@ -1,27 +1,25 @@
 <?php
 
-  //the location of the data
-  $file = './../scripts/output/list.csv';
+  // where the data is stored
+  $dir = './../scripts/output/data_store/small_data';
 
-  //converting the file to an array of strings
-  $lines = file($file);
+  // gets all the files in the directory
+  $files = glob($dir . '/*.*');
 
-  //getting a random index into that file
-  $random_index = rand(0,count($lines));
-  $random_entry = $lines[$random_index];
+  //gets a random index
+  $file = array_rand($files);
 
-  //converting the line to an array, and then a dictionary for json encoding
-  $line = explode(", ", $random_entry);
+  //gets the lines in a random file
+  $lines = file($files[$file]);
 
-  $command = "sh ./../scripts/extract_number_one.sh $line[0]";
-  system ($command);
+  // gets the title from the file name
+  $title = explode("data/", $files[$file])[1];
+  $title = explode(".min", $title)[0];
 
-  // //the location of the data
-  $file = '/var/www/uplaylist.xyz/toronto/scripts/output/best.txt';
-  // //converting the file to an array of strings
-  $best = file($file);
+  //builds up the json array
+  $json_array = array('title' => $title, 'first' => $lines[0], 'second' => $lines[1], 'third' => $lines[2]);
 
-  $json_array = array('url' => $best[0], 'title' => $line[1]);
-  //returning json object
+  //returns json object
   echo json_encode($json_array);
+
 ?>

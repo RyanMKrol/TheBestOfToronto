@@ -1,27 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="js/lib/jquery-min.js"></script>
-
-    <!-- style for this html page -->
-    <link href = "css/main.css" rel = "stylesheet"/>
+    <!-- library styles -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+    <!-- own css files -->
+    <link href="css/main.css" rel="stylesheet"/>
   </head>
 
   <body>
-    <div class='content centered'>
-      <h1 id='activity_title'></h1>
-      <a id='activity_link' href = ''>Link</a><br/>
-      <button><i class="fa fa-refresh fa-3x"></i></button>
+    <div id='first_window' class="parallax-window" data-parallax="scroll" data-image-src="img/background_blur.jpg">
+      <!-- content -->
+      <div class='content centered'>
+        <!-- name of activity -->
+        <h1 id='activity_title'></h1>
+        <!-- button for refreshing -->
+        <button><i class="fa fa-refresh fa-5x"></i></button><br/>
+        <!-- link to the activity -->
+        <a id='activity_link' href = ''>Link</a>
+
+      </div>
     </div>
+    <div class='centered'>
+      <div class='activity_div' id='one'>
+
+      </div>
+      <div class='activity_div' id='two'>
+
+      </div>
+      <div class='activity_div' id='three'>
+
+      </div>
+    </div>
+
+    <!-- library files -->
+    <script src="js/lib/jquery-min.js"></script>
+    <script src="js/lib/parallax.min.js"></script>
+
+    <!-- own javascript files -->
     <script src="js/main.js"></script>
   </body>
 </html>
 
 <!--
-To Do List:
-* I need to improve the caching mechanism, requests are currently taking way too long
-* Need to add support for multiple things, not just one, maybe a top 3
-* Want to add a map of some sort
-* Have some styling for the multiple best things
+  To Do List:
+    * Want to add a map of some sort
+    * Have some styling for the multiple best things
 -->
