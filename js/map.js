@@ -5,6 +5,7 @@ var maps = [];
 var markers = [];
 var infowindows = [];
 
+// initialises the map objects
 function initMap() {
 
   // creates each map
@@ -14,26 +15,12 @@ function initMap() {
 
     // creates the map object
     maps[key] = new google.maps.Map(val, {
-      zoom: 15,
+      zoom: 14,
       center: myLatLng,
       scrollwheel: false
     });
 
-    // creates a marker for the map
-    markers[key] = new google.maps.Marker({
-      position: myLatLng,
-      map: maps[key],
-      animation: google.maps.Animation.DROP,
-      title: bestOfToronto.activities[key].name
-    });
-
-    // sets an information window on the marker
-    infowindows[key] = new google.maps.InfoWindow({
-      content: bestOfToronto.activities[key].name.replace(/\+/g, " ")
-    });
-
-    // display the information windows
-    infowindows[key].open(maps[key], markers[key]);
+    addMiscData(key, myLatLng);
   });
 }
 
@@ -52,21 +39,32 @@ function updateMap(){
     // removes the current marker from the map
     markers[key].setMap(null);
 
-    // sets a new marker on the map
-    markers[key] = new google.maps.Marker({
-      position: myLatLng,
-      map: maps[key],
-      animation: google.maps.Animation.DROP,
-      title: bestOfToronto.activities[key].name
-    });
-
-    // sets an information window on the marker
-    infowindows[key] = new google.maps.InfoWindow({
-      content: bestOfToronto.activities[key].name.replace(/\+/g, " ")
-    });
-
-    // display the information windows
-    infowindows[key].open(maps[key], markers[key]);
-
+    addMiscData(key, myLatLng);
   });
+}
+
+// i refactored this code because it's used in both init and update
+function addMiscData(key, myLatLng){
+
+  var clean_name = bestOfToronto.activities[key].name.replace(/\+/g, " ");
+
+  // sets a new marker on the map
+  markers[key] = new google.maps.Marker({
+    position: myLatLng,
+    map: maps[key],
+    animation: google.maps.Animation.DROP,
+    title: bestOfToronto.activities[key].name
+  });
+
+  // sets an information window on the marker
+  infowindows[key] = new google.maps.InfoWindow({
+    // have to change the title back to a user friendly format
+    content: clean_name
+  });
+
+  // display the information windows
+  infowindows[key].open(maps[key], markers[key]);
+
+  // i change this information here because of the pause between the refresh and the map updating
+  $('.location_div>h2').eq(key).html(clean_name);
 }

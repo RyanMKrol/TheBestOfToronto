@@ -15,9 +15,9 @@ $('button').click(function(){
 
     // set the title of the page
     $('#activity_title').html(json.title);
-
     // set each of the places objects
     for (i = 0; i < json.locations.length; i++) {
+
       bestOfToronto.activities[i] = json.locations[i];
 
       // set the titles to be something that will play nicely with the map api

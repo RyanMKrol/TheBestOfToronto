@@ -69,16 +69,27 @@ button {
   margin: 0px;
 }
 
-.activity_div {
-  display: inline-block;
-  height: 500px;
-  width: 32%;
-  background-color: red;
-  margin: 0px;
-  padding: 0px;
+/*style for the maps used*/
+.map {
+  height: 100%;
+  width: 90%;
+  color: black;
+  margin: auto;
+  padding: auto;
 }
-.map { display: inline-block; height: 500px; width: 32%; color: black;}
+
 /*gets rid of the annoying redundancies at the bottom of the map*/
 .gmnoprint .gm-style-cc div {visibility: hidden;}
 .gmnoprint.gm-style-cc div {visibility: hidden;}
 .gm-style-cc div {visibility: hidden;}
+
+/*style for the divs holding the maps and relevant information*/
+.location_div {
+
+  display: inline-block;
+  width: 33%;
+  height: 500px;
+  color: black;
+  font-family: Helvetica;
+
+}
