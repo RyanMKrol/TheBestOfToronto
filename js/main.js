@@ -22,12 +22,10 @@ $('button').click(function(){
 
 function placeRequest(activity_object){
   $.getJSON("php/get_place_data.php", {'place': activity_object.name}, function(json){
-    console.log("starting");
-    console.log(activity_object.name);
-    console.log(json);
     activity_object.place_id = json.results[0].place_id;
-    console.log(activity_object.name + " " + json.results[0].place_id);
-    console.log(json.results[0].place_id);
+    activity_object.lat = json.results[0].geometry.location.lat;
+    activity_object.lng = json.results[0].geometry.location.lng;
+    console.log(activity_object);
   });
 }
 
