@@ -8,7 +8,8 @@ $('button').click(function(){
     $('#activity_title').html(json.title);
     $('#activity_link').attr('href', link);
   });
-  $.get("php/get_place_data.php", function(json){
+  
+  $.getJSON("php/get_place_data.php", function(json){
     console.log(json);
   });
 });
