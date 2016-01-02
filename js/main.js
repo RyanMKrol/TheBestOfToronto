@@ -11,11 +11,7 @@ $('button').click(function(){
       places[i] = json[i];
       // places[i].name = places[i].name.replace(" ", "+");
       places[i].name = places[i].name.replace(/ /g, "+");
-      console.log(places[i].name);
-      $.getJSON("php/get_place_data.php", {'place': places[i].name}, function(json){
-        console.log("json data");
-        console.log(json);
-      });
+      placeRequest(places[i]);
     }
 
     // var link = base_link + json.first;
@@ -23,6 +19,17 @@ $('button').click(function(){
     // $('#activity_link').attr('href', link);
   });
 });
+
+function placeRequest(activity_object){
+  $.getJSON("php/get_place_data.php", {'place': activity_object.name}, function(json){
+    console.log("starting");
+    console.log(activity_object.name);
+    console.log(json);
+    activity_object.place_id = json.results[0].place_id;
+    console.log(activity_object.name + " " + json.results[0].place_id);
+    console.log(json.results[0].place_id);
+  });
+}
 
 // when the page is ready simulate a refresh
 $(document).ready(function(){
