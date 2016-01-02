@@ -77,7 +77,7 @@ button {
   margin: 0px;
   padding: 0px;
 }
-.map { display: inline-block; height: 500px; width: 32%; }
+.map { display: inline-block; height: 500px; width: 32%; color: black;}
 /*gets rid of the annoying redundancies at the bottom of the map*/
 .gmnoprint .gm-style-cc div {visibility: hidden;}
 .gmnoprint.gm-style-cc div {visibility: hidden;}

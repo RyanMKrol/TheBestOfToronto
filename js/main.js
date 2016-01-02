@@ -58,9 +58,10 @@ function placeRequest(activity_object){
         $.getScript( "https://maps.googleapis.com/maps/api/js?key=AIzaSyAXZ9JJRcKig6MbOcIyhLWAVPAUBrz6xcM&callback=initMap");
       } else {
 
-        // update the map
-        console.log("just update the map");
+        //update the maps
+        updateMap();
       }
+      outstanding_ajax_calls = 0;
     }
   });
 }
