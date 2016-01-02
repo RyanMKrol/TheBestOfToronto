@@ -1,1 +1,1 @@
-50 17 * * * sh var/www/uplaylist.xyz/toronto/scripts/update_data_store.sh > var/www/uplaylist.xyz/toronto/scripts/output/log.txt
+50 17 * * * sh /var/www/uplaylist.xyz/toronto/scripts/update_data_store.sh > /var/www/uplaylist.xyz/toronto/scripts/output/log.txt

@@ -4,7 +4,7 @@
 
   $base_url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?";
   $toronto_geoloc = "location=43.7184038,-79.5181429";
-  $name = "&name=pizza+pizza";
+  $name = "&keyword=".$_GET["place"];
   $toronto_radius = "&radius=22500";
 
   $api_url = $base_url . $toronto_geoloc . $toronto_radius . $name . $key;
