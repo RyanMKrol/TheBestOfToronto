@@ -3,25 +3,32 @@
   <head>
     <style type="text/css">
       html, body { height: 100%; margin: 0; padding: 0; }
-      #map { height: 50%; width: 33%; }
+      .map { display: inline-block; height: 50%; width: 33%; }
     </style>
   </head>
   <body>
-    <div id="map"></div>
+    <div class = "map" id="map1"></div>
+    <div class = "map" id="map2"></div>
+    <div class = "map" id="map3"></div>
     <script type="text/javascript">
     function initMap() {
-      var myLatLng = {lat: 43.8055812, lng: -79.2880809};
 
-      var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 15,
-        center: myLatLng
-      });
+      for(i = 1; i < 4; i++){
+        console.log("in loop");
+        var myLatLng = {lat: 43.8055812, lng: -79.2880809};
+        console.log('map' + i);
+        var map = new google.maps.Map(document.getElementById('map' + i), {
+          zoom: 15,
+          center: myLatLng
+        });
+        console.log("got first map");
 
-      var marker = new google.maps.Marker({
-        position: myLatLng,
-        map: map,
-        title: 'Hello World!'
-      });
+        var marker = new google.maps.Marker({
+          position: myLatLng,
+          map: map,
+          title: 'Hello World!'
+        });
+      }
     }
 
     </script>
