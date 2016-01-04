@@ -46,6 +46,7 @@ function updateMap(){
 // i refactored this code because it's used in both init and update
 function addMiscData(key, myLatLng){
 
+  // puts the name of the location in a user friendly format
   var clean_name = bestOfToronto.activities[key].name.replace(/\+/g, " ");
 
   // sets a new marker on the map

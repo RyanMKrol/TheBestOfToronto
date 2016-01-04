@@ -3,12 +3,20 @@ var bestOfToronto =  bestOfToronto || {};
 var base_link = 'http://www.blogto.com';
 //when you press the refresh button, get new data
 
+// used to store the activities
 bestOfToronto.activities = [];
 
+// used to keep track of the ajax requests
 var outstanding_ajax_calls = 0;
 
 // when the user presses a button
 $('button').click(function(){
+
+  if (navigator.geolocation) {
+      navigator.geolocation.getCurrentPosition(showPosition, function(){alert("error");});
+  } else {
+      x.innerHTML = "Geolocation is not supported by this browser.";
+  }
 
   // get JSON data
   $.getJSON( "php/update_data.php", function( json ) {
@@ -28,6 +36,11 @@ $('button').click(function(){
     }
   });
 });
+
+function showPosition(position) {
+    var latlon = position.coords.latitude + "," + position.coords.longitude;
+    alert(latlon);
+}
 
 // api call to get the map location of the activity
 function placeRequest(activity_object){
@@ -61,6 +74,8 @@ function placeRequest(activity_object){
         //update the maps
         updateMap();
       }
+
+      // reset the ajax calls
       outstanding_ajax_calls = 0;
     }
   });

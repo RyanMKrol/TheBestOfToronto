@@ -22,6 +22,7 @@
     array_push($json_objects, $json_object);
   }
 
+  // set up the array to be sent back
   $json_response = array('title' => basename($directory[$activity]), 'locations' => $json_objects);
 
   // print out the json array

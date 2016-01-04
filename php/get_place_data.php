@@ -32,10 +32,14 @@
       die('error occured during curl exec. Additioanl info: ' . var_export($info));
     } else {
       if (strpos($curl_response,'ZERO_RESULTS') !== false) {
+
+        // checks if this is the first request
         if($first_request){
+          // if it is, we try again with additional information
           $url = $base_url . $toronto_geoloc . $toronto_radius . $keyword . $name .$key;
           apiRequest($url, false);
         } else {
+          // if not, then we have no other avenues
           echo $curl_response;
         }
       }
