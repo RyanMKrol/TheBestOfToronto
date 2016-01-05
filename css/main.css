@@ -72,7 +72,7 @@ body, html {
 }
 
 /* get the scoll indicator centered vertically */
-.scroll_indicator i{
+.scroll_indicator i {
   position: absolute;
   top: -1px;
 }
@@ -84,8 +84,8 @@ body, html {
 .location_div {
   margin-top: 40px;
   display: inline-block;
-  width: 33%;
-  height: 80%;
+  width: 32%;
+  height: 100%;
   color: black;
   font-family: Helvetica;
   text-align: center;
@@ -93,8 +93,8 @@ body, html {
 
 /* style for the maps themselves */
 .map {
-  height: 100%;
-  width: 90%;
+  height: 60%;
+  width: 100%;
   color: black;
   margin: auto;
   padding: auto;
@@ -182,5 +182,10 @@ body, html {
 
 /* second parallax layer */
 #group2 {
+  /*height: 60vh;*/
   z-index: 3;
+}
+
+#group2 .parallax__layer--fore{
+  text-align: center;
 }

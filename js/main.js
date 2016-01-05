@@ -19,7 +19,7 @@ $('button').click(function(){
 
   // get JSON data
   $.getJSON( "php/update_data.php", function( json ) {
-
+    console.log(json);
     // set the title of the page
     $('#activity_title').html(json.title);
     // set each of the places objects

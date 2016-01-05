@@ -104,6 +104,7 @@ function addMiscData(key, myLatLng){
 
   // i change this information here because of the pause between the refresh and the map updating
   $('.location_div>h2').eq(key).html(clean_name);
+  $('.location_div>h3').eq(key).html(bestOfToronto.activities[key].description);
 }
 
 // used when the system gets the lat and long values for the user

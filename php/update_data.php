@@ -18,7 +18,8 @@
   foreach (glob($directory[$activity].'/*') as $filename) {
     $title = basename($filename);
     $url = file($filename)[0];
-    $json_object = array('name' => $title, 'url' => $url);
+    $description = file($filename)[1];
+    $json_object = array('name' => $title, 'url' => $url, 'description' => $description);
     array_push($json_objects, $json_object);
   }
 
