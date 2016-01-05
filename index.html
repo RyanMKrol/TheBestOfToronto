@@ -14,51 +14,59 @@
 
   <body>
     <div class="parallax">
-      <div id="group1" class="parallax__group">
-        <div class="parallax__layer parallax__layer--base">
-          <div class='scroll_indicator'><i class="fa fa-sort-desc"></i></div>
-        </div>
-        <div class="parallax__layer parallax__layer--fore">
-
-          <div class="title">
-            <!-- holds the name of the activity -->
-            <h1 id='activity_title'></h1>
-
-            <!-- button for refreshing -->
-            <button id="refresh"><i class="button fa fa-refresh fa-4x"></i></button>
-          </div>
-
-        </div>
+    <div id="group1" class="parallax__group">
+      <div class="parallax__layer parallax__layer--base">
+        <div class='scroll_indicator'><i class="fa fa-sort-desc"></i></div>
       </div>
-      <div id="group2" class="parallax__group">
-        <!-- <div class="parallax__layer parallax__layer--base">
-          <div class="title">Base Layer</div>
-        </div> -->
-        <div class="parallax__layer parallax__layer--base">
+      <div class="parallax__layer parallax__layer--fore">
+
+        <div class="title">
+          <h1 id='activity_title'></h1>
+          <button id="refresh"><i class="button fa fa-refresh fa-4x"></i></button>
         </div>
-        <div class="parallax__layer parallax__layer--fore">
-          <div class='location_div' id='location_one'>
-            <h2></h2>
-            <div class="map" id="map1"></div>
-            <h3 class='description'></h3>
-          </div>
 
-          <!-- holds second location -->
-          <div class='location_div' id='location_two'>
+      </div>
+    </div>
+    <div id="group2" class="parallax__group">
+      <div class="parallax__layer parallax__layer--fore">
+        <div class='location_map' id='location_one'>
+          <div class="map" id="map1"></div>
+        </div>
+        <div class='location_info' id='location_one'>
+          <div class='centered'>
             <h2></h2>
-            <div class="map" id="map2"></div>
-            <h3 class='description'></h3>
-          </div>
-
-          <!-- holds third location -->
-          <div class='location_div' id='location_three'>
-            <h2></h2>
-            <div class="map" id="map3"></div>
-            <h3 class='description'></h3>
+            <p class='description'></h3>
           </div>
         </div>
       </div>
     </div>
+    <div id="group3" class="parallax__group">
+      <div class="parallax__layer parallax__layer--fore">
+        <div class='location_map' id='location_one'>
+          <div class="map" id="map2"></div>
+        </div>
+        <div class='location_info' id='location_one'>
+          <div class='centered'>
+            <h2></h2>
+            <p class='description'></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="group4" class="parallax__group">
+      <div class="parallax__layer parallax__layer--fore">
+        <div class='location_map' id='location_one'>
+          <div class="map" id="map3"></div>
+        </div>
+        <div class='location_info' id='location_one'>
+          <div class='centered'>
+            <h2></h2>
+            <p class='description'></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
     <!-- library files -->
     <script src="js/lib/jquery-min.js"></script>
@@ -71,6 +79,9 @@
 </html>
 
 <!--
+
+  All functionality is more of less done now. I just need to add style to the page
+  to get it presentable for other people.
   To Do List:
     * Add a loader for the maps
 -->
