@@ -13,48 +13,44 @@
   </head>
 
   <body>
-    <div id='first_window' class="parallax-window" data-parallax="scroll" data-image-src="img/background_blur.jpg">
+    <div class="parallax">
+      <div class="parallax__layer parallax__layer--back">
+        <!-- content -->
+        <div class='content centered'>
 
-      <!-- content -->
-      <div class='content centered'>
+          <!-- name of activity -->
+          <h1 id='activity_title'></h1>
+          <!-- button for refreshing -->
+          <button><i class="fa fa-refresh fa-5x"></i></button><br/>
 
-        <!-- name of activity -->
-        <h1 id='activity_title'></h1>
-        <!-- button for refreshing -->
-        <button><i class="fa fa-refresh fa-5x"></i></button><br/>
+        </div>
+      </div>
+      <div class="parallax__layer parallax__layer--base">
+        <div class='centered'>
 
+          <!-- holds first location -->
+          <div class='location_div' id='location_one'>
+            <h2></h2>
+            <div class="map" id="map1"></div>
+          </div>
+
+          <!-- holds second location -->
+          <div class='location_div' id='location_two'>
+            <h2></h2>
+            <div class="map" id="map2"></div>
+          </div>
+
+          <!-- holds third location -->
+          <div class='location_div' id='location_three'>
+            <h2></h2>
+            <div class="map" id="map3"></div>
+          </div>
+        </div>
       </div>
     </div>
-
-    <!-- holds centered content -->
-    <div class='centered'>
-
-      <!-- holds first location -->
-      <div class='location_div' id='location_one'>
-        <h2></h2>
-        <div class="map" id="map1"></div>
-      </div>
-
-      <!-- holds second location -->
-      <div class='location_div' id='location_two'>
-        <h2></h2>
-        <div class="map" id="map2"></div>
-      </div>
-
-      <!-- holds third location -->
-      <div class='location_div' id='location_three'>
-        <h2></h2>
-        <div class="map" id="map3"></div>
-
-      </div>
-    </div>
-    <br/>
-    <br/>
-    <br/>
 
     <!-- library files -->
     <script src="js/lib/jquery-min.js"></script>
-    <script src="js/lib/parallax.min.js"></script>
 
     <!-- own javascript files -->
     <script src="js/main.js"></script>
@@ -65,7 +61,6 @@
 
 <!--
   To Do List:
-    * Have some styling for the multiple best things
     * Set styling on the information boxes
     * Potentially add more information in the information boxes
     * figure out the parallax scrolling
