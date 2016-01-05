@@ -1,167 +1,13 @@
-html {
-
-  color: white;
-  width: 100%;
-}
-
-body {
-  padding: 0px;
-  margin: 0px;
-}
-h1 {
-
-  /*text will all be in uppercase and center aligned*/
-  text-transform: uppercase;
-  text-align: center;
-
-  /*font properties*/
-  font-family: Helvetica;
-  font-size: 100px;
-}
-
-button {
-
-  /*size properties*/
-  width: 100px;
-  height: 100px;
-
-  /*border and background properties*/
-  border-radius: 50%;
-	border:2px solid #cfdcec;
-  background: #404040;
-
-  /*misc properties*/
-  color: white;
-  cursor: pointer;
-  outline: none;
-}
-.centered {
-
-  /*everything is center aligned*/
-  text-align: center;
-  margin: auto;
-}
-
-/*style for the maps used*/
-.map {
-  height: 100%;
-  width: 90%;
-  color: black;
-  margin: auto;
-  padding: auto;
-}
-
-/*gets rid of the annoying redundancies at the bottom of the map*/
-.gmnoprint .gm-style-cc div {visibility: hidden;}
-.gmnoprint.gm-style-cc div {visibility: hidden;}
-.gm-style-cc div {visibility: hidden;}
-
-/*style for the divs holding the maps and relevant information*/
-.location_div {
-  margin-top: 75px;
-  display: inline-block;
-  width: 33%;
-  height: 80%;
-  color: black;
-  font-family: Helvetica;
-  text-align: center;
-}
-/*beggining of parallax styling*/
-.parallax {
-  perspective: 1px;
-  height: 100vh;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-.parallax__layer {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-}
-
-.parallax__layer--base {
-  transform: translateZ(-1px) scale(2);
-}
-.parallax__layer--back {
-  transform: translateZ(-2px) scale(3);
-}
-
-.parallax__group {
-  position: relative;
-  height: 50%;
-  transform-style: preserve-3d;
-  /*transform: translate3d(700px, 0, -800px) rotateY(30deg);*/
-
-}
-.background_div{
-  height: 100%;
-  background-image: url("../img/background_blur.jpg");
-  background-size: cover;
-}
-
-.tester{
-  height: 100%;
-  background-color: black;
-}
-
-.parallax {
-  height: 500px; /* fallback for older browsers */
-  height: 100vh;
-  overflow-x: hidden;
-  overflow-y: auto;
-  -webkit-perspective: 300px;
-  perspective: 300px;
-}
-
-.parallax__group {
-  position: relative;
-  height: 500px; /* fallback for older browsers */
-  height: 100vh;
-  -webkit-transform-style: preserve-3d;
-  transform-style: preserve-3d;
-}
-
-.parallax__layer {
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-}
-
-.parallax__layer--fore {
-  -webkit-transform: translateZ(90px) scale(.7);
-  transform: translateZ(90px) scale(.7);
-  z-index: 1;
-}
-
-.parallax__layer--base {
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-  z-index: 4;
-}
-
-.parallax__layer--back {
-  -webkit-transform: translateZ(-300px) scale(2);
-  transform: translateZ(-300px) scale(2);
-  z-index: 3;
-}
-
-.parallax__layer--deep {
-  -webkit-transform: translateZ(-600px) scale(3);
-  transform: translateZ(-600px) scale(3);
-  z-index: 2;
-}
-
-/* demo styles
+/* page style
 --------------------------------------------- */
 
+/* style for the whole page */
 body, html {
   overflow: hidden;
+  color: white;
 }
 
+/* applies this to everything */
 * {
   margin:0;
   padding:0;
@@ -178,23 +24,139 @@ body, html {
   transform: translate(-50%, -50%);
 }
 
+/* style for the activity header */
+#activity_title {
 
+  /* text will all be in uppercase and center aligned */
+  text-transform: uppercase;
+  text-align: center;
 
-/* style the groups
+  /* font properties */
+  font-family: Helvetica;
+  font-size: 100px;
+}
+
+/* style for the refresh button */
+#refresh {
+
+  /* size properties */
+  width: 100px;
+  height: 100px;
+
+  /* border and background properties */
+  border-radius: 50%;
+	border:2px solid #cfdcec;
+  background: #404040;
+
+  /* misc properties */
+  color: white;
+  cursor: pointer;
+  outline: none;
+}
+
+/* style for the map components
 --------------------------------------------- */
 
-#group1 {
-  z-index: 5; /* slide over group 2 */
+/* style for the divs holding the maps */
+.location_div {
+  margin-top: 40px;
+  display: inline-block;
+  width: 33%;
+  height: 80%;
+  color: black;
+  font-family: Helvetica;
+  text-align: center;
 }
+
+/* style for the maps themselves */
+.map {
+  height: 100%;
+  width: 90%;
+  color: black;
+  margin: auto;
+  padding: auto;
+}
+
+/* gets rid of the annoying redundancies at the bottom of the map */
+.gmnoprint .gm-style-cc div {visibility: hidden;}
+.gmnoprint.gm-style-cc div {visibility: hidden;}
+.gm-style-cc div {visibility: hidden;}
+
+/* style for the parallax components
+--------------------------------------------- */
+
+/* parallax holder */
+.parallax {
+  height: 500px; /* fallback for older browsers */
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+  -webkit-perspective: 300px;
+  perspective: 300px;
+}
+
+/* groups of parallax elements */
+.parallax__group {
+  position: relative;
+  height: 500px; /* fallback for older browsers */
+  height: 100vh;
+  -webkit-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+
+/* style for each parallax layer */
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* fore layer */
+.parallax__layer--fore {
+  -webkit-transform: translateZ(90px) scale(.7);
+  transform: translateZ(90px) scale(.7);
+  z-index: 1;
+}
+
+/* base layer */
+.parallax__layer--base {
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  z-index: 4;
+}
+
+/* back layer */
+.parallax__layer--back {
+  -webkit-transform: translateZ(-300px) scale(2);
+  transform: translateZ(-300px) scale(2);
+  z-index: 3;
+}
+
+/* deep layer */
+.parallax__layer--deep {
+  -webkit-transform: translateZ(-600px) scale(3);
+  transform: translateZ(-600px) scale(3);
+  z-index: 2;
+}
+
+/* style the each parallax group
+--------------------------------------------- */
+
+/* first parallax layer */
+#group1 {
+  z-index: 5;
+}
+
+/* first parallax base layer */
 #group1 .parallax__layer--base {
   background-image: url("../img/background_blur.jpg");
   background-size: cover;
   background-position: center;
 }
 
+/* second parallax layer */
 #group2 {
-  z-index: 3; /* slide under groups 1 and 3 */
-}
-#group2 .parallax__layer--back {
-  /*background: rgb(123,210,102);*/
+  z-index: 3;
 }
