@@ -5,6 +5,12 @@ var maps = [];
 var markers = [];
 var infowindows = [];
 
+// default user information
+var user_info = {'lat': 0, 'lng': 0};
+
+// where the user marker goes in the marker array
+const USER_POSITION = 3;
+
 // initialises the map objects
 function initMap() {
 
@@ -15,11 +21,13 @@ function initMap() {
 
     // creates the map object
     maps[key] = new google.maps.Map(val, {
-      zoom: 14,
+      zoom: 12,
       center: myLatLng,
-      scrollwheel: false
+      scrollwheel: false,
+      backgroundColor: '#dedede'
     });
 
+    //data added in both update and init
     addMiscData(key, myLatLng);
   });
 }
@@ -39,6 +47,7 @@ function updateMap(){
     // removes the current marker from the map
     markers[key].setMap(null);
 
+    //data added in both update and init
     addMiscData(key, myLatLng);
   });
 }
@@ -57,15 +66,58 @@ function addMiscData(key, myLatLng){
     title: bestOfToronto.activities[key].name
   });
 
+  // place the marker for the user on the map
+  if(user_info.lng){
+    // create the marker
+    markers[USER_POSITION] = new google.maps.Marker({
+      position: user_info,
+      map: maps[key],
+      animation: google.maps.Animation.DROP,
+      title: 'user'
+    });
+
+    //set the icon to the blue pin
+    markers[USER_POSITION].setIcon("http://maps.google.com/mapfiles/ms/icons/blue-dot.png");
+  }
+
   // sets an information window on the marker
   infowindows[key] = new google.maps.InfoWindow({
     // have to change the title back to a user friendly format
     content: clean_name
   });
 
+  // if the marker exists, set the bounds of the map to include it
+  if(markers[USER_POSITION]){
+    // creating an array of bounds
+    var bounds = new google.maps.LatLngBounds();
+
+    // adding the two markers on the map, into the bounds array
+    bounds.extend(markers[key].getPosition());
+    bounds.extend(markers[3].getPosition());
+
+    // resize the map to fit these markers
+    maps[key].fitBounds(bounds);
+  }
+
   // display the information windows
   infowindows[key].open(maps[key], markers[key]);
 
   // i change this information here because of the pause between the refresh and the map updating
   $('.location_div>h2').eq(key).html(clean_name);
+}
+
+// used when the system gets the lat and long values for the user
+function showUserPosition(position){
+
+  // if the map has already been updated, we don't need to update it again
+  var has_updated = !(user_info.lat == 0);
+
+  // update the values for the user
+  user_info.lat = position.coords.latitude;
+  user_info.lng = position.coords.longitude;
+
+  // this should only trigger on the first page load
+  if(!has_updated){
+    updateMap();
+  }
 }

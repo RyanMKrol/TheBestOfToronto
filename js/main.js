@@ -12,10 +12,9 @@ var outstanding_ajax_calls = 0;
 // when the user presses a button
 $('button').click(function(){
 
+  // if navigator is supported, get the location and then update the map and user variable
   if (navigator.geolocation) {
-      navigator.geolocation.getCurrentPosition(showPosition, function(){alert("error");});
-  } else {
-      x.innerHTML = "Geolocation is not supported by this browser.";
+    navigator.geolocation.getCurrentPosition(showUserPosition, function(){alert("error");});
   }
 
   // get JSON data
@@ -36,11 +35,6 @@ $('button').click(function(){
     }
   });
 });
-
-function showPosition(position) {
-    var latlon = position.coords.latitude + "," + position.coords.longitude;
-    // alert(latlon);
-}
 
 // api call to get the map location of the activity
 function placeRequest(activity_object){
@@ -70,6 +64,7 @@ function placeRequest(activity_object){
         // load the script
         $.getScript( "https://maps.googleapis.com/maps/api/js?key=AIzaSyAXZ9JJRcKig6MbOcIyhLWAVPAUBrz6xcM&callback=initMap");
       } else {
+
 
         //update the maps
         updateMap();
