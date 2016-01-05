@@ -39,7 +39,7 @@ $('button').click(function(){
 
 function showPosition(position) {
     var latlon = position.coords.latitude + "," + position.coords.longitude;
-    alert(latlon);
+    // alert(latlon);
 }
 
 // api call to get the map location of the activity

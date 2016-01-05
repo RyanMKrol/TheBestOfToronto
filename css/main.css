@@ -8,7 +8,6 @@ body {
   padding: 0px;
   margin: 0px;
 }
-
 h1 {
 
   /*text will all be in uppercase and center aligned*/
@@ -18,10 +17,6 @@ h1 {
   /*font properties*/
   font-family: Helvetica;
   font-size: 100px;
-
-  /*margin properties*/
-  margin-top: 15%;
-  margin-bottom: 2.5%;
 }
 
 button {
@@ -40,33 +35,11 @@ button {
   cursor: pointer;
   outline: none;
 }
-
-.content {
-
-  /*content shouldn't fill the whole screen*/
-  width: 80%;
-}
-
 .centered {
 
   /*everything is center aligned*/
   text-align: center;
   margin: auto;
-}
-
-.parallax-window {
-  width: 100%;
-  min-height: 900px;
-  background: transparent;
-}
-
-#first_window {
-  display: inline-block;
-  top: 0px;
-  width: 100%;
-  height: 100%;
-  padding: 0px;
-  margin: 0px;
 }
 
 /*style for the maps used*/
@@ -92,4 +65,43 @@ button {
   color: black;
   font-family: Helvetica;
 
+}
+/*beggining of parallax styling*/
+.parallax {
+  perspective: 1px;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.parallax__layer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.parallax__layer--base {
+  transform: translateZ(-1px) scale(2);
+}
+.parallax__layer--back {
+  transform: translateZ(-2px) scale(3);
+}
+
+.parallax__group {
+  position: relative;
+  height: 50%;
+  transform-style: preserve-3d;
+  /*transform: translate3d(700px, 0, -800px) rotateY(30deg);*/
+
+}
+.background_div{
+  height: 100%;
+  background-image: url("../img/background_blur.jpg");
+  background-size: cover;
+}
+
+.tester{
+  height: 100%;
+  background-color: black;
 }
