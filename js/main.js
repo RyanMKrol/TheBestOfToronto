@@ -14,7 +14,7 @@ $('button').click(function(){
 
   // if navigator is supported, get the location and then update the map and user variable
   if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showUserPosition, function(){alert("error");});
+    navigator.geolocation.getCurrentPosition(showUserPosition, function(){console.log("error");});
   }
 
   // get JSON data

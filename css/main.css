@@ -58,7 +58,7 @@ body, html {
 .scroll_indicator {
   /* position attributes */
   position: absolute;
-  bottom: 0px;
+  bottom: 20px;
   z-index: 4;
 
   /* size attributes */
@@ -66,15 +66,9 @@ body, html {
   height: 3vh;
 
   /* text and background attributes */
-  background-color: rgba(222, 222, 222, 0.4);
+  /*background-color: rgba(222, 222, 222, 0.4);*/
   text-align: center;
   color: white;
-}
-
-/* get the scoll indicator centered vertically */
-.scroll_indicator i {
-  position: absolute;
-  top: -1px;
 }
 
 /* style for the map components
@@ -87,7 +81,7 @@ body, html {
   height: 100%;
   color: black;
   font-family: "HelveticaNeue-Light", Helvetica;
-  font-size: 22pt;
+  font-size: 18pt;
 }
 .centered {
   text-align: center;
@@ -204,20 +198,25 @@ body, html {
   #group2 {
     z-index: 3; /* slide under groups 1 and 3 */
     background-color: rgb(250, 250, 250);
+    height: 60vh;
   }
 
   #group3 {
-    z-index: 4; /* slide over group 2 and 4 */
+    z-index: 2; /* slide over group 2 and 4 */
     background-color: rgb(246, 246, 246);
+    height: 60vh;
   }
 
   #group4 {
-    z-index: 2; /* slide under group 3 and 5 */
+    z-index: 3; /* slide under group 3 and 5 */
     background-color: rgb(242, 242, 242);
+    height: 60vh;
   }
 
   #group5 {
-    z-index: 3; /* slide over group 4 and 6 */
+    z-index: 6; /* slide over group 4 and 6 */
+    background-color: rgb(242, 242, 242);
+    height: 8vh;
   }
 
   #group6 {
