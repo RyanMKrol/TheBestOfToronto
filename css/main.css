@@ -81,7 +81,7 @@ body, html {
   height: 100%;
   color: black;
   font-family: "HelveticaNeue-Light", Helvetica;
-  font-size: 18pt;
+  font-size: 4vh;
 }
 .centered {
   text-align: center;
@@ -214,12 +214,4 @@ body, html {
   #group5 {
     z-index: 6; /* slide over group 4 and 6 */
     background-color: rgb(242, 242, 242);
-  }
-
-  #group6 {
-    z-index: 2; /* slide under group 5 and 7 */
-  }
-
-  #group7 {
-    z-index: 3; /* slide over group 7 */
   }
