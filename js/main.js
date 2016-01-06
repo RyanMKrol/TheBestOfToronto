@@ -24,7 +24,6 @@ $('button').click(function(){
     $('#activity_title').html(json.title);
     // set each of the places objects
     for (i = 0; i < json.locations.length; i++) {
-
       bestOfToronto.activities[i] = json.locations[i];
 
       // set the titles to be something that will play nicely with the map api
@@ -60,11 +59,9 @@ function placeRequest(activity_object){
 
         // the script has been loaded and doesn't need to be laoded again
         bestOfToronto.scriptIncluded = true;
-
         // load the script
         $.getScript( "https://maps.googleapis.com/maps/api/js?key=AIzaSyAXZ9JJRcKig6MbOcIyhLWAVPAUBrz6xcM&callback=initMap");
       } else {
-
 
         //update the maps
         updateMap();
@@ -78,5 +75,18 @@ function placeRequest(activity_object){
 
 // when the page is ready simulate a refresh
 $(document).ready(function(){
+  alterFontSize();
   $('button').click()
 });
+
+$( window ).resize(function() {
+  alterFontSize();
+})
+
+function alterFontSize(){
+  if(window.innerHeight > window.innerWidth){
+    $('.location_info').css('font-size', '4vw');
+  } else {
+    $('.location_info').css('font-size', '4vh');
+  }
+}

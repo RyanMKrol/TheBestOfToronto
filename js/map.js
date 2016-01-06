@@ -5,6 +5,8 @@ var maps = [];
 var markers = [];
 var infowindows = [];
 
+var has_init = false;
+
 // default user information
 var user_info = {'lat': 0, 'lng': 0};
 
@@ -30,12 +32,14 @@ function initMap() {
     //data added in both update and init
     addMiscData(key, myLatLng);
   });
+  has_init = true;
 }
 
 // updates the maps that already exist
 function updateMap(){
 
-  // updates each map
+
+// updates each map
   $.each($('.map'), function(key, val){
 
     // gets the new latitude and longitude
@@ -118,7 +122,7 @@ function showUserPosition(position){
   user_info.lng = position.coords.longitude;
 
   // this should only trigger on the first page load
-  if(!has_updated){
+  if(!has_updated && has_init){
     updateMap();
   }
 }
