@@ -17,11 +17,28 @@ body, html {
 .title {
   width: 80%;
   text-align: center;
-  position: absolute;
+  position: fixed;
   left: 50%;
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+
+  background-image: url("../img/toronto.jpg");
+  background-size: cover;
+  background-position: center;
+
+  -webkit-filter: blur(5px);
+    -moz-filter: blur(5px);
+    -o-filter: blur(5px);
+    -ms-filter: blur(5px);
+    filter: blur(5px);
+    /*opacity: 0.4;*/
+
+  /*background-image: url("../img/background_blur.jpg");
+	background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;*/
+	/*background-attachment: fixed;*/
 }
 
 /* style for the activity header */

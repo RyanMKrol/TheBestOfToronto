@@ -75,15 +75,24 @@ function placeRequest(activity_object){
 
 // when the page is ready simulate a refresh
 $(document).ready(function(){
+
+  // change the size of the font depending on the dimensions of the screen
   alterFontSize();
+
+  // programatically update the page when it loads
   $('button').click()
 });
 
+// when the window is resized
 $( window ).resize(function() {
+
+  //change the size of the font depending on the dimensions of the screen
   alterFontSize();
 })
 
+// function to alter the size of the font depending on the aspect ratio
 function alterFontSize(){
+  
   if(window.innerHeight > window.innerWidth){
     $('.location_info').css('font-size', '4vw');
   } else {
