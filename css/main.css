@@ -185,18 +185,21 @@ body, html {
 }
 
 .activity_holder {
-  margin-top: 25px;
+  position: relative;
+  display: inline-block;
+
+  /*fixes the display block items not being aligned*/
+  vertical-align: top;
   width: 30%;
-  height: 100%;
+  height: 90%;
   top: 0px;
+  margin: 5px;
 }
 
 .holder_holders {
-  display: inline-flex;
-  flex-wrap: wrap;
   height: 100%;
   width: 100%;
-  justify-content: space-around;
+  /*margin-top: 25px;*/
 }
 
 .location_info {
@@ -216,7 +219,7 @@ body, html {
   margin: 0px;
 }
 
-@media only screen and (max-width: 900px) {
+/*@media only screen and (max-width: 900px) {
 
   .activity_holder {
     margin: 25px;
@@ -224,4 +227,4 @@ body, html {
     height: 100%;
     top: 0px;
   }
-}
+}*/

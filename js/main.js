@@ -81,6 +81,7 @@ $(document).ready(function(){
 
   // programatically update the page when it loads
   $('button').click()
+
 });
 
 // when the window is resized
@@ -88,6 +89,7 @@ $( window ).resize(function() {
 
   //change the size of the font depending on the dimensions of the screen
   alterFontSize();
+  $('body').flowtype();
 })
 
 // function to alter the size of the font depending on the aspect ratio

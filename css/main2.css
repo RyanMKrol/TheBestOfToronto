@@ -184,44 +184,77 @@ body, html {
   background-color: rgb(250, 250, 250);
 }
 
-.activity_holder {
-  margin-top: 25px;
-  width: 30%;
-  height: 100%;
-  top: 0px;
-}
+@media only screen and (max-width: 600px) {
 
-.holder_holders {
-  display: inline-flex;
-  flex-wrap: wrap;
-  height: 100%;
-  width: 100%;
-  justify-content: space-around;
-}
-
-.location_info {
-  width: 100%;
-  height: 49%;
-  color: black;
-  font-family: "HelveticaNeue-Light", Helvetica;
-  margin: 0px;
-}
-
-.location_map {
-  top: 0px;
-  height: 50%;
-  width: 100%;
-  font-family: Helvetica;
-  text-align: center;
-  margin: 0px;
-}
-
-@media only screen and (max-width: 900px) {
+  #group2 {
+    z-index: 2; /* slide under groups 1 and 3 */
+    height: 200vh;
+  }
 
   .activity_holder {
-    margin: 25px;
-    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 66%;
+    top: 0px;
+    background-color: rgb(250, 250, 250);
+  }
+
+  .holder_holders {
+    display: inline;
+    margin: auto;
+  }
+
+  .location_info {
+    width: 90%;
+    color: black;
+    font-family: "HelveticaNeue-Light", Helvetica;
+    margin: auto;
+  }
+
+  .location_map {
+    top: 0px;
+    height: 50%;
+    width: 90%;
+    font-family: Helvetica;
+    text-align: center;
+    margin: auto;
+  }
+
+}
+
+@media only screen and (min-width: 600px) {
+
+  .activity_holder {
+    margin-top: 25px;
+    width: 30%;
     height: 100%;
     top: 0px;
+
+  }
+
+  .holder_holders {
+    display: inline-flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+    justify-content: space-around;
+  }
+
+  .location_info {
+    width: 100%;
+    height: 49%;
+    color: black;
+    font-family: "HelveticaNeue-Light", Helvetica;
+    margin: 0px;
+  }
+
+  .location_map {
+    top: 0px;
+    height: 50%;
+    width: 100%;
+    font-family: Helvetica;
+    text-align: center;
+    margin: 0px;
   }
 }
