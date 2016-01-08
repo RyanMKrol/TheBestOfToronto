@@ -92,10 +92,10 @@ $( window ).resize(function() {
 
 // function to alter the size of the font depending on the aspect ratio
 function alterFontSize(){
-  
+
   if(window.innerHeight > window.innerWidth){
-    $('.location_info').css('font-size', '4vw');
+    $('.location_info').css('font-size', '3.2vw');
   } else {
-    $('.location_info').css('font-size', '4vh');
+    $('.location_info').css('font-size', '3.2vh');
   }
 }

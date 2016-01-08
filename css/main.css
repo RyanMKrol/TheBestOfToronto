@@ -81,7 +81,6 @@ body, html {
   height: 100%;
   color: black;
   font-family: "HelveticaNeue-Light", Helvetica;
-  font-size: 4vw;
 }
 .centered {
   text-align: center;
@@ -186,32 +185,87 @@ body, html {
   --------------------------------------------- */
 
   #group1 {
-    z-index: 5; /* slide over group 2 */
+    z-index: 1; /* slide over group 2 */
   }
 
   /* first parallax base layer */
-  #group1 .parallax__layer--base {
-    background-image: url("../img/toronto.jpg");
+  #group1 .parallax__layer--deep {
+    background-image: url("../img/background_blur.jpg");
     background-size: cover;
     background-position: center;
   }
+  /* first parallax base layer */
+  #group1 .parallax__layer--base {
+
+  }
 
   #group2 {
-    z-index: 4; /* slide under groups 1 and 3 */
+    z-index: 2; /* slide under groups 1 and 3 */
+    height: 60vh;
+  }
+
+  #group2 .parallax__layer--fore {
+    background-color: rgb(250, 250, 250);
+  }
+  #group2 .parallax__layer--base {
     background-color: rgb(250, 250, 250);
   }
 
   #group3 {
     z-index: 3; /* slide over group 2 and 4 */
+    height: 60vh;
+  }
+
+  #group3 .parallax__layer--fore {
+    background-color: rgb(246, 246, 246);
+  }
+  #group3 .parallax__layer--base {
     background-color: rgb(246, 246, 246);
   }
 
   #group4 {
     z-index: 4; /* slide under group 3 and 5 */
+    height: 60vh;
+  }
+
+  #group4 .parallax__layer--fore {
+    background-color: rgb(242, 242, 242);
+  }
+  #group4 .parallax__layer--base {
     background-color: rgb(242, 242, 242);
   }
 
   #group5 {
-    z-index: 6; /* slide over group 4 and 6 */
+    z-index: 3; /* slide over group 4 and 6 */
     background-color: rgb(242, 242, 242);
+    height: 10vh;
   }
+
+  /*for desktops, there will be less scrolling
+  it is different for mobiles, because the z-index has some issues when the height
+  of the layers isn't 100vh*/
+  /*@media only screen and (min-width: 500px) {
+    #group2 {
+      z-index: 2;
+      background-color: rgb(250, 250, 250);
+      height: 60vh;
+    }
+
+    #group3 {
+      z-index: 3;
+      background-color: rgb(246, 246, 246);
+      height: 60vh;
+    }
+
+    #group4 {
+      z-index: 4;
+      background-color: rgb(242, 242, 242);
+      height: 60vh;
+    }
+
+    #group5 {
+      z-index: 5;
+      background-color: rgb(242, 242, 242);
+      height: 10vh;
+    }
+  }*/
