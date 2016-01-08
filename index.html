@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <!-- own css files -->
-    <link href="css/main.css" rel="stylesheet"/>
+    <link href="css/main2.css" rel="stylesheet"/>
   </head>
 
   <body>
@@ -39,68 +39,54 @@
         </div>
         <!-- fore layer holds the map and information -->
         <div class="parallax__layer parallax__layer--fore">
+          <div class='holder_holders'>
+            <div class='activity_holder' id='item1'>
+              <!-- holds the map -->
+              <div class='location_map' id='location_one'>
+                <div class="map" id="map1"></div>
+              </div>
 
-          <!-- holds the map -->
-          <div class='location_map' id='location_one'>
-            <div class="map" id="map1"></div>
-          </div>
+              <!-- holds the location information -->
+              <div class='location_info' id='location_one'>
+                <div class='centered'>
+                  <h2></h2>
+                  <p class='description'></h3>
+                </div>
+              </div>
+            </div>
 
-          <!-- holds the location information -->
-          <div class='location_info' id='location_one'>
-            <div class='centered'>
-              <h2></h2>
-              <p class='description'></h3>
+            <div class='activity_holder' id='item2'>
+              <!-- holds the map -->
+              <div class='location_map' id='location_two'>
+                <div class="map" id="map2"></div>
+              </div>
+
+              <!-- holds the location information -->
+              <div class='location_info' id='location_two'>
+                <div class='centered'>
+                  <h2></h2>
+                  <p class='description'></h3>
+                </div>
+              </div>
+            </div>
+
+            <div class='activity_holder' id='item3'>
+              <!-- holds the map -->
+              <div class='location_map' id='location_three'>
+                <div class="map" id="map3"></div>
+              </div>
+
+              <!-- holds the location information -->
+              <div class='location_info' id='location_three'>
+                <div class='centered'>
+                  <h2></h2>
+                  <p class='description'></h3>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
-
-      <!-- third group of parallax layers -->
-    <div id="group3" class="parallax__group">
-      <div class="parallax__layer parallax__layer--base">
-      </div>
-      <!-- fore layer holds the map and information -->
-      <div class="parallax__layer parallax__layer--fore">
-
-        <!-- holds the map -->
-        <div class='location_map' id='location_one'>
-          <div class="map" id="map2"></div>
-        </div>
-
-        <!-- holds the location information -->
-        <div class='location_info' id='location_one'>
-          <div class='centered'>
-            <h2></h2>
-            <p class='description'></h3>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- fourth group of parallax layers -->
-    <div id="group4" class="parallax__group">
-      <div class="parallax__layer parallax__layer--base">
-      </div>
-
-      <!-- fore layer holds the map and information -->
-      <div class="parallax__layer parallax__layer--fore">
-
-        <!-- holds the map -->
-        <div class='location_map' id='location_one'>
-          <div class="map" id="map3"></div>
-        </div>
-
-        <!-- holds the location information -->
-        <div class='location_info' id='location_one'>
-          <div class='centered'>
-            <h2></h2>
-            <p class='description'></h3>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div id="group5" class="parallax__group">
-    </div>
   </div>
 
     <!-- library files -->
@@ -116,7 +102,6 @@
 <!--
   To Do List:
     * Add a loader for the maps
-    * Consider alternate styles
     * Consider style for the main page, this could do with some work
     * Restyle the refresh button
 -->
