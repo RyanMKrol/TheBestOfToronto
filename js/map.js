@@ -107,7 +107,7 @@ function addMiscData(key, myLatLng){
   infowindows[key].open(maps[key], markers[key]);
 
   // i change this information here because of the pause between the refresh and the map updating
-  $('.location_info h2').eq(key).html(clean_name);
+  $('.activity_holder h2').eq(key).html(clean_name);
   $('.location_info p').eq(key).html(bestOfToronto.activities[key].description);
 }
 
