@@ -20,12 +20,12 @@
       <div id="group1" class="parallax__group">
 
         <!-- base layer, holds background and scroll indicator -->
-        <div class="parallax__layer parallax__layer--deep">
+        <div class="parallax__layer parallax__layer--base">
           <div class='scroll_indicator'><i class="fa fa-angle-double-down fa-2x"></i></div>
         </div>
 
         <!-- fore layer, holds other header content -->
-        <div class="parallax__layer parallax__layer--base">
+        <div class="parallax__layer parallax__layer--fore">
           <div class="title">
             <h1 id='activity_title'></h1>
             <button id="refresh"><i class="button fa fa-refresh fa-4x"></i></button>
@@ -35,10 +35,8 @@
 
       <!-- second group of parallax layers -->
       <div id="group2" class="parallax__group">
-        <div class="parallax__layer parallax__layer--base">
-        </div>
         <!-- fore layer holds the map and information -->
-        <div class="parallax__layer parallax__layer--fore">
+        <div class="parallax__layer parallax__layer--base">
           <div class='holder_holders'>
             <div class='activity_holder' id='item1'>
               <!-- holds the map -->
@@ -48,8 +46,8 @@
 
               <!-- holds the location information -->
               <div class='location_info' id='location_one'>
-                  <h2></h2>
-                  <p class='description'></h3>
+                <h2></h2>
+                <p class='description'></h3>
               </div>
             </div>
 
@@ -61,8 +59,8 @@
 
               <!-- holds the location information -->
               <div class='location_info' id='location_two'>
-                  <h2></h2>
-                  <p class='description'></h3>
+                <h2></h2>
+                <p class='description'></h3>
               </div>
             </div>
 
@@ -74,14 +72,14 @@
 
               <!-- holds the location information -->
               <div class='location_info' id='location_three'>
-                  <h2></h2>
-                  <p class='description'></h3>
+                <h2></h2>
+                <p class='description'></h3>
               </div>
             </div>
           </div>
         </div>
       </div>
-  </div>
+    </div>
 
     <!-- library files -->
     <script src="js/lib/jquery-min.js"></script>

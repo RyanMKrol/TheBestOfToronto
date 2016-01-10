@@ -161,18 +161,18 @@ body, html {
 
 /* first parallax base layer */
 #group1 .parallax__layer--deep {
+
+}
+/* first parallax base layer */
+#group1 .parallax__layer--base {
   background-image: url("../img/background_blur.jpg");
   background-size: cover;
   background-position: center;
 }
-/* first parallax base layer */
-#group1 .parallax__layer--base {
-
-}
 
 #group2 {
   z-index: 2; /* slide under groups 1 and 3 */
-  height: 100vh;
+  height: 60vh;
 }
 
 #group2 .parallax__layer--fore {
@@ -191,14 +191,14 @@ body, html {
   /*fixes the display block items not being aligned*/
   vertical-align: top;
   width: 30%;
-  height: 90%;
+  height: 100%;
   top: 0px;
   margin: 5px;
 }
 
 .holder_holders {
   height: 100%;
-  width: 100%;
+  text-align: center;
   /*margin-top: 25px;*/
 }
 
@@ -208,6 +208,14 @@ body, html {
   color: black;
   font-family: "HelveticaNeue-Light", Helvetica;
   margin: 0px;
+
+}
+
+.location_info p {
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;
+  overflow-y: hidden;
 }
 
 .location_map {
@@ -218,13 +226,3 @@ body, html {
   text-align: center;
   margin: 0px;
 }
-
-/*@media only screen and (max-width: 900px) {
-
-  .activity_holder {
-    margin: 25px;
-    width: 300px;
-    height: 100%;
-    top: 0px;
-  }
-}*/
