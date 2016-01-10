@@ -14,7 +14,7 @@ body, html {
 }
 
  /* centre the content in the parallax layers */
-.title {
+.header_content {
   width: 80%;
   text-align: center;
   position: absolute;
@@ -22,6 +22,61 @@ body, html {
   top: 50%;
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
+}
+
+/*holds the activity holders and centers them all*/
+.holder_holders {
+  height: 100%;
+  text-align: center;
+}
+
+/*holds all of the information about an activity*/
+.activity_holder {
+  position: relative;
+  display: inline-block;
+
+  /*fixes the display block items not being aligned*/
+  vertical-align: top;
+  width: 30%;
+  height: 100%;
+  top: 0px;
+  margin: 5px;
+}
+
+/*holds the information about the activity*/
+.location_info {
+  width: 100%;
+  color: black;
+  font-family: "HelveticaNeue-Light", Helvetica;
+  margin: 0px;
+  font-size: 4vh;
+
+  /*sets the maximum size of the div*/
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow-y: hidden;
+}
+
+/*div holding the map*/
+.location_map {
+  height: 50%;
+  width: 100%;
+  font-family: Helvetica;
+  text-align: center;
+  margin: 0px;
+}
+
+/*title of the activity style*/
+.title {
+  color: black;
+  font-family: "HelveticaNeue-Light", Helvetica;
+  margin-bottom: 5px;
+
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow-y: hidden;
 }
 
 /* style for the activity header */
@@ -76,12 +131,21 @@ body, html {
 
 /* style for the maps themselves */
 .map {
+  /*size properties*/
   height: 90%;
   width: 100%;
+
+  /*text properties*/
   color: black;
+
+  /*relative sizing properties*/
   margin: auto;
   padding: auto;
+
+  /*background colour before the map loads*/
   background-color: #dedede;
+
+  /*positional properties*/
   z-index: 0;
 }
 
@@ -153,9 +217,7 @@ body, html {
 /* style the each parallax group
 --------------------------------------------- */
 
-/* style the groups
---------------------------------------------- */
-
+/*the first parallax group*/
 #group1 {
   z-index: 1; /* slide over group 2 */
 }
@@ -171,76 +233,25 @@ body, html {
   background-position: center;
 }
 
+/*the second parallax group*/
 #group2 {
   z-index: 2; /* slide under groups 1 and 3 */
   height: 70vh;
 }
 
+/*the fore layer in the parallax group*/
 #group2 .parallax__layer--fore {
   text-align: center;
   justify-content: space-around;
 }
 
-.activity_holder {
-  position: relative;
-  display: inline-block;
-
-  /*fixes the display block items not being aligned*/
-  vertical-align: top;
-  width: 30%;
-  height: 100%;
-  top: 0px;
-  margin: 5px;
-}
-
-.holder_holders {
-  height: 100%;
-  text-align: center;
-}
-
-.location_info {
-  width: 100%;
-  color: black;
-  font-family: "HelveticaNeue-Light", Helvetica;
-  margin: 0px;
-  font-size: 4vh;
-
-}
-
-.activity_holder h2 {
-  display: -webkit-box;
-  -webkit-line-clamp: 1;
-  -webkit-box-orient: vertical;
-  overflow-y: hidden;
-}
-
-/*does the text overflowing*/
-.location_info p {
-  display: -webkit-box;
-  -webkit-line-clamp: 6;
-  -webkit-box-orient: vertical;
-  overflow-y: hidden;
-}
-
-.location_map {
-  height: 50%;
-  width: 100%;
-  font-family: Helvetica;
-  text-align: center;
-  margin: 0px;
-}
-
-h2 {
-  color: black;
-  font-family: "HelveticaNeue-Light", Helvetica;
-  margin-bottom: 5px;
-}
+/* style mobile devices
+--------------------------------------------- */
 
 /*used for mobile screens*/
 @media only screen and (max-width: 600px) {
 
   .activity_holder {
-
     /*displays each div in list form*/
     display: block;
 
