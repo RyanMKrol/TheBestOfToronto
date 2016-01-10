@@ -9,30 +9,19 @@ bestOfToronto.activities = [];
 // used to keep track of the ajax requests
 var outstanding_ajax_calls = 0;
 
+$('#left, #right').click(function(){
+  $( "#activity_title" ).animate({
+    left: "-=5000px",
+  }, 1000, function() {
+    alert("ting happened");
+  });
+  console.log(this);
+});
+
 // when the user presses a button
 $('button').click(function(){
 
-  // if navigator is supported, get the location and then update the map and user variable
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showUserPosition, function(){console.log("error");});
-  }
-
-  // get JSON data
-  $.getJSON( "php/update_data.php", function( json ) {
-    console.log(json);
-    // set the title of the page
-    $('#activity_title').html(json.title);
-    // set each of the places objects
-    for (i = 0; i < json.locations.length; i++) {
-      bestOfToronto.activities[i] = json.locations[i];
-
-      // set the titles to be something that will play nicely with the map api
-      bestOfToronto.activities[i].name = bestOfToronto.activities[i].name.replace(/ /g, "+");
-
-      // get the place information for the activity
-      placeRequest(bestOfToronto.activities[i]);
-    }
-  });
+  // getPlaceData();
 });
 
 // api call to get the map location of the activity
@@ -77,6 +66,29 @@ function placeRequest(activity_object){
 $(document).ready(function(){
 
   // programatically update the page when it loads
-  $('button').click()
+  getPlaceData();
 
 });
+
+function getPlaceData(){
+  if (navigator.geolocation) {
+    navigator.geolocation.getCurrentPosition(showUserPosition, function(){console.log("error");});
+  }
+
+  // get JSON data
+  $.getJSON( "php/update_data.php", function( json ) {
+    console.log(json);
+    // set the title of the page
+    $('#activity_title').html(json.title);
+    // set each of the places objects
+    for (i = 0; i < json.locations.length; i++) {
+      bestOfToronto.activities[i] = json.locations[i];
+
+      // set the titles to be something that will play nicely with the map api
+      bestOfToronto.activities[i].name = bestOfToronto.activities[i].name.replace(/ /g, "+");
+
+      // get the place information for the activity
+      placeRequest(bestOfToronto.activities[i]);
+    }
+  });
+}

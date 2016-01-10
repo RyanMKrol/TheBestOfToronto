@@ -13,13 +13,49 @@ body, html {
   padding:0;
 }
 
- /* centre the content in the parallax layers */
-.header_content {
-  width: 80%;
-  text-align: center;
+button {
   position: absolute;
+  background-color: #dedede;
+  cursor: pointer;
+  outline: none;
+  width: 3%;
+  height: 20%;
+
+  min-width: 30px;
+  font-size: 100%;
+}
+
+#left{
+  left: 0%;
+  top: 50%;
+  -webkit-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+#right{
+  right: 0%;
+  top: 50%;
+  -webkit-transform: translate(0%, -50%);
+  transform: translate(0%, -50%);
+}
+
+/* centre the content in the parallax layers */
+#activity_title {
+
+  /*positional and size properties*/
+  position: absolute;
+  width: 80%;
   left: 50%;
   top: 50%;
+
+  /* text will all be in uppercase and center aligned */
+  text-transform: uppercase;
+  text-align: center;
+
+  /* font properties */
+  font-family: Helvetica;
+  font-size: 6vw;
+
+  /*centers the component*/
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
 }
@@ -77,36 +113,6 @@ body, html {
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
   overflow-y: hidden;
-}
-
-/* style for the activity header */
-#activity_title {
-
-  /* text will all be in uppercase and center aligned */
-  text-transform: uppercase;
-  text-align: center;
-
-  /* font properties */
-  font-family: Helvetica;
-  font-size: 6vw;
-}
-
-/* style for the refresh button */
-#refresh {
-
-  /* size properties */
-  width: 60px;
-  height: 60px;
-
-  /* border and background properties */
-  border-radius: 50%;
-	border:2px solid #cfdcec;
-  background: #404040;
-
-  /* misc properties */
-  color: white;
-  cursor: pointer;
-  outline: none;
 }
 
 /* scroll for the bar telling the user to scroll */
@@ -191,6 +197,9 @@ body, html {
   -webkit-transform: translateZ(90px) scale(.7);
   transform: translateZ(90px) scale(.7);
   z-index: 1;
+
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
 }
 
 /* base layer */
