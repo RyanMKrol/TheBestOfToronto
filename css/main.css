@@ -15,22 +15,19 @@ body, html {
 
 button {
   position: absolute;
-  background-color: #dedede;
-  cursor: pointer;
-  outline: none;
-  width: 3%;
-  height: 20%;
-
-  min-width: 30px;
-  font-size: 100%;
+    /* background-color: #dedede; */
+    cursor: pointer;
+    outline: none;
+    /* width: 3%; */
+    /* height: 20%; */
+    background-color: rgba(255, 255, 255,0.2);
+    color: white;
+    padding: 10px 5px;
+    font-size: 100%;
+    border-radius: 7%;
+    border-style: none;
 }
 
-#left{
-  left: 0%;
-  top: 50%;
-  -webkit-transform: translate(0%, -50%);
-  transform: translate(0%, -50%);
-}
 #right{
   right: 0%;
   top: 50%;
@@ -39,7 +36,7 @@ button {
 }
 
 /* centre the content in the parallax layers */
-#activity_title {
+.activity_title {
 
   /*positional and size properties*/
   position: absolute;
@@ -116,7 +113,7 @@ button {
 }
 
 /* scroll for the bar telling the user to scroll */
-.scroll_indicator {
+#scroll_indicator {
   /* position attributes */
   position: absolute;
   bottom: 20px;
@@ -130,6 +127,15 @@ button {
   /*background-color: rgba(222, 222, 222, 0.4);*/
   text-align: center;
   color: white;
+}
+
+#indicator {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /*centers the component*/
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 
 /* style for the map components
@@ -258,7 +264,7 @@ button {
 --------------------------------------------- */
 
 /*used for mobile screens*/
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 750px) {
 
   .activity_holder {
     /*displays each div in list form*/

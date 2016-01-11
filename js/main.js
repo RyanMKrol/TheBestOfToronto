@@ -9,14 +9,42 @@ bestOfToronto.activities = [];
 // used to keep track of the ajax requests
 var outstanding_ajax_calls = 0;
 
-$('#left, #right').click(function(){
-  $( "#activity_title" ).animate({
+// when the right button is clicked
+$('#right').click(function(){
+
+  // gets the new place data
+  getPlaceData();
+
+  // make a clone of the title to act as the old title
+  $('#title').clone().each(function(){
+    this.id = 'clone';
+  }).insertAfter($('#title'));
+
+  // move the actual title element out of view
+  $('#title').css('left', '+=5000px');
+
+  // move both the clone and title to the left
+  $( ".activity_title" ).animate({
     left: "-=5000px",
   }, 1000, function() {
-    alert("ting happened");
+
+    // remove the clone
+    $('#clone').remove();
   });
-  console.log(this);
+
+  // make the scroll indicator bounce to tell the user there's a new set of things
+  bounceIndicator();
 });
+
+// bounces the scroll indicator
+function bounceIndicator(){
+
+  // bouncing scroll indicator
+  for(i = 0; i < 3; i++){
+    $( "#scroll_indicator" ).animate({bottom: '-=25'}, 400);
+    $( "#scroll_indicator" ).animate({bottom: '+=25'}, 400);
+  }
+}
 
 // when the user presses a button
 $('button').click(function(){
@@ -77,9 +105,8 @@ function getPlaceData(){
 
   // get JSON data
   $.getJSON( "php/update_data.php", function( json ) {
-    console.log(json);
     // set the title of the page
-    $('#activity_title').html(json.title);
+    $('#title').html(json.title);
     // set each of the places objects
     for (i = 0; i < json.locations.length; i++) {
       bestOfToronto.activities[i] = json.locations[i];

@@ -23,7 +23,7 @@ function initMap() {
 
     // creates the map object
     maps[key] = new google.maps.Map(val, {
-      zoom: 12,
+      zoom: 15,
       center: myLatLng,
       scrollwheel: false,
       backgroundColor: '#dedede'
@@ -38,9 +38,10 @@ function initMap() {
 // updates the maps that already exist
 function updateMap(){
 
-
 // updates each map
   $.each($('.map'), function(key, val){
+
+    console.log(maps[key].getZoom());
 
     // gets the new latitude and longitude
     var myLatLng = {lat: bestOfToronto.activities[key].lat, lng: bestOfToronto.activities[key].lng};
@@ -92,12 +93,13 @@ function addMiscData(key, myLatLng){
 
   // if the marker exists, set the bounds of the map to include it
   if(markers[USER_POSITION]){
+    maps[key].fitBounds(new google.maps.LatLngBounds(null));
     // creating an array of bounds
     var bounds = new google.maps.LatLngBounds();
 
     // adding the two markers on the map, into the bounds array
     bounds.extend(markers[key].getPosition());
-    bounds.extend(markers[3].getPosition());
+    bounds.extend(markers[USER_POSITION].getPosition());
 
     // resize the map to fit these markers
     maps[key].fitBounds(bounds);
