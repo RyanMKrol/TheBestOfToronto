@@ -2,6 +2,9 @@
 <html lang="en">
   <head>
 
+    <!-- title of the page -->
+    <title>Random Activities in Toronto</title>
+
     <!-- favicon -->
     <link rel="icon" type="image/png" href="img/toronto.png">
 
@@ -21,7 +24,7 @@
 
         <!-- base layer, holds background and scroll indicator -->
         <div class="parallax__layer parallax__layer--base">
-          <div id='scroll_indicator'><i id='indicator' class="fa fa-angle-double-down fa-2x"></i></div>
+          <div id='scroll_indicator'><i id='indicator' class="fa fa-angle-down fa-2x"></i></div>
         </div>
 
         <!-- fore layer, holds other header content -->
@@ -39,7 +42,7 @@
 
             <div class='activity_holder' id='item1'>
               <!-- holds the map -->
-              <h2 class='title'></h2>
+              <h2><a class='title' target="_blank"></a></h2>
               <div class='location_map' id='location_one'>
                 <div class="map" id="map1"></div>
               </div>
@@ -52,7 +55,7 @@
 
             <div class='activity_holder' id='item2'>
               <!-- holds the map -->
-              <h2 class='title'></h2>
+              <h2><a class='title' target="_blank"></a></h2>
               <div class='location_map' id='location_two'>
                 <div class="map" id="map2"></div>
               </div>
@@ -65,7 +68,7 @@
 
             <div class='activity_holder' id='item3'>
               <!-- holds the map -->
-              <h2 class='title'></h2>
+              <h2><a class='title' target="_blank"></a></h2>
               <div class='location_map' id='location_three'>
                 <div class="map" id="map3"></div>
               </div>
@@ -89,10 +92,3 @@
 
   </body>
 </html>
-
-<!--
-  To Do List:
-    * Add a loader for the maps
-    * Consider style for the main page, this could do with some work
-    * Restyle the refresh button
--->

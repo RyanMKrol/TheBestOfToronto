@@ -28,6 +28,8 @@ $('#right').click(function(){
     left: "-=5000px",
   }, 1000, function() {
 
+    // gets rid of the inline css style which will put the title in odd places on window resizes
+    $('#title').css('left', '');
     // remove the clone
     $('#clone').remove();
   });
@@ -45,12 +47,6 @@ function bounceIndicator(){
     $( "#scroll_indicator" ).animate({bottom: '+=25'}, 400);
   }
 }
-
-// when the user presses a button
-$('button').click(function(){
-
-  // getPlaceData();
-});
 
 // api call to get the map location of the activity
 function placeRequest(activity_object){
@@ -110,6 +106,7 @@ function getPlaceData(){
     // set each of the places objects
     for (i = 0; i < json.locations.length; i++) {
       bestOfToronto.activities[i] = json.locations[i];
+      bestOfToronto.activities[i].url = base_link + json.locations[i].url;
 
       // set the titles to be something that will play nicely with the map api
       bestOfToronto.activities[i].name = bestOfToronto.activities[i].name.replace(/ /g, "+");
