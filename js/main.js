@@ -15,24 +15,24 @@ $('#right').click(function(){
   // gets the new place data
   getPlaceData();
 
-  // make a clone of the title to act as the old title
-  $('#title').clone().each(function(){
-    this.id = 'clone';
-  }).insertAfter($('#title'));
-
-  // move the actual title element out of view
-  $('#title').css('left', '+=5000px');
-
-  // move both the clone and title to the left
-  $( ".activity_title" ).animate({
-    left: "-=5000px",
-  }, 1000, function() {
-
-    // gets rid of the inline css style which will put the title in odd places on window resizes
-    $('#title').css('left', '');
-    // remove the clone
-    $('#clone').remove();
-  });
+  // // make a clone of the title to act as the old title
+  // $('#title').clone().each(function(){
+  //   this.id = 'clone';
+  // }).insertAfter($('#title'));
+  //
+  // // move the actual title element out of view
+  // $('#title').css('left', '+=5000px');
+  //
+  // // move both the clone and title to the left
+  // $( ".activity_title" ).animate({
+  //   left: "-=5000px",
+  // }, 1000, function() {
+  //
+  //   // gets rid of the inline css style which will put the title in odd places on window resizes
+  //   $('#title').css('left', '');
+  //   // remove the clone
+  //   $('#clone').remove();
+  // });
 
   // make the scroll indicator bounce to tell the user there's a new set of things
   bounceIndicator();
