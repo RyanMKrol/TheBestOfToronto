@@ -18,6 +18,7 @@ function initMap() {
 
   // creates each map
   $.each($('.map'), function(key, val){
+
     // going through each map
     var myLatLng = {lat: bestOfToronto.activities[key].lat, lng: bestOfToronto.activities[key].lng};
 
@@ -32,6 +33,7 @@ function initMap() {
     //data added in both update and init
     addMiscData(key, myLatLng);
   });
+
   has_init = true;
 }
 
@@ -40,8 +42,6 @@ function updateMap(){
 
 // updates each map
   $.each($('.map'), function(key, val){
-
-    console.log(maps[key].getZoom());
 
     // gets the new latitude and longitude
     var myLatLng = {lat: bestOfToronto.activities[key].lat, lng: bestOfToronto.activities[key].lng};
@@ -73,6 +73,7 @@ function addMiscData(key, myLatLng){
 
   // place the marker for the user on the map
   if(user_info.lng){
+
     // create the marker
     markers[USER_POSITION] = new google.maps.Marker({
       position: user_info,

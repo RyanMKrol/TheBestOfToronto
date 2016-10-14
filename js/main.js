@@ -1,7 +1,6 @@
 var bestOfToronto =  bestOfToronto || {};
 
 var base_link = 'http://www.blogto.com';
-//when you press the refresh button, get new data
 
 // used to store the activities
 bestOfToronto.activities = [];
@@ -9,39 +8,14 @@ bestOfToronto.activities = [];
 // used to keep track of the ajax requests
 var outstanding_ajax_calls = 0;
 
-// when the right button is clicked
+// when the right button is clicked, update the activities, and show the user that change has happened
 $('#right').click(function(){
-
-  // gets the new place data
   getPlaceData();
-
-  // // make a clone of the title to act as the old title
-  // $('#title').clone().each(function(){
-  //   this.id = 'clone';
-  // }).insertAfter($('#title'));
-  //
-  // // move the actual title element out of view
-  // $('#title').css('left', '+=5000px');
-  //
-  // // move both the clone and title to the left
-  // $( ".activity_title" ).animate({
-  //   left: "-=5000px",
-  // }, 1000, function() {
-  //
-  //   // gets rid of the inline css style which will put the title in odd places on window resizes
-  //   $('#title').css('left', '');
-  //   // remove the clone
-  //   $('#clone').remove();
-  // });
-
-  // make the scroll indicator bounce to tell the user there's a new set of things
   bounceIndicator();
 });
 
 // bounces the scroll indicator
 function bounceIndicator(){
-
-  // bouncing scroll indicator
   for(i = 0; i < 3; i++){
     $( "#scroll_indicator" ).animate({bottom: '-=25'}, 400);
     $( "#scroll_indicator" ).animate({bottom: '+=25'}, 400);

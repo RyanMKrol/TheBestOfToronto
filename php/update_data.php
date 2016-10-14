@@ -28,5 +28,4 @@
 
   // print out the json array
   echo json_encode($json_response);
-
 ?>
