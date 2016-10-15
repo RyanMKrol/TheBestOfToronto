@@ -16,7 +16,7 @@ while read p; do
   full_website="$website$url/";
 
   #stores the raw data from the page
-  raw_data_file_name="/var/www/uplaylist.xyz/toronto/scripts/data_store/big_data/$title.txt";
+  raw_data_file_name="/var/www/thebestoftoronto.co/scripts/data_store/big_data/$title.txt";
 
   #gets the raw data for the page
   curl "$full_website" > "$raw_data_file_name";

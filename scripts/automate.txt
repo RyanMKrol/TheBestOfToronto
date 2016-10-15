@@ -1,1 +1,3 @@
-50 17 * * * sh /var/www/uplaylist.xyz/toronto/scripts/update_data_store.sh > /var/www/uplaylist.xyz/toronto/scripts/data_store/log.txt
+0 17 * * * sh /var/www/thebestoftoronto.co/scripts/create_index.sh > /var/www/thebestoftoronto.co/scripts/log.txt
+10 17 * * * sh /var/www/thebestoftoronto.co/scripts/update_raw_data.sh >> /var/www/thebestoftoronto.co/scripts/log.txt
+20 17 * * * sh /var/www/thebestoftoronto.co/scripts/update_specific_data.sh >> /var/www/thebestoftoronto.co/scripts/log.txt
