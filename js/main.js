@@ -7,19 +7,30 @@ bestOfToronto.activities = [];
 
 // used to keep track of the ajax requests
 var outstanding_ajax_calls = 0;
-
+var bounces = 3;
+var inCall = false;
 // when the right button is clicked, update the activities, and show the user that change has happened
 $('#right').click(function(){
   getPlaceData();
-  bounceIndicator();
+  bounces = 3;
+  if(!inCall){
+    bounceIndicator();
+  }
 });
 
 // bounces the scroll indicator
 function bounceIndicator(){
-  for(i = 0; i < 3; i++){
-    $( "#scroll_indicator" ).animate({bottom: '-=25'}, 400);
-    $( "#scroll_indicator" ).animate({bottom: '+=25'}, 400);
-  }
+  inCall = true;
+  $( "#scroll_indicator" ).animate({bottom: '-=25'}, 400, function(){
+    $( "#scroll_indicator" ).animate({bottom: '+=25'}, 400,function(){
+      if(bounces > 1){
+        bounces--;
+        bounceIndicator();
+      } else {
+        inCall = false;
+      }
+    });
+  });
 }
 
 // api call to get the map location of the activity
